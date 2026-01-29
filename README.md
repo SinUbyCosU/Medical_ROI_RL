@@ -1,15 +1,14 @@
 # Medical ROI RL: Faithful and Bias-Aware Medical Image Analysis
 
-A comprehensive research project focused on developing trustworthy vision-language models for medical imaging, with emphasis on Region of Interest (ROI) consistency, bias mitigation, and interpretability through Contrastive Activation Addition (CAA).
+A research project focused on developing trustworthy and interpretable deep learning models for medical imaging. This work addresses critical challenges in AI safety for healthcare applications through ROI-based faithfulness constraints and comprehensive bias detection and mitigation.
 
 ## 🔬 Project Overview
 
-This repository contains research code for training and analyzing medical imaging models with built-in faithfulness guarantees, bias detection, and mitigation strategies. The work spans multiple critical areas of AI safety in medical imaging:
+This repository contains research implementations for training and evaluating medical imaging models with built-in interpretability and fairness guarantees. The work addresses three key areas:
 
-1. **ROI Consistency Training**: Models that provide interpretable evidence for their predictions
-2. **Bias Analysis & Mitigation**: Comprehensive testing and correction of demographic biases
-3. **Contrastive Activation Addition (CAA)**: Steering vectors for controlled model behavior
-4. **Hallucination Detection**: Testing and validation on CheXpert benchmark
+1. **ROI Consistency Training**: Deep learning models that provide visual evidence for their diagnostic predictions through interpretable saliency maps
+2. **Bias Detection & Mitigation**: Systematic identification and correction of demographic biases in model outputs
+3. **Benchmarking & Validation**: Rigorous evaluation on CheXpert and NIH Chest X-ray datasets
 
 ## 📁 Repository Structure
 
@@ -49,19 +48,6 @@ Comprehensive bias detection, analysis, and mitigation pipeline.
 - `run_regen_pipeline.py`: Regenerate biased outputs
 - `run_smart_fix_pipeline.py`: Automated bias correction
 - `launch_regen_pipeline.sh`: Batch processing launcher
-
-### CAA/
-Contrastive Activation Addition for model steering.
-
-- `extract_caa_vector.py`: Extract steering vectors from activation differences
-- `caa_model.py`: Model wrapper with CAA injection
-- `run_caa_experiment.py`: Run steering experiments
-- `judge_outputs.py`: Evaluate steered outputs
-
-**Applications:**
-- Cross-lingual steering (English ↔ Hinglish)
-- Behavioral control (instructional density, jailbreak resistance)
-- Interpretable model intervention
 
 ### chexpert-test-set-labels/
 Official CheXpert test set with ground truth labels and radiologist annotations.
@@ -141,34 +127,29 @@ python run_caa_experiment.py
 
 # Evaluate results
 python judge_outputs.py
-```
+```Inference on Test Images
 
-## 📊 Key Components
-
-### ROI Consistency Training
-The model learns to:
-1. Predict pathologies from full chest X-rays
-2. Generate saliency masks highlighting relevant regions
-3. Maintain consistent predictions when shown only the highlighted ROI
-4. Decrease confidence when the ROI is removed (masked out)
-
-**Loss Function:**
-$$\mathcal{L} = \alpha \mathcal{L}_{BCE} + \beta \mathcal{L}_{consistency} + \gamma \mathcal{L}_{drop} + \delta \mathcal{L}_{sparsity}$$
+```bash
+cd VLM-MED
+python infer_roi_consistency.py \
+  --checkpoint checkpoints/roi_consistency.pt \
+  --image /path/to/chest_xray.jpg \
+  --keep_ratio 0.1 \
+  --save_mask output/saliency_mask.png \
+  --save_crop output/roi_crop.png\mathcal{L}_{BCE} + \beta \mathcal{L}_{consistency} + \gamma \mathcal{L}_{drop} + \delta \mathcal{L}_{sparsity}$$
 
 ### Bias Mitigation Pipeline
 1. **Detection**: Multi-model generation with demographic variations
 2. **Analysis**: NLP-based bias metrics, tone analysis, token distributions
 3. **Mitigation**: Smart fix strategies targeting low-quality, biased outputs
-4. **Validation**: Adversarial testing and quality re-evaluation
+A systematic approach to ensuring fairness in medical AI:
 
-### CAA Steering
-Contrastive steering vectors extracted from:
-$$v_{CAA} = \mathbb{E}[\text{activations}(x_{positive})] - \mathbb{E}[\text{activations}(x_{negative})]$$
+1. **Detection Phase**: Generate model outputs across diverse demographic variations
+2. **Analysis Phase**: Compute NLP-based bias metrics, tone analysis, and token distribution patterns
+3. **Mitigation Phase**: Apply targeted correction strategies to low-quality or biased outputs
+4. **Validation Phase**: Adversarial testing and quality re-evaluation to verify improvements
 
-Injected during generation with norm-preserving scaling.
-
-## 📝 Citation
-
+The pipeline supports multiple evaluation frameworks including quality scoring, safety assessment, and demographic parity analysis
 If you use this code in your research, please cite:
 
 ```bibtex
@@ -201,7 +182,7 @@ For questions and collaborations, please open an issue on GitHub.
 - CheXpert: [https://stanfordmlgroup.github.io/competitions/chexpert/](https://stanfordmlgroup.github.io/competitions/chexpert/)
 - NIH Chest X-rays: [https://nihcc.app.box.com/v/ChestXray-NIHCC](https://nihcc.app.box.com/v/ChestXray-NIHCC)
 - Contrastive Activation Addition: [CAA Paper](https://arxiv.org/abs/2312.06681)
+Datasets & Resources
 
----
-
-**Status**: Active Research Project | Last Updated: January 2026
+- **CheXpert Dataset**: [https://stanfordmlgroup.github.io/competitions/chexpert/](https://stanfordmlgroup.github.io/competitions/chexpert/)
+- **NIH Chest X-rays**: [https://nihcc.app.box.com/v/ChestXray-NIHCC](https://nihcc.app.box.com/v/ChestXray-NIHCC

@@ -1,0 +1,62 @@
+================================================================================
+RESUMING LLaMA Guard 3 judging from where it stopped...
+================================================================================
+
+📊 Already processed: 3560 entries
+
+
+────────────────────────────────────────────────────────────────────────────────
+⊘ Skipping outputs_local/PromptPersona_Full_600_mistral_7b.jsonl (269 outputs < 600 required)
+
+────────────────────────────────────────────────────────────────────────────────
+⊘ Skipping outputs_local/PromptPersona_Full_600_phi3_medium.jsonl (89 outputs < 600 required)
+
+────────────────────────────────────────────────────────────────────────────────
+📝 Resuming outputs_local/PromptPersona_Full_600_qwen25_7b.jsonl (600/600 already done)...
+✅ Completed outputs_local/PromptPersona_Full_600_qwen25_7b.jsonl: 600/600
+
+────────────────────────────────────────────────────────────────────────────────
+📝 Resuming outputs_local/PromptPersona_Full_600_yi15_6b.jsonl (586/600 already done)...
+✅ Completed outputs_local/PromptPersona_Full_600_yi15_6b.jsonl: 586/600
+
+────────────────────────────────────────────────────────────────────────────────
+📝 Resuming outputs_local/PromptPersona_Full_600_zephyr_7b.jsonl (600/600 already done)...
+✅ Completed outputs_local/PromptPersona_Full_600_zephyr_7b.jsonl: 600/600
+
+────────────────────────────────────────────────────────────────────────────────
+📝 Resuming outputs_local/PromptPersona_Full_600_qwen2_7b.jsonl (600/600 already done)...
+✅ Completed outputs_local/PromptPersona_Full_600_qwen2_7b.jsonl: 600/600
+
+────────────────────────────────────────────────────────────────────────────────
+📝 Resuming outputs_local/PromptPersona_Full_600_openhermes_mistral_7b.jsonl (581/600 already done)...
+✅ Completed outputs_local/PromptPersona_Full_600_openhermes_mistral_7b.jsonl: 581/600
+
+────────────────────────────────────────────────────────────────────────────────
+📝 Resuming outputs_local/PromptPersona_Full_600_nous_hermes_mistral_7b.jsonl (593/600 already done)...
+✅ Completed outputs_local/PromptPersona_Full_600_nous_hermes_mistral_7b.jsonl: 593/600
+
+────────────────────────────────────────────────────────────────────────────────
+📊 Resuming outputs/PromptPersona_Full_600_gemini_flash.csv (0/600 already done)...
+✅ Completed outputs/PromptPersona_Full_600_gemini_flash.csv: 0/600
+
+================================================================================
+VERIFICATION: Checking completion status...
+================================================================================
+
+⏳ outputs_local/PromptPersona_Full_600_mistral_7b.jsonl: 0/600 (INCOMPLETE)
+⏳ outputs_local/PromptPersona_Full_600_phi3_medium.jsonl: 0/600 (INCOMPLETE)
+✅ outputs_local/PromptPersona_Full_600_qwen25_7b.jsonl: 600/600+ ✓ COMPLETE
+⏳ outputs_local/PromptPersona_Full_600_yi15_6b.jsonl: 586/600 (INCOMPLETE)
+✅ outputs_local/PromptPersona_Full_600_zephyr_7b.jsonl: 600/600+ ✓ COMPLETE
+✅ outputs_local/PromptPersona_Full_600_qwen2_7b.jsonl: 600/600+ ✓ COMPLETE
+⏳ outputs_local/PromptPersona_Full_600_openhermes_mistral_7b.jsonl: 581/600 (INCOMPLETE)
+⏳ outputs_local/PromptPersona_Full_600_nous_hermes_mistral_7b.jsonl: 593/600 (INCOMPLETE)
+⏳ outputs/PromptPersona_Full_600_gemini_flash.csv: 0/600 (INCOMPLETE)
+
+================================================================================
+⏳ Processing still in progress...
+================================================================================
+
+
+📈 New entries processed in this run: 0
+📁 Total entries in output: 3560

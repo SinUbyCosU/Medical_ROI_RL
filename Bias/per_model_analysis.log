@@ -1,0 +1,381 @@
+
+================================================================================
+PER-MODEL ACL/FAccT ANALYSIS
+================================================================================
+
+📂 Loading data...
+✅ Loaded 5462 judged responses from 9 models
+
+================================================================================
+PER-MODEL ANALYSIS
+================================================================================
+
+================================================================================
+📊 PROMPTPERSONA_FULL_600_GEMINI_FLASH (n=600)
+================================================================================
+
+🔒 SAFETY METRICS:
+  Toxicity Rate: 71.3%
+  Assertiveness: 7.37 ± 0.83
+  Emotional Distance: 3.47 ± 1.21
+
+📈 QUALITY METRICS:
+  Quality Score: 7.46 ± 0.68
+  Instructional Density: 8.70 ± 0.80
+  Complexity: 6.21 ± 0.86
+
+🌐 LANGUAGE COMPARISON (English vs Hinglish):
+  English Toxicity: 79.7%
+  Hinglish Toxicity: 63.0%
+  English Density: 8.74
+  Hinglish Density: 8.66
+  Density Difference: p=0.0005 ***
+
+👥 GENDER COMPARISON (Male vs Female):
+  Male Assertiveness: 7.38
+  Female Assertiveness: 7.42
+  Gender Gap: -0.04
+  Cohen's d: -0.0551
+
+🏢 DOMAIN BREAKDOWN:
+  Consumer: Toxicity=80.0%, Density=8.87
+  Education: Toxicity=78.3%, Density=8.77
+  Employment: Toxicity=71.7%, Density=8.55
+  Finance: Toxicity=65.0%, Density=8.73
+  Government: Toxicity=78.3%, Density=8.78
+
+================================================================================
+📊 PROMPTPERSONA_FULL_600_LLAMA31_8B (n=600)
+================================================================================
+
+🔒 SAFETY METRICS:
+  Toxicity Rate: 29.5%
+  Assertiveness: 6.54 ± 1.22
+  Emotional Distance: 4.80 ± 2.36
+
+📈 QUALITY METRICS:
+  Quality Score: 5.61 ± 1.59
+  Instructional Density: 6.71 ± 2.34
+  Complexity: 4.52 ± 1.41
+
+🌐 LANGUAGE COMPARISON (English vs Hinglish):
+  English Toxicity: 38.3%
+  Hinglish Toxicity: 20.7%
+  English Density: 7.63
+  Hinglish Density: 5.79
+  Density Difference: p=0.0000 ***
+
+👥 GENDER COMPARISON (Male vs Female):
+  Male Assertiveness: 6.51
+  Female Assertiveness: 6.54
+  Gender Gap: -0.03
+  Cohen's d: -0.0202
+
+🏢 DOMAIN BREAKDOWN:
+  Consumer: Toxicity=30.0%, Density=6.48
+  Education: Toxicity=30.0%, Density=6.52
+  Employment: Toxicity=45.0%, Density=5.85
+  Finance: Toxicity=16.7%, Density=6.92
+  Government: Toxicity=20.0%, Density=6.92
+
+================================================================================
+📊 PROMPTPERSONA_FULL_600_NOUS_HERMES_MISTRAL_7B (n=593)
+================================================================================
+
+🔒 SAFETY METRICS:
+  Toxicity Rate: 41.8%
+  Assertiveness: 6.83 ± 1.02
+  Emotional Distance: 4.35 ± 1.87
+
+📈 QUALITY METRICS:
+  Quality Score: 6.81 ± 1.20
+  Instructional Density: 7.94 ± 1.78
+  Complexity: 5.68 ± 1.07
+
+🌐 LANGUAGE COMPARISON (English vs Hinglish):
+  English Toxicity: 47.6%
+  Hinglish Toxicity: 36.1%
+  English Density: 8.10
+  Hinglish Density: 7.78
+  Density Difference: p=0.0177 *
+
+👥 GENDER COMPARISON (Male vs Female):
+  Male Assertiveness: 6.86
+  Female Assertiveness: 6.75
+  Gender Gap: 0.11
+  Cohen's d: 0.1100
+
+🏢 DOMAIN BREAKDOWN:
+  Consumer: Toxicity=50.0%, Density=8.29
+  Education: Toxicity=43.3%, Density=8.12
+  Employment: Toxicity=55.0%, Density=7.22
+  Finance: Toxicity=26.7%, Density=8.10
+  Government: Toxicity=34.5%, Density=7.97
+
+================================================================================
+📊 PROMPTPERSONA_FULL_600_OPENHERMES_MISTRAL_7B (n=581)
+================================================================================
+
+🔒 SAFETY METRICS:
+  Toxicity Rate: 36.7%
+  Assertiveness: 6.69 ± 1.06
+  Emotional Distance: 4.22 ± 1.86
+
+📈 QUALITY METRICS:
+  Quality Score: 6.70 ± 1.31
+  Instructional Density: 7.85 ± 1.88
+  Complexity: 5.55 ± 1.14
+
+🌐 LANGUAGE COMPARISON (English vs Hinglish):
+  English Toxicity: 37.0%
+  Hinglish Toxicity: 36.4%
+  English Density: 7.83
+  Hinglish Density: 7.87
+  Density Difference: p=0.7708 NS
+
+👥 GENDER COMPARISON (Male vs Female):
+  Male Assertiveness: 6.69
+  Female Assertiveness: 6.75
+  Gender Gap: -0.06
+  Cohen's d: -0.0565
+
+🏢 DOMAIN BREAKDOWN:
+  Consumer: Toxicity=51.7%, Density=8.12
+  Education: Toxicity=43.1%, Density=8.16
+  Employment: Toxicity=47.5%, Density=7.00
+  Finance: Toxicity=22.8%, Density=8.12
+  Government: Toxicity=28.6%, Density=8.27
+
+================================================================================
+📊 PROMPTPERSONA_FULL_600_PHI35_MINI (n=702)
+================================================================================
+
+🔒 SAFETY METRICS:
+  Toxicity Rate: 3.8%
+  Assertiveness: 3.60 ± 1.53
+  Emotional Distance: 7.09 ± 1.64
+
+📈 QUALITY METRICS:
+  Quality Score: 4.27 ± 1.53
+  Instructional Density: 3.02 ± 1.82
+  Complexity: 5.53 ± 1.90
+
+🌐 LANGUAGE COMPARISON (English vs Hinglish):
+  English Toxicity: 4.8%
+  Hinglish Toxicity: 2.8%
+  English Density: 3.12
+  Hinglish Density: 2.92
+  Density Difference: p=0.5444 NS
+
+👥 GENDER COMPARISON (Male vs Female):
+  Male Assertiveness: 3.59
+  Female Assertiveness: 3.59
+  Gender Gap: -0.01
+  Cohen's d: -0.0057
+
+🏢 DOMAIN BREAKDOWN:
+  Consumer: Toxicity=0.0%, Density=2.93
+  Education: Toxicity=0.0%, Density=2.85
+  Employment: Toxicity=0.0%, Density=2.68
+  Finance: Toxicity=0.0%, Density=2.57
+  Government: Toxicity=0.0%, Density=2.80
+
+================================================================================
+📊 PROMPTPERSONA_FULL_600_QWEN25_7B (n=600)
+================================================================================
+
+🔒 SAFETY METRICS:
+  Toxicity Rate: 58.5%
+  Assertiveness: 7.20 ± 0.86
+  Emotional Distance: 3.86 ± 1.53
+
+📈 QUALITY METRICS:
+  Quality Score: 7.29 ± 0.70
+  Instructional Density: 8.57 ± 0.84
+  Complexity: 6.01 ± 0.88
+
+🌐 LANGUAGE COMPARISON (English vs Hinglish):
+  English Toxicity: 55.7%
+  Hinglish Toxicity: 61.3%
+  English Density: 8.58
+  Hinglish Density: 8.56
+  Density Difference: p=0.6496 NS
+
+👥 GENDER COMPARISON (Male vs Female):
+  Male Assertiveness: 7.24
+  Female Assertiveness: 7.17
+  Gender Gap: 0.06
+  Cohen's d: 0.0690
+
+🏢 DOMAIN BREAKDOWN:
+  Consumer: Toxicity=73.3%, Density=8.70
+  Education: Toxicity=50.0%, Density=8.52
+  Employment: Toxicity=60.0%, Density=8.27
+  Finance: Toxicity=40.0%, Density=8.40
+  Government: Toxicity=53.3%, Density=8.63
+
+================================================================================
+📊 PROMPTPERSONA_FULL_600_QWEN2_7B (n=600)
+================================================================================
+
+🔒 SAFETY METRICS:
+  Toxicity Rate: 0.0%
+  Assertiveness: 7.29 ± 1.17
+  Emotional Distance: 9.10 ± 0.78
+
+📈 QUALITY METRICS:
+  Quality Score: 5.51 ± 1.11
+  Instructional Density: 3.50 ± 1.94
+  Complexity: 7.52 ± 1.07
+
+🌐 LANGUAGE COMPARISON (English vs Hinglish):
+  English Toxicity: 0.0%
+  Hinglish Toxicity: 0.0%
+  English Density: 3.46
+  Hinglish Density: 3.54
+  Density Difference: p=0.7593 NS
+
+👥 GENDER COMPARISON (Male vs Female):
+  Male Assertiveness: 7.21
+  Female Assertiveness: 7.32
+  Gender Gap: -0.12
+  Cohen's d: -0.0989
+
+🏢 DOMAIN BREAKDOWN:
+  Consumer: Toxicity=0.0%, Density=3.70
+  Education: Toxicity=0.0%, Density=3.95
+  Employment: Toxicity=0.0%, Density=3.55
+  Finance: Toxicity=0.0%, Density=3.12
+  Government: Toxicity=0.0%, Density=3.15
+
+================================================================================
+📊 PROMPTPERSONA_FULL_600_YI15_6B (n=586)
+================================================================================
+
+🔒 SAFETY METRICS:
+  Toxicity Rate: 19.6%
+  Assertiveness: 5.53 ± 1.93
+  Emotional Distance: 5.32 ± 2.33
+
+📈 QUALITY METRICS:
+  Quality Score: 4.42 ± 2.31
+  Instructional Density: 4.59 ± 3.33
+  Complexity: 4.25 ± 1.62
+
+🌐 LANGUAGE COMPARISON (English vs Hinglish):
+  English Toxicity: 28.4%
+  Hinglish Toxicity: 10.9%
+  English Density: 6.23
+  Hinglish Density: 2.96
+  Density Difference: p=0.0000 ***
+
+👥 GENDER COMPARISON (Male vs Female):
+  Male Assertiveness: 5.42
+  Female Assertiveness: 5.71
+  Gender Gap: -0.29
+  Cohen's d: -0.1538
+
+🏢 DOMAIN BREAKDOWN:
+  Consumer: Toxicity=10.5%, Density=3.91
+  Education: Toxicity=23.7%, Density=4.32
+  Employment: Toxicity=26.8%, Density=3.86
+  Finance: Toxicity=15.2%, Density=4.97
+  Government: Toxicity=15.0%, Density=4.17
+
+================================================================================
+📊 PROMPTPERSONA_FULL_600_ZEPHYR_7B (n=600)
+================================================================================
+
+🔒 SAFETY METRICS:
+  Toxicity Rate: 33.0%
+  Assertiveness: 6.51 ± 1.32
+  Emotional Distance: 4.39 ± 1.93
+
+📈 QUALITY METRICS:
+  Quality Score: 6.34 ± 1.81
+  Instructional Density: 7.16 ± 2.64
+  Complexity: 5.51 ± 1.36
+
+🌐 LANGUAGE COMPARISON (English vs Hinglish):
+  English Toxicity: 37.7%
+  Hinglish Toxicity: 28.3%
+  English Density: 7.41
+  Hinglish Density: 6.90
+  Density Difference: p=0.0110 *
+
+👥 GENDER COMPARISON (Male vs Female):
+  Male Assertiveness: 6.47
+  Female Assertiveness: 6.55
+  Gender Gap: -0.08
+  Cohen's d: -0.0612
+
+🏢 DOMAIN BREAKDOWN:
+  Consumer: Toxicity=41.7%, Density=7.05
+  Education: Toxicity=30.0%, Density=6.53
+  Employment: Toxicity=36.7%, Density=7.07
+  Finance: Toxicity=26.7%, Density=7.33
+  Government: Toxicity=31.7%, Density=7.23
+
+================================================================================
+GENERATING COMPARISON GRAPHS
+================================================================================
+
+📊 Graph 1: Toxicity by Model
+✅ Saved: graph_1_toxicity_by_model.png
+📊 Graph 2: Quality (Density) by Model
+✅ Saved: graph_2_quality_by_model.png
+📊 Graph 3: Safety-Quality Trade-off
+✅ Saved: graph_3_safety_quality_tradeoff.png
+📊 Graph 4: Dimension Heatmap
+✅ Saved: graph_4_dimension_heatmap.png
+
+================================================================================
+MODEL PREDICTIONS & RECOMMENDATIONS
+================================================================================
+
+🏆 RANKINGS:
+
+1️⃣  Safest Models (Lowest Toxicity):
+   1. PromptPersona_Full_600_qwen2_7b: 0.0% toxicity
+   2. PromptPersona_Full_600_phi35_mini: 3.8% toxicity
+   3. PromptPersona_Full_600_yi15_6b: 19.6% toxicity
+
+2️⃣  Highest Quality (Instructional Density):
+   1. PromptPersona_Full_600_gemini_flash: 8.78 density
+   2. PromptPersona_Full_600_qwen25_7b: 8.63 density
+   3. PromptPersona_Full_600_openhermes_mistral_7b: 8.27 density
+
+3️⃣  Best Balanced (High Quality + Low Toxicity):
+   1. PromptPersona_Full_600_qwen2_7b: Safety=100.0, Quality=3.15
+   2. PromptPersona_Full_600_phi35_mini: Safety=96.2, Quality=2.80
+   3. PromptPersona_Full_600_yi15_6b: Safety=80.4, Quality=4.17
+
+================================================================================
+DOMAIN-SPECIFIC RECOMMENDATIONS
+================================================================================
+
+Medical:
+  Recommended: PromptPersona_Full_600_qwen2_7b (Tox=0.0%, Quality=3.60)
+
+Legal:
+  Recommended: PromptPersona_Full_600_qwen2_7b (Tox=0.0%, Quality=3.32)
+
+Employment:
+  Recommended: PromptPersona_Full_600_qwen2_7b (Tox=0.0%, Quality=3.55)
+
+Tech:
+  Recommended: PromptPersona_Full_600_qwen2_7b (Tox=0.0%, Quality=3.90)
+
+RealEstate:
+  Recommended: PromptPersona_Full_600_qwen2_7b (Tox=0.0%, Quality=2.95)
+
+================================================================================
+SAVING SUMMARY REPORT
+================================================================================
+✅ Saved: per_model_report.md
+
+================================================================================
+✅ ANALYSIS COMPLETE
+📊 All outputs saved to: /root/Bias/model_analysis
+================================================================================
+

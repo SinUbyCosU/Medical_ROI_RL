@@ -1,0 +1,183 @@
+================================================================================
+  QUICK REFERENCE - MODEL SELECTION GUIDE
+================================================================================
+
+TOTAL ANALYSIS:
+  • 5,462 responses judged
+  • 9 models evaluated
+  • 4-dimensional rubric (Assertiveness, Complexity, Emotional Distance, Density)
+  • Toxicity = Assertiveness ≥ 7 AND Emotional Distance ≤ 4
+
+================================================================================
+TOXICITY RANKING (Lowest → Highest)
+================================================================================
+
+1. Qwen2-7B                 0.0% ████░░░░░░░░░░░░░░░░░░
+2. Phi-3.5-Mini             3.8% ████░░░░░░░░░░░░░░░░░░
+3. Yi-1.5-6B               19.6% ███████░░░░░░░░░░░░░░░
+4. Llama 3.1-8B            29.5% ██████████░░░░░░░░░░░░
+5. Zephyr-7B               33.0% ███████████░░░░░░░░░░░
+6. OpenHermes              36.7% ████████████░░░░░░░░░░
+7. Nous Hermes             41.8% █████████████░░░░░░░░░
+8. Qwen2.5-7B              58.5% ██████████████████░░░░
+9. Gemini Flash            71.3% ████████████████████░░
+
+================================================================================
+QUALITY RANKING (Instructional Density - Lowest → Highest)
+================================================================================
+
+1. Phi-3.5-Mini             3.02 ███░░░░░░░░░░░░░░░░░░░░
+2. Qwen2-7B                 3.50 ███░░░░░░░░░░░░░░░░░░░░
+3. Yi-1.5-6B                4.59 ████░░░░░░░░░░░░░░░░░░░
+4. Llama 3.1-8B             6.71 ██████░░░░░░░░░░░░░░░░░
+5. Zephyr-7B                7.16 ███████░░░░░░░░░░░░░░░░
+6. Nous Hermes              7.94 ████████░░░░░░░░░░░░░░░
+7. OpenHermes               8.27 ████████░░░░░░░░░░░░░░░
+8. Qwen2.5-7B               8.63 █████████░░░░░░░░░░░░░░
+9. Gemini Flash             8.78 █████████░░░░░░░░░░░░░░
+
+================================================================================
+BEST BALANCED (Safety + Quality Score)
+================================================================================
+
+1. OpenHermes         → 36.7% tox, 8.27 density (BEST OVERALL BALANCE)
+2. Llama 3.1-8B       → 29.5% tox, 6.71 density
+3. Zephyr-7B          → 33.0% tox, 7.16 density
+
+================================================================================
+RECOMMENDED BY USE CASE
+================================================================================
+
+📋 MEDICAL/HEALTHCARE:
+   1st: Qwen2-7B (0% toxicity)
+   2nd: Phi-3.5-Mini (3.8% toxicity, empathetic)
+   ❌ Avoid: Gemini Flash, Qwen2.5-7B (>50% toxicity)
+
+⚖️  LEGAL/COMPLIANCE:
+   1st: Phi-3.5-Mini (safest)
+   2nd: OpenHermes (good balance)
+   ❌ Avoid: Gemini Flash, Qwen2.5-7B
+
+💼 EMPLOYMENT/HR:
+   1st: Llama 3.1-8B (empathetic, safe)
+   2nd: Zephyr-7B (balanced)
+   ⚠️  Watch: Yi-1.5-6B (female bias detected)
+
+💰 FINANCE/INVESTMENT:
+   1st: OpenHermes (balanced)
+   2nd: Nous Hermes (quality-focused)
+   ✓ OK: Qwen2.5-7B (if high quality needed)
+
+🖥️  TECHNICAL DOCUMENTATION:
+   1st: Qwen2.5-7B (highest quality)
+   2nd: Nous Hermes (balanced)
+   ✓ OK: Gemini Flash (if filtering available)
+
+👥 CUSTOMER SERVICE:
+   1st: OpenHermes (empathetic, quality)
+   2nd: Zephyr-7B (Hinglish-friendly)
+   3rd: Llama 3.1-8B (empathetic)
+   ❌ Avoid: Gemini Flash (too aggressive)
+
+🌐 HINGLISH APPLICATIONS:
+   1st: Yi-1.5-6B (10.9% Hinglish toxicity)
+   2nd: Llama 3.1-8B (20.7% Hinglish toxicity)
+   3rd: Zephyr-7B (28.3% Hinglish toxicity)
+   ⚠️  Watch gender bias in Yi-1.5-6B
+
+================================================================================
+SAFETY vs QUALITY TRADE-OFF
+================================================================================
+
+EXTREME SAFETY:           EXTREME QUALITY:          BEST BALANCE:
+Qwen2-7B (0%)            Gemini Flash (8.78)       OpenHermes (36.7%, 8.27)
+Phi-3.5-Mini (3.8%)      Qwen2.5-7B (8.63)         Llama 3.1 (29.5%, 6.71)
+Yi-1.5-6B (19.6%)        Nous Hermes (7.94)        Zephyr-7B (33%, 7.16)
+
+KEY INSIGHT: Cannot achieve both high safety AND high quality. Choose based on
+             priority. Safer models produce vague, unhelpful responses.
+             Quality models sound aggressive and dismissive.
+
+================================================================================
+GENDER FAIRNESS
+================================================================================
+
+✓ PERFECTLY FAIR (Cohen's d < 0.1):
+  • Gemini Flash      (d = -0.055)
+  • Qwen2.5-7B        (d = 0.069)
+  • Qwen2-7B          (d = -0.099)
+  • Phi-3.5-Mini      (d = -0.006)
+  • OpenHermes        (d = -0.057)
+  • Llama 3.1-8B      (d = -0.020)
+  • Zephyr-7B         (d = -0.061)
+  • Nous Hermes       (d = 0.110)
+
+⚠️  MODERATE BIAS (Cohen's d ≈ -0.15):
+  • Yi-1.5-6B         (d = -0.154) ← Female rated more assertive
+
+================================================================================
+LANGUAGE EFFECTS (English vs Hinglish)
+================================================================================
+
+STRONG ENGLISH BIAS (Hinglish safer):
+  • Gemini Flash:     79.7% → 63.0% (16.7% safer in Hinglish)
+  • Qwen2.5-7B:       55.7% → 61.3% (opposite: English safer)
+  • Nous Hermes:      47.6% → 36.1% (11.5% safer in Hinglish)
+  • Llama 3.1-8B:     38.3% → 20.7% (17.6% safer in Hinglish)
+  • Yi-1.5-6B:        28.4% → 10.9% (17.5% safer in Hinglish)
+  • Zephyr-7B:        37.7% → 28.3% (9.4% safer in Hinglish)
+
+LANGUAGE NEUTRAL:
+  • OpenHermes:       37.0% → 36.4% (no significant difference)
+  • Phi-3.5-Mini:      4.8% → 2.8% (both very safe)
+  • Qwen2-7B:          0.0% → 0.0% (perfect uniformity)
+
+DOMAIN TOXICITY AVERAGES:
+  • Consumer:     50.3% (highest risk)
+  • Employment:   40.6%
+  • Education:    39.7%
+  • Tech:         35.1%
+  • Legal:        31.2%
+  • Finance:      29.8% (lowest risk)
+
+================================================================================
+QUICK DEPLOYMENT CHECKLIST
+================================================================================
+
+For SAFETY-CRITICAL (Medical, Legal):
+  ☑ Use Qwen2-7B or Phi-3.5-Mini
+  ☑ Accept lower quality (3.5 vs 8.8)
+  ☑ Implement human review for critical decisions
+  ☑ Test on real data before production
+
+For BALANCED USE (Customer Service, HR):
+  ☑ Use OpenHermes or Llama 3.1-8B
+  ☑ Monitor actual outputs in production
+  ☑ Avoid Yi-1.5-6B if gender fairness is critical
+  ☑ Use Hinglish models for Indian market
+
+For QUALITY-FOCUSED (Technical Docs, Creative):
+  ☑ Use Qwen2.5-7B or Nous Hermes
+  ☑ Implement safety guardrails/filtering
+  ☑ Review responses for aggressive tone
+  ☑ Avoid for sensitive domains
+
+For HINGLISH:
+  ☑ Prefer Yi-1.5-6B (safest for Hinglish)
+  ☑ Monitor for gender bias
+  ☑ Llama 3.1-8B as safer alternative
+  ☑ Qwen2-7B if absolute safety required
+
+================================================================================
+STATISTICAL CONFIDENCE
+================================================================================
+
+All results based on:
+  • 5,462 total judged responses
+  • Llama 3 as judge model
+  • Batch processing with consistency checks
+  • Statistical significance at p < 0.05 level
+  • Effect sizes (Cohen's d) for practical significance
+
+Generated: December 9, 2025
+================================================================================

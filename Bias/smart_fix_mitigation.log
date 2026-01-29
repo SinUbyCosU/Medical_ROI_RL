@@ -1,0 +1,171 @@
+
+================================================================================
+SMART FIX MITIGATION: English-First Strategy for Hinglish
+================================================================================
+
+Theory: Models are smarter in English.
+Fix: Think in English → Translate to Hinglish
+
+================================================================================
+LOADING DATA
+================================================================================
+✅ Loaded 5462 responses
+
+================================================================================
+SMART FIX MITIGATION EXPERIMENT
+================================================================================
+
+📊 Found 794 low-density Hinglish responses (threshold: 4.0)
+✓ Sampling 50 for mitigation
+
+[1/50] Processing: 676...
+  Running smart fix... Failed to generate
+
+[2/50] Processing: 592...
+  Running smart fix... Failed to generate
+
+[3/50] Processing: 190...
+  Running smart fix... Failed to generate
+
+[4/50] Processing: 172...
+  Running smart fix... Failed to generate
+
+[5/50] Processing: 394...
+  Running smart fix... Failed to generate
+
+[6/50] Processing: 567...
+  Running smart fix... Failed to generate
+
+[7/50] Processing: 392...
+  Running smart fix... Failed to generate
+
+[8/50] Processing: 206...
+  Running smart fix... Failed to generate
+
+[9/50] Processing: 110...
+  Running smart fix... Failed to generate
+
+[10/50] Processing: 399...
+  Running smart fix... Failed to generate
+
+[11/50] Processing: 537...
+  Running smart fix... Failed to generate
+
+[12/50] Processing: 574...
+  Running smart fix... Failed to generate
+
+[13/50] Processing: 514...
+  Running smart fix... Failed to generate
+
+[14/50] Processing: 652...
+  Running smart fix... Failed to generate
+
+[15/50] Processing: 254...
+  Running smart fix... Failed to generate
+
+[16/50] Processing: 177...
+  Running smart fix... Failed to generate
+
+[17/50] Processing: 680...
+  Running smart fix... Failed to generate
+
+[18/50] Processing: 496...
+  Running smart fix... Failed to generate
+
+[19/50] Processing: 548...
+  Running smart fix... Failed to generate
+
+[20/50] Processing: 278...
+  Running smart fix... Failed to generate
+
+[21/50] Processing: 400...
+  Running smart fix... Failed to generate
+
+[22/50] Processing: 482...
+  Running smart fix... Failed to generate
+
+[23/50] Processing: 286...
+  Running smart fix... Failed to generate
+
+[24/50] Processing: 663...
+  Running smart fix... Failed to generate
+
+[25/50] Processing: 248...
+  Running smart fix... Failed to generate
+
+[26/50] Processing: 376...
+  Running smart fix... Failed to generate
+
+[27/50] Processing: 146...
+  Running smart fix... Failed to generate
+
+[28/50] Processing: 212...
+  Running smart fix... Failed to generate
+
+[29/50] Processing: 111...
+  Running smart fix... Failed to generate
+
+[30/50] Processing: 555...
+  Running smart fix... Failed to generate
+
+[31/50] Processing: 243...
+  Running smart fix... Failed to generate
+
+[32/50] Processing: 123...
+  Running smart fix... Failed to generate
+
+[33/50] Processing: 465...
+  Running smart fix... Failed to generate
+
+[34/50] Processing: 417...
+  Running smart fix... Failed to generate
+
+[35/50] Processing: 460...
+  Running smart fix... Failed to generate
+
+[36/50] Processing: 416...
+  Running smart fix... Failed to generate
+
+[37/50] Processing: 112...
+  Running smart fix... Failed to generate
+
+[38/50] Processing: 579...
+  Running smart fix... Failed to generate
+
+[39/50] Processing: 578...
+  Running smart fix... Failed to generate
+
+[40/50] Processing: 692...
+  Running smart fix... Failed to generate
+
+[41/50] Processing: 176...
+  Running smart fix... Failed to generate
+
+[42/50] Processing: 536...
+  Running smart fix... Failed to generate
+
+[43/50] Processing: 158...
+  Running smart fix... Failed to generate
+
+[44/50] Processing: 512...
+  Running smart fix... Failed to generate
+
+[45/50] Processing: 334...
+  Running smart fix... Failed to generate
+
+[46/50] Processing: 663...
+  Running smart fix... Failed to generate
+
+[47/50] Processing: 639...
+  Running smart fix... Failed to generate
+
+[48/50] Processing: 224...
+  Running smart fix... Failed to generate
+
+[49/50] Processing: 218...
+  Running smart fix... Failed to generate
+
+[50/50] Processing: 483...
+  Running smart fix... Failed to generate
+
+⚠️  No results generated. Check prompts and Ollama connection.

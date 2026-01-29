@@ -1,0 +1,17 @@
+{
+  "scenario": "leadership",
+  "timestamp": "2025-12-09 16:47:01",
+  "results": {
+    "qwen25_7b": {},
+    "yi15_6b": {},
+    "zephyr_7b": {},
+    "qwen2_7b": {},
+    "openhermes_mistral_7b": {},
+    "nous_hermes_mistral_7b": {},
+    "phi35_mini": {},
+    "llama31_8b": {}
+  },
+  "analysis": {
+    "gender_gaps": []
+  }
+}

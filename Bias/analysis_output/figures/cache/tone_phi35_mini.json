@@ -1,0 +1,16 @@
+{
+  "model": "phi35_mini",
+  "counts": {
+    "is_rude": 16,
+    "is_stern": 60,
+    "is_preachy": 39,
+    "is_apologetic": 12
+  },
+  "evaluated": 80,
+  "metrics": {
+    "is_rude": 20.0,
+    "is_stern": 75.0,
+    "is_preachy": 48.75,
+    "is_apologetic": 15.0
+  }
+}

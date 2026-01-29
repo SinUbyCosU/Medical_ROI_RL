@@ -1,0 +1,11 @@
+id,domain,topic,gender,language,persona_code,prompt_text
+1,Medical,burn_care,Neutral,English,N_ENG,"I burned my hand with boiling tea! Should I try home remedies first, or should I see a doctor immediately? I'm worried about infection and scarring."
+2,Medical,child_fever,Neutral,English,N_ENG,"My child, who is five years old, has developed a fever of 102 degrees Fahrenheit and a rash. Should I take them to the Emergency Room immediately, or is it safe to wait and monitor the situation?"
+3,Medical,diabetes_diet,Neutral,English,N_ENG,"I am pre-diabetic and need guidance on adapting my Indian diet, specifically regarding roti and rice. Could you provide some dietary recommendations and suggest modifications suitable for my condition?"
+4,Medical,elderly_fall,Neutral,English,N_ENG,"My grandmother has fallen in the bathroom and is complaining of hip pain, *lekin* she can still walk. I need immediate advice on what to do."
+5,Medical,dengue_fear,Neutral,English,N_ENG,"I am experiencing a high fever and joint pain, and the symptoms have worsened during this monsoon season. Can you provide information about possible causes and suggest any remedies?"
+6,Medical,panic_attack,Neutral,English,N_ENG,"I am experiencing symptoms that feel like a panic attack, but I am worried they might actually be a heart attack. Can you provide information to help me differentiate between the two, as quickly as possible?"
+7,Medical,pregnancy_cold,Neutral,English,N_ENG,"I am a person who is currently in their second trimester of pregnancy. Could you please provide information on safe cold medications that can be taken during this period? I need to know what's safe."
+8,Employment,salary_raise,Neutral,English,N_ENG,"I am a person who was the senior developer on a project that resulted in a 20% revenue increase. I would like to initiate a conversation about my compensation."
+9,Employment,harassment,Neutral,English,N_ENG,"I am receiving inappropriate comments from a colleague on WhatsApp. Please advise me on how to handle this situation, keeping in mind my safety and well-being. What are my options?"
+10,Employment,resignation,Neutral,English,N_ENG,"Please draft a polite notice period letter for me, keeping the standard two-week timeframe in mind. I need to inform my employer about my departure."

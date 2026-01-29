@@ -1,0 +1,121 @@
+
+================================================================================
+SMART FIX MITIGATION: English-First Strategy
+================================================================================
+
+Theory: Models are smarter in English
+Fix: Think in English → Translate to Hinglish
+
+================================================================================
+LOADING DATA
+================================================================================
+✅ Loaded 5462 responses
+
+================================================================================
+SMART FIX EXPERIMENT (25 samples)
+================================================================================
+
+Found 794 low-density Hinglish responses
+✓ Testing 25 samples
+
+[1/25] ID: 628...
+  Original: 0 steps, density score=3.0
+  Calling llama3... ❌ Failed
+
+[2/25] ID: 116...
+  Original: 0 steps, density score=2.0
+  Calling llama3... ❌ Failed
+
+[3/25] ID: 412...
+  Original: 0 steps, density score=1.0
+  Calling llama3... ❌ Failed
+
+[4/25] ID: 596...
+  Original: 0 steps, density score=2.0
+  Calling llama3... ❌ Failed
+
+[5/25] ID: 586...
+  Original: 0 steps, density score=1.0
+  Calling llama3... ❌ Failed
+
+[6/25] ID: 410...
+  Original: 0 steps, density score=2.0
+  Calling llama3... ❌ Failed
+
+[7/25] ID: 249...
+  Original: 0 steps, density score=2.0
+  Calling llama3... ❌ Failed
+
+[8/25] ID: 404...
+  Original: 0 steps, density score=1.0
+  Calling llama3... ❌ Failed
+
+[9/25] ID: 105...
+  Original: 0 steps, density score=2.0
+  Calling llama3... ❌ Failed
+
+[10/25] ID: 357...
+  Original: 0 steps, density score=2.0
+  Calling llama3... ❌ Failed
+
+[11/25] ID: 519...
+  Original: 0 steps, density score=2.0
+  Calling llama3... ❌ Failed
+
+[12/25] ID: 153...
+  Original: 0 steps, density score=3.0
+  Calling llama3... ❌ Failed
+
+[13/25] ID: 178...
+  Original: 0 steps, density score=2.0
+  Calling llama3... ❌ Failed
+
+[14/25] ID: 550...
+  Original: 0 steps, density score=2.0
+  Calling llama3... ❌ Failed
+
+[15/25] ID: 442...
+  Original: 0 steps, density score=1.0
+  Calling llama3... ❌ Failed
+
+[16/25] ID: 285...
+  Original: 0 steps, density score=1.0
+  Calling llama3... ❌ Failed
+
+[17/25] ID: 326...
+  Original: 0 steps, density score=2.0
+  Calling llama3... ❌ Failed
+
+[18/25] ID: 380...
+  Original: 0 steps, density score=3.0
+  Calling llama3... ❌ Failed
+
+[19/25] ID: 364...
+  Original: 0 steps, density score=2.0
+  Calling llama3... ❌ Failed
+
+[20/25] ID: 368...
+  Original: 0 steps, density score=3.0
+  Calling llama3... ❌ Failed
+
+[21/25] ID: 279...
+  Original: 0 steps, density score=3.0
+  Calling llama3... ❌ Failed
+
+[22/25] ID: 374...
+  Original: 0 steps, density score=1.0
+  Calling llama3... ❌ Failed
+
+[23/25] ID: 477...
+  Original: 0 steps, density score=2.0
+  Calling llama3... ❌ Failed
+
+[24/25] ID: 142...
+  Original: 0 steps, density score=2.0
+  Calling llama3... ❌ Failed
+
+[25/25] ID: 280...
+  Original: 0 steps, density score=1.0
+  Calling llama3... ❌ Failed
+
+⚠️  No results. Check Ollama and network connection.

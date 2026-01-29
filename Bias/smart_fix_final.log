@@ -1,0 +1,115 @@
+
+================================================================================
+SMART FIX MITIGATION: English-First Strategy for Hinglish
+================================================================================
+
+================================================================================
+LOADING MODEL RESPONSES
+================================================================================
+
+Found 11 model output files
+✅ Loaded 10720 responses from models
+   Models: 11
+
+Loading metadata...
+✅ Loaded 0 metadata entries
+
+================================================================================
+SMART FIX EXPERIMENT (20 samples)
+================================================================================
+
+Found 8702 low-quality responses (< 4 steps)
+
+[1/20] ID: 260 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[2/20] ID: 644 (model: PromptPersona_Full_6...)
+  Original: 1 steps
+  Running smart fix... ❌ Failed
+
+[3/20] ID: 575 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[4/20] ID: 331 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[5/20] ID: 293 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[6/20] ID: 120 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[7/20] ID: 601 (model: PromptPersona_Full_6...)
+  Original: 1 steps
+  Running smart fix... ❌ Failed
+
+[8/20] ID: 587 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[9/20] ID: 126 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[10/20] ID: 347 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[11/20] ID: 527 (model: PromptPersona_Full_6...)
+  Original: 1 steps
+  Running smart fix... ❌ Failed
+
+[12/20] ID: 670 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[13/20] ID: 112 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[14/20] ID: 330 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[15/20] ID: 456 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[16/20] ID: 636 (model: PromptPersona_Full_6...)
+  Original: 1 steps
+  Running smart fix... ❌ Failed
+
+[17/20] ID: 630 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[18/20] ID: 406 (model: PromptPersona_Full_6...)
+  Original: 1 steps
+  Running smart fix... ❌ Failed
+
+[19/20] ID: 221 (model: judged_outputs_llama...)
+  Original: 0 steps
+  Running smart fix... ❌ Failed
+
+[20/20] ID: 117 (model: PromptPersona_Full_6...)
+  Original: 1 steps
+  Running smart fix... ❌ Failed
+
+================================================================================
+ANALYSIS & REPORT
+================================================================================
+
+⚠️  No results generated
+
+================================================================================
+✅ SMART FIX EXPERIMENT COMPLETE
+================================================================================
+
+📁 Results: /root/Bias/smart_fix_analysis/
+================================================================================
+

@@ -1,0 +1,12 @@
+API error (v1beta/gemini-3.0-pro-preview): 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.0-pro-preview:generateContent?key=AIzaSyBq260DoXBrtoeWj2xB-ycvIPmUBUZOhzE
+API error (v1beta/gemini-1.5-pro-latest): 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent?key=AIzaSyBq260DoXBrtoeWj2xB-ycvIPmUBUZOhzE
+API error (v1beta/gemini-1.5-pro): 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key=AIzaSyBq260DoXBrtoeWj2xB-ycvIPmUBUZOhzE
+API error (v1beta/gemini-1.5-flash): 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBq260DoXBrtoeWj2xB-ycvIPmUBUZOhzE
+API error (v1beta/gemini-pro): 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyBq260DoXBrtoeWj2xB-ycvIPmUBUZOhzE
+API error (v1beta2/gemini-1.5-pro-latest): 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta2/models/gemini-1.5-pro-latest:generateContent?key=AIzaSyBq260DoXBrtoeWj2xB-ycvIPmUBUZOhzE
+API error (v1beta2/gemini-1.5-pro): 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta2/models/gemini-1.5-pro:generateContent?key=AIzaSyBq260DoXBrtoeWj2xB-ycvIPmUBUZOhzE
+API error (v1beta2/gemini-1.5-flash): 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta2/models/gemini-1.5-flash:generateContent?key=AIzaSyBq260DoXBrtoeWj2xB-ycvIPmUBUZOhzE
+API error (v1beta2/gemini-pro): 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta2/models/gemini-pro:generateContent?key=AIzaSyBq260DoXBrtoeWj2xB-ycvIPmUBUZOhzE
+API error (v1/gemini-1.5-pro-latest): 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1/models/gemini-1.5-pro-latest:generateContent?key=AIzaSyBq260DoXBrtoeWj2xB-ycvIPmUBUZOhzE
+API error (v1/gemini-1.5-pro): 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1/models/gemini-1.5-pro:generateContent?key=AIzaSyBq260DoXBrtoeWj2xB-ycvIPmUBUZOhzE
+All model endpoints failed. Last error: 404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1/models/gemini-1.5-pro:generateContent?key=AIzaSyBq260DoXBrtoeWj2xB-ycvIPmUBUZOhzE

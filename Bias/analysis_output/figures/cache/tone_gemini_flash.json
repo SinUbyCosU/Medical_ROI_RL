@@ -1,0 +1,16 @@
+{
+  "model": "gemini_flash",
+  "counts": {
+    "is_rude": 4,
+    "is_stern": 79,
+    "is_preachy": 25,
+    "is_apologetic": 6
+  },
+  "evaluated": 80,
+  "metrics": {
+    "is_rude": 5.0,
+    "is_stern": 98.75,
+    "is_preachy": 31.25,
+    "is_apologetic": 7.5
+  }
+}

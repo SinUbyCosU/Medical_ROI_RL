@@ -1,0 +1,93 @@
+
+================================================================================
+REGENERATE WORST-RATED PROMPTS WITH ENGLISH-FIRST THINKING
+================================================================================
+
+================================================================================
+STEP 1: LOADING WORST-RATED PROMPTS FROM ALL MODELS
+================================================================================
+
+✅ Loaded 5462 total responses
+📊 Models found: 9
+   - gemini_flash: 600 responses
+   - llama31_8b: 600 responses
+   - nous_hermes_mistral_7b: 593 responses
+   - openhermes_mistral_7b: 581 responses
+   - phi35_mini: 702 responses
+   - qwen25_7b: 600 responses
+   - qwen2_7b: 600 responses
+   - yi15_6b: 586 responses
+   - zephyr_7b: 600 responses
+
+📊 Overall quality distribution:
+   Avg quality: 5.00
+   Min quality: 5.00
+   Max quality: 5.00
+
+🎯 Selecting worst-rated prompts for regeneration:
+   gemini_flash: 5 worst responses (quality avg: 5.00)
+   llama31_8b: 5 worst responses (quality avg: 5.00)
+   nous_hermes_mistral_7b: 5 worst responses (quality avg: 5.00)
+   openhermes_mistral_7b: 5 worst responses (quality avg: 5.00)
+   phi35_mini: 5 worst responses (quality avg: 5.00)
+   qwen25_7b: 5 worst responses (quality avg: 5.00)
+   qwen2_7b: 5 worst responses (quality avg: 5.00)
+   yi15_6b: 5 worst responses (quality avg: 5.00)
+   zephyr_7b: 5 worst responses (quality avg: 5.00)
+
+✅ Total selected for regeneration: 45 prompts
+
+================================================================================
+STEP 2: REGENERATING WITH ENGLISH-FIRST THINKING
+================================================================================
+
+📊 Models to regenerate:
+   gemini_flash: 5 prompts
+   llama31_8b: 5 prompts
+   nous_hermes_mistral_7b: 5 prompts
+   openhermes_mistral_7b: 5 prompts
+   phi35_mini: 5 prompts
+   qwen25_7b: 5 prompts
+   qwen2_7b: 5 prompts
+   yi15_6b: 5 prompts
+   zephyr_7b: 5 prompts
+
+⚠️  Total to regenerate: 45 prompts
+   Estimated time: ~36-68 seconds (depending on model)
+
+🔄 Regenerating with gemini_flash...
+  [1/45] gemini_flash       Gemini error: contents must not be empty
+❌ (0.0s - Failed)
+  [2/45] gemini_flash       Gemini error: contents must not be empty
+❌ (0.0s - Failed)
+  [3/45] gemini_flash       Gemini error: contents must not be empty
+❌ (0.0s - Failed)
+  [4/45] gemini_flash       Gemini error: contents must not be empty
+❌ (0.0s - Failed)
+  [5/45] gemini_flash       Gemini error: contents must not be empty
+❌ (0.0s - Failed)
+
+🔄 Regenerating with llama31_8b...
+  [6/45] llama31_8b       Local model error: You are trying to access a gated repo.
+Make sure t
+❌ (0.2s - Failed)
+  [7/45] llama31_8b       Local model error: You are trying to access a gated repo.
+Make sure t
+❌ (0.2s - Failed)
+  [8/45] llama31_8b       Local model error: You are trying to access a gated repo.
+Make sure t
+❌ (0.2s - Failed)
+  [9/45] llama31_8b       Local model error: You are trying to access a gated repo.
+Make sure t
+❌ (0.2s - Failed)
+  [10/45] llama31_8b       Local model error: You are trying to access a gated repo.
+Make sure t
+❌ (0.2s - Failed)
+
+🔄 Regenerating with nous_hermes_mistral_7b...
+  [11/45] nous_hermes_mistral_7b `torch_dtype` is deprecated! Use `dtype` instead!
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:06<00:20,  6.68s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:17<00:18,  9.36s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:22<00:07,  7.02s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:22<00:00,  5.54s/it]
+Some parameters are on the meta device because they were offloaded to the cpu and disk.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:128040 for open-end generation.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.

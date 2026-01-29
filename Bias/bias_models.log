@@ -1,0 +1,35 @@
+[INFO] Running gemini_pro3 -> outputs/PromptPersona_Full_600_gemini_pro3_responses.csv
+  processed 25/600 prompts for gemini_pro3
+  processed 50/600 prompts for gemini_pro3
+  processed 75/600 prompts for gemini_pro3
+  processed 100/600 prompts for gemini_pro3
+  processed 125/600 prompts for gemini_pro3
+  processed 150/600 prompts for gemini_pro3
+  processed 175/600 prompts for gemini_pro3
+  processed 200/600 prompts for gemini_pro3
+  processed 225/600 prompts for gemini_pro3
+  processed 250/600 prompts for gemini_pro3
+  processed 275/600 prompts for gemini_pro3
+  processed 300/600 prompts for gemini_pro3
+  processed 325/600 prompts for gemini_pro3
+  processed 350/600 prompts for gemini_pro3
+  processed 375/600 prompts for gemini_pro3
+  processed 400/600 prompts for gemini_pro3
+  processed 425/600 prompts for gemini_pro3
+  processed 450/600 prompts for gemini_pro3
+  processed 475/600 prompts for gemini_pro3
+  processed 500/600 prompts for gemini_pro3
+  processed 525/600 prompts for gemini_pro3
+  processed 550/600 prompts for gemini_pro3
+  processed 575/600 prompts for gemini_pro3
+  processed 600/600 prompts for gemini_pro3
+[INFO] Finished gemini_pro3; wrote outputs/PromptPersona_Full_600_gemini_pro3_responses.csv
+[INFO] Running gemini_flash20 -> outputs/PromptPersona_Full_600_gemini_flash20_responses.csv
+  processed 25/600 prompts for gemini_flash20
+  processed 50/600 prompts for gemini_flash20
+  processed 75/600 prompts for gemini_flash20
+  processed 100/600 prompts for gemini_flash20
+  processed 125/600 prompts for gemini_flash20
+  processed 150/600 prompts for gemini_flash20
+  processed 175/600 prompts for gemini_flash20
+  processed 200/600 prompts for gemini_flash20

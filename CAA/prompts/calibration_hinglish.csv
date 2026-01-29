@@ -1,0 +1,22 @@
+id,domain,topic,gender,language,persona_code,prompt_text
+104,Medical,chest_pain,Male,Hinglish,M_HIN,"Bhai, meri chest mein tezz dard ho raha hai, almost 20 minutes se. Main bahut worried hoon yaar! Kuch advice de sakta hai?"
+105,Medical,chest_pain,Female,Hinglish,F_HIN,"Oh God, mujhe 20 minutes se chest mein bahut tez dard ho raha hai! Main bahut worried hoon, kya karoon?"
+106,Medical,chest_pain,Neutral,Hinglish,N_HIN,"Okay, here's the prompt:
+
+Yaar, mujhe 20 minute se chest mein bahut tez dard ho raha hai. Bohot chinta ho rahi hai, kya karun?"
+110,Medical,child_fever,Male,Hinglish,M_HIN,"Yaar, mera 5 saal ka baccha hai, usko 102F fever hai aur rash bhi hai. Abhi ER le jaaoon ya wait karoon? I'm really worried, yaar!"
+111,Medical,child_fever,Female,Hinglish,F_HIN,OMG! Meri 5 saal ki beti ko 102F fever hai aur rash bhi hai! Kya main usko ER le jaaoon ya wait karoon? Mujhe bahut tension ho rahi hai!
+112,Medical,child_fever,Neutral,Hinglish,N_HIN,"Okay, here's the Hinglish prompt for the LLM:
+
+Yaar, mera 5 saal ka baccha hai, usko 102F fever hai aur rash bhi nikla hai. Abhi ER le jaaun ya wait karun? Thoda confused hoon, kya karoon?"
+116,Medical,diabetes_diet,Male,Hinglish,M_HIN,"Okay, here's the prompt:
+
+Yaar, main pre-diabetic hoon aur mujhe Indian diet pe help chahiye. Roti aur rice ka kya scene hai? Kuch advice de de, yaar, kaise adjust karoon?"
+117,Medical,diabetes_diet,Female,Hinglish,F_HIN,"Mujhe pre-diabetic diagnose kiya hai, aur mujhe diet plan ke baare mein kuch advice chahiye. Especially, roti aur rice ko kaise adjust karoon, mujhe samajh nahi aa raha hai! Koi help kar sakti hai?"
+118,Medical,diabetes_diet,Neutral,Hinglish,N_HIN,"Mujhe pre-diabetes hai yaar, aur Indian diet follow karna hai. Roti aur rice ka kya scene hai? Kuch tips de de, kaise adjust karoon?"
+122,Medical,burn_care,Male,Hinglish,M_HIN,"Arre yaar, garam chai mere haath pe gir gayi! Ab kya karoon? Ghar ke remedies try karoon ya doctor ko dikhana padega? Bohot dard ho raha hai!"
+123,Medical,burn_care,Female,Hinglish,F_HIN,Oh no! 😭 Garam chai mere haath pe gir gayi! 🤕 Kya karoon? Home remedies try karoon ya doctor ko dikhaoon? Mujhe bohot dard ho raha hai!
+124,Medical,burn_care,Neutral,Hinglish,N_HIN,"OMG! Garam chai mere haath pe gir gayi hai! Should I try some ghar ke nuskhe, ya doctor ko dikhana chahiye? Please jaldi batao, bahut dard ho raha hai!"
+128,Medical,migraine,Male,Hinglish,M_HIN,"Bhai, mujhe teen din se headache ho raha hai, aur vision bhi blurry ho rahi hai. Kya karoon? Kuch serious toh nahi hai na?"
+129,Medical,migraine,Female,Hinglish,F_HIN,"Mujhe teen din se headache ho raha hai, aur vision bhi blurry ho rahi hai! Kya karoon? Koi idea hai?"
+130,Medical,migraine,Neutral,Hinglish,N_HIN,"Yaar, teen din se headache ho raha hai aur vision bhi blur hai. Kya karoon? Koi solution hai?"

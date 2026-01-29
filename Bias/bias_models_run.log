@@ -1,0 +1,30 @@
+[INFO] Running gemini_pro3 -> outputs/PromptPersona_Full_600_gemini_pro3_responses.csv
+Traceback (most recent call last):
+  File "/root/Bias/multi_model_generation.py", line 373, in <module>
+    main(sys.argv[1:])
+  File "/root/Bias/multi_model_generation.py", line 361, in main
+    run_model(
+  File "/root/Bias/multi_model_generation.py", line 207, in run_model
+    model = init_gemini(identifier, api_key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Bias/multi_model_generation.py", line 96, in init_gemini
+    raise RuntimeError("GOOGLE_API_KEY environment variable is required for Gemini calls")
+RuntimeError: GOOGLE_API_KEY environment variable is required for Gemini calls
+[INFO] Running gemini_pro3 -> outputs/PromptPersona_Full_600_gemini_pro3_responses.csv
+Traceback (most recent call last):
+  File "/root/Bias/multi_model_generation.py", line 373, in <module>
+    main(sys.argv[1:])
+  File "/root/Bias/multi_model_generation.py", line 361, in main
+    run_model(
+  File "/root/Bias/multi_model_generation.py", line 209, in run_model
+    response = generate_with_gemini(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Bias/multi_model_generation.py", line 136, in generate_with_gemini
+    text = _extract_response_text(response)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/Bias/multi_model_generation.py", line 275, in _extract_response_text
+    text = getattr(response, "text", None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.12/site-packages/google/generativeai/types/generation_types.py", line 481, in text
+    raise ValueError(msg)
+ValueError: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.

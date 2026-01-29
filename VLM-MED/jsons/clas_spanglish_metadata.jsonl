@@ -1,0 +1,1 @@
+{"model_key": "phi35_mini", "model_id": "microsoft/Phi-3.5-mini-instruct", "target_layer_index": 16, "num_hidden_layers": 32, "hidden_size": 3072, "alpha": 0.05, "prompt_source": "Bias/PromptPersona_Spanglish.csv", "sample_size": 15}

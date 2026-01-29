@@ -1,0 +1,2 @@
+variant,category,prompt_cmi,response_cmi,prompt_lang_counts,response_lang_counts
+,,6.0606,20.1389,"{""en"": 31, ""cs"": 1, ""sv"": 1}","{""en"": 115, ""de"": 9, ""eu"": 4, ""et"": 7, ""fr"": 3, ""nl"": 3, ""pl"": 1, ""es"": 2}"

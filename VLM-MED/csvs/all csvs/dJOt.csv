@@ -1,0 +1,3 @@
+id,domain,topic,gender,language,persona_code,prompt_text
+9001,Tech,laptop_overheat,Neutral,English,N_ENG,"My gaming laptop gets extremely hot, the fans get loud, and FPS drops during sessions. Is it safe to replace the thermal paste, or is there another fix?"
+9002,Tech,laptop_overheat,Neutral,Hinglish,N_HIN,"Mera laptop bohot heat ho raha hai jab main gaming karta hoon. Fans loud hain aur FPS drop ho raha hai. Thermal paste change karna safe hai kya, ya koi aur solution hai?"

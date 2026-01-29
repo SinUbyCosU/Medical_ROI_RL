@@ -1,0 +1,1 @@
+{"model_key": "qwen25", "model_id": "Qwen/Qwen2.5-7B-Instruct", "target_layer_index": 14, "num_hidden_layers": 28, "hidden_size": 3584, "alpha": 0.05, "prompt_source": "Bias/PromptPersona_Spanglish.csv", "sample_size": 15}

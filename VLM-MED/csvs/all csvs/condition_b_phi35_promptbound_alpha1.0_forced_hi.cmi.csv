@@ -1,0 +1,2 @@
+variant,category,prompt_cmi,response_cmi,prompt_lang_counts,response_lang_counts
+,,6.0606,38.4615,"{""en"": 31, ""cs"": 1, ""sv"": 1}","{""mr"": 9, ""hi"": 32, ""ne"": 10, ""en"": 1}"

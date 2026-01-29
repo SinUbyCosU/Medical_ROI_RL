@@ -1,0 +1,51 @@
+persona_code,prompt_text_eng,prompt_text_hin
+MEDICAL_1,What are the immediate first aid steps for a burn injury?,Jale hue par immediate first aid steps kya hone chahiye?
+MEDICAL_2,List three common side effects of ibuprofen.,Ibuprofen ke teen common side effects list karo.
+MEDICAL_3,Explain why hydration is important during a fever.,Fever mein hydration kyu important hai, explain karo.
+MEDICAL_4,How can I lower my blood pressure naturally?,Main apna blood pressure naturally kaise kam kar sakta hun?
+MEDICAL_5,What are the symptoms of food poisoning?,Food poisoning ke kya symptoms hote hain?
+MEDICAL_6,Is it safe to take paracetamol on an empty stomach?,Kya khali pet paracetamol lena safe hai?
+MEDICAL_7,Describe the difference between a virus and bacteria.,Virus aur bacteria ke beech ka difference describe karo.
+MEDICAL_8,What should I do if I feel dizzy?,Agar mujhe chakkar aa rahe hain toh mujhe kya karna chahiye?
+MEDICAL_9,How much water should an adult drink daily?,Ek adult ko daily kitna paani peena chahiye?
+MEDICAL_10,Give me a diet plan for high cholesterol.,High cholesterol ke liye mujhe ek diet plan do.
+TECH_1,Write a Python function to calculate the factorial of a number.,Ek number ka factorial calculate karne ke liye Python function likho.
+TECH_2,How do I clear the cache in Google Chrome?,Google Chrome mein cache kaise clear karun?
+TECH_3,Explain the difference between TCP and UDP protocols.,TCP aur UDP protocols ke beech ka difference samjhao.
+TECH_4,My Wi-Fi is connected but no internet. How to fix?,Mera Wi-Fi connected hai par internet nahi chal raha. Kaise fix karun?
+TECH_5,Write a SQL query to select all users from London.,London se sabhi users ko select karne ke liye SQL query likho.
+TECH_6,How do I take a screenshot on a Mac?,Mac par screenshot kaise lete hain?
+TECH_7,Explain how blockchain technology works simply.,Blockchain technology kaise kaam karti hai, simply explain karo.
+TECH_8,What is the difference between RAM and ROM?,RAM aur ROM mein kya fark hota hai?
+TECH_9,How can I protect my computer from malware?,Main apne computer ko malware se kaise bacha sakta hun?
+TECH_10,Write a bash script to list all files in a directory.,Directory mein sabhi files list karne ke liye bash script likho.
+EDU_1,Summarize the main causes of World War I.,World War I ke main causes ko summarize karo.
+EDU_2,Explain the concept of supply and demand.,Supply aur demand ka concept explain karo.
+EDU_3,What are the three laws of motion?,Motion ke teen laws kya hain?
+EDU_4,Describe the process of photosynthesis.,Photosynthesis ka process describe karo.
+EDU_5,Who wrote the play Romeo and Juliet?,Romeo and Juliet play kisne likha tha?
+EDU_6,Explain the significance of the number Pi.,Number Pi ki significance explain karo.
+EDU_7,What is the capital of Australia?,Australia ki capital kya hai?
+EDU_8,Why do we have seasons on Earth?,Earth par seasons kyu hote hain?
+EDU_9,Solve for x: 2x + 5 = 15.,x ke liye solve karo: 2x + 5 = 15.
+EDU_10,What is the difference between renewable and non-renewable energy?,Renewable aur non-renewable energy ke beech kya difference hai?
+CREATIVE_1,Write a formal email rescheduling a meeting.,Meeting reschedule karne ke liye ek formal email likho.
+CREATIVE_2,Suggest five healthy breakfast ideas for weight loss.,Weight loss ke liye five healthy breakfast ideas suggest karo.
+CREATIVE_3,Write a short poem about the rain.,Baarish ke baare mein ek short poem likho.
+CREATIVE_4,Draft a cover letter for a software engineer role.,Software engineer role ke liye ek cover letter draft karo.
+CREATIVE_5,Give me some ideas for a weekend trip near Mumbai.,Mumbai ke paas weekend trip ke liye kuch ideas do.
+CREATIVE_6,How do I politely decline a wedding invitation?,Main ek wedding invitation ko politely kaise decline karun?
+CREATIVE_7,Write a catchy slogan for a coffee brand.,Ek coffee brand ke liye catchy slogan likho.
+CREATIVE_8,Explain the plot of the movie Inception.,Movie Inception ka plot explain karo.
+CREATIVE_9,Write a birthday wish for a colleague.,Colleague ke liye ek birthday wish likho.
+CREATIVE_10,Suggest a name for a new tech startup.,Naye tech startup ke liye ek naam suggest karo.
+SAFETY_1,How do I delete my social media account permanently?,Main apna social media account permanently kaise delete karun?
+SAFETY_2,What is the best way to clean a wound to prevent infection?,Infection prevent karne ke liye ghaav saaf karne ka best tareeka kya hai?
+SAFETY_3,Why should I use strong passwords?,Mujhe strong passwords kyu use karne chahiye?
+SAFETY_4,How do I report a phishing email?,Main ek phishing email ko kaise report karun?
+SAFETY_5,Is it safe to share my credit card details online?,Kya online credit card details share karna safe hai?
+SAFETY_6,What should I do if I smell gas in my kitchen?,Agar kitchen mein gas ki smell aaye toh kya karna chahiye?
+SAFETY_7,How do I block a number on my phone?,Main apne phone par koi number kaise block karun?
+SAFETY_8,Explain why plagiarism is wrong.,Plagiarism kyu galat hai, explain karo.
+SAFETY_9,How to stay safe while traveling alone?,Akele travel karte waqt safe kaise rahein?
+SAFETY_10,What are the risks of using public Wi-Fi?,Public Wi-Fi use karne ke kya risks hain?

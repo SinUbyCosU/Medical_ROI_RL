@@ -1,0 +1,212 @@
+{
+  "clas": {
+    "delta": {
+      "qwen25_7b": {
+        "n": 5,
+        "assertiveness": 0.2,
+        "complexity": 1.0,
+        "emotional_distance": 0.2,
+        "instructional_density": 0.2
+      },
+      "qwen2_7b": {
+        "n": 5,
+        "assertiveness": 1.0,
+        "complexity": 0.8,
+        "emotional_distance": -1.4,
+        "instructional_density": 0.2
+      },
+      "zephyr_7b": {
+        "n": 5,
+        "assertiveness": 0.6,
+        "complexity": 0.6,
+        "emotional_distance": 1.0,
+        "instructional_density": 0.2
+      },
+      "openhermes_mistral": {
+        "n": 5,
+        "assertiveness": 0.4,
+        "complexity": 0.4,
+        "emotional_distance": -2.6,
+        "instructional_density": 1.6
+      },
+      "nous_hermes_mistral": {
+        "n": 5,
+        "assertiveness": 0.4,
+        "complexity": -0.6,
+        "emotional_distance": 0.4,
+        "instructional_density": 0.2
+      },
+      "phi35_mini": {
+        "n": 5,
+        "assertiveness": -0.6,
+        "complexity": -1.0,
+        "emotional_distance": -0.4,
+        "instructional_density": 3.4
+      }
+    },
+    "baseline": {
+      "qwen25_7b": {
+        "n": 5,
+        "assertiveness": 7.6,
+        "complexity": 6.0,
+        "emotional_distance": 4.0,
+        "instructional_density": 8.8
+      },
+      "qwen2_7b": {
+        "n": 5,
+        "assertiveness": 6.8,
+        "complexity": 5.6,
+        "emotional_distance": 5.2,
+        "instructional_density": 8.8
+      },
+      "zephyr_7b": {
+        "n": 5,
+        "assertiveness": 7.4,
+        "complexity": 6.0,
+        "emotional_distance": 3.8,
+        "instructional_density": 8.8
+      },
+      "openhermes_mistral": {
+        "n": 5,
+        "assertiveness": 7.2,
+        "complexity": 5.4,
+        "emotional_distance": 5.0,
+        "instructional_density": 7.4
+      },
+      "nous_hermes_mistral": {
+        "n": 5,
+        "assertiveness": 7.2,
+        "complexity": 6.6,
+        "emotional_distance": 3.0,
+        "instructional_density": 8.6
+      },
+      "phi35_mini": {
+        "n": 5,
+        "assertiveness": 7.4,
+        "complexity": 6.6,
+        "emotional_distance": 3.8,
+        "instructional_density": 5.4
+      }
+    },
+    "steered": {
+      "qwen25_7b": {
+        "n": 5,
+        "assertiveness": 7.8,
+        "complexity": 7.0,
+        "emotional_distance": 4.2,
+        "instructional_density": 9.0
+      },
+      "qwen2_7b": {
+        "n": 5,
+        "assertiveness": 7.8,
+        "complexity": 6.4,
+        "emotional_distance": 3.8,
+        "instructional_density": 9.0
+      },
+      "zephyr_7b": {
+        "n": 5,
+        "assertiveness": 8.0,
+        "complexity": 6.6,
+        "emotional_distance": 4.8,
+        "instructional_density": 9.0
+      },
+      "openhermes_mistral": {
+        "n": 5,
+        "assertiveness": 7.6,
+        "complexity": 5.8,
+        "emotional_distance": 2.4,
+        "instructional_density": 9.0
+      },
+      "nous_hermes_mistral": {
+        "n": 5,
+        "assertiveness": 7.6,
+        "complexity": 6.0,
+        "emotional_distance": 3.4,
+        "instructional_density": 8.8
+      },
+      "phi35_mini": {
+        "n": 5,
+        "assertiveness": 6.8,
+        "complexity": 5.6,
+        "emotional_distance": 3.4,
+        "instructional_density": 8.8
+      }
+    },
+    "overall_delta": {
+      "n": 30,
+      "assertiveness": 0.333,
+      "complexity": 0.2,
+      "emotional_distance": -0.467,
+      "instructional_density": 0.967
+    }
+  },
+  "initial_baseline": {
+    "qwen25_7b": {
+      "n": 600,
+      "assertiveness": 7.202,
+      "complexity": 5.94,
+      "emotional_distance": 3.858,
+      "instructional_density": 8.572
+    },
+    "yi15_6b": {
+      "n": 586,
+      "assertiveness": 5.531,
+      "complexity": 4.205,
+      "emotional_distance": 5.323,
+      "instructional_density": 4.59
+    },
+    "zephyr_7b": {
+      "n": 600,
+      "assertiveness": 6.508,
+      "complexity": 5.507,
+      "emotional_distance": 4.393,
+      "instructional_density": 7.157
+    },
+    "qwen2_7b": {
+      "n": 600,
+      "assertiveness": 7.287,
+      "complexity": 7.522,
+      "emotional_distance": 9.103,
+      "instructional_density": 3.498
+    },
+    "openhermes_mistral_7b": {
+      "n": 581,
+      "assertiveness": 6.685,
+      "complexity": 5.504,
+      "emotional_distance": 4.219,
+      "instructional_density": 7.854
+    },
+    "nous_hermes_mistral_7b": {
+      "n": 593,
+      "assertiveness": 6.826,
+      "complexity": 5.592,
+      "emotional_distance": 4.346,
+      "instructional_density": 7.939
+    },
+    "phi35_mini": {
+      "n": 702,
+      "assertiveness": 3.597,
+      "complexity": 5.472,
+      "emotional_distance": 7.09,
+      "instructional_density": 3.021
+    },
+    "llama31_8b": {
+      "n": 600,
+      "assertiveness": 6.537,
+      "complexity": 4.502,
+      "emotional_distance": 4.797,
+      "instructional_density": 6.71
+    },
+    "gemini_flash.csv": {
+      "n": 600,
+      "assertiveness": 7.372,
+      "complexity": 6.15,
+      "emotional_distance": 3.47,
+      "instructional_density": 8.702
+    }
+  },
+  "non_clas": {
+    "gemini_flash_csv_rows": 25581,
+    "chatgpt_csv_rows": 1123
+  }
+}

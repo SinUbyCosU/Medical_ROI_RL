@@ -1,0 +1,325 @@
+,DESCRIPTION,indication,comparison,patient_id
+0,XR CHEST 1 VIEW," 22 years of age, Female, See Comments.Presents with CP for a duration of 1 day. Specific location of issue (if applicable): unknown. Concern for ptx vs pna.", None.,186
+1,XR CHEST 1 VIEW," 27 years of age, Male, TB Rule-out prior to discharge to residential.", None.,289
+2,XR CHEST 1 VIEW," 21 years of age, Female, SOB, fever.", None.,227
+3,XR CHEST 1 VIEW," 47 years of age, Male, See Comments.PMH heart d/o. Presents with heart palpitations for a duration of last night. Specific location of issue (if applicable): unown. Concern for pna.", None.,0
+4,XR CHEST 1 VIEW," 40 years of age, Male, concern for infection, hypotension..", None.,16
+5,XR CHEST 1 VIEW," 74 years of age, Female, s/p unwitnessed fall, r/o rib fx, pna or effusion.", None.,151
+6,XR CHEST 1 VIEW," 36 years of age, Male, COVID PUI sick panel order.", None.,88
+7,XR CHEST 1 VIEW," 83 years of age, Female, cough, sob.", None.,287
+8,XR CHEST 1 VIEW," 53 years of age, Female, See Comments.Renal transplant w fever x1 c/f PNA", None.,107
+9,XR CHEST 1 VIEW," 79 years of age, Female, subacute cough, covid sx. PUI.", None.,64
+10,XR CHEST 1 VIEW," 119 years of age, Unknown, Trauma 97.", None available.,1
+11,XR CHEST 1 VIEW," 63 years of age, Male, hx MI, syncope, c/f pna, ptx.", None.,224
+12,XR CHEST 1 VIEW," 51 years of age, Female, fever.", None.,45
+13,XR CHEST 1 VIEW," 58 years of age, Male, Hx DM p/w fever x 1 d no cough c/f poss PNA.", None.,95
+14,XR CHEST 1 VIEW," 26 years of age, Male, Trauma 99.", None.,228
+15,XR CHEST 1 VIEW," 69 years of age, Female, pt with MG, concern for exacerbating factors.", None.,74
+16,XR CHEST 1 VIEW," 67 years of age, Male, Cardiac Complaint.", None.,84
+17,XR CHEST 1 VIEW," 119 years of age, Unknown, Trauma 99.", None.,262
+18,XR CHEST 1 VIEW," 34 years of age, Female, Trauma.", None.,291
+19,XR CHEST 1 VIEW," 33 years of age, Male, dyspnea.", None.,110
+20,XR CHEST 1 VIEW," 60 years of age, Male, history of hypertension presents with fever.", None.,54
+21,XR CHEST 1 VIEW," 75 years of age, Female, Relevant PMH afib, HTN. Presents with chest pain and SOB for a duration of tonight. Concern for PTX, PNA, CHF.", None.,153
+22,XR CHEST 1 VIEW," 119 years of age, Unknown, Trauma.", None.,310
+23,XR CHEST 1 VIEW," 84 years of age, Male, AMS, h/o chronic cardiomyopathy and pleural effusion ,r/o PNA.", None.,281
+24,XR CHEST 1 VIEW," 50 years of age, Male, Trauma 97. MCC", None.,44
+25,XR CHEST 1 VIEW," 95 years of age, Female, Trauma 97., Fall", None.,35
+26,XR CHEST 1 VIEW," 62 years of age, Female, See Comments.", None.,6
+27,XR CHEST 1 VIEW," 63 years of age, Male, Trauma.", None.,52
+28,XR CHEST 1 VIEW," 119 years of age, Male, Trauma.", None.,177
+29,XR CHEST 1 VIEW," 36 years of age, Female, See Comments.", None.,176
+30,XR CHEST 1 VIEW," 26 years of age, Unknown, Trauma 97.", None.,41
+31,XR CHEST 1 VIEW," 81 years of age, Male, Trauma.", None.,57
+32,XR CHEST 1 VIEW," 68 years of age, Female, Presents with cp, sob, fever for a duration of several days. Specific location of issue (if applicable): lung. Concern for PNA, effusion, PNX, covid r/o..", None.,197
+33,XR CHEST 1 VIEW," 32 years of age, Female, Presents with chest pain for a duration of one day. Specific location of issue (if applicable): . Concern for ptx pna..", None.,76
+34,XR CHEST 1 VIEW," 78 years of age, Female, on eliquis. Presents with shortness of breath for a duration of unknown. Specific location of issue (if applicable): chest. Concern for pulmonary edema..", None.,78
+35,XR CHEST 1 VIEW," 81 years of age, Male, sob x days eval pna.", None.,278
+36,XR CHEST 1 VIEW," 50 years of age, Male, Eval for pna.", None.,89
+37,XR CHEST 1 VIEW," 25 years of age, Male, eval effusion.", None.,72
+38,XR CHEST 1 VIEW," 63 years of age, Female, Picc placement.", None.,206
+39,XR CHEST 1 VIEW," 65 years of age, Male, eval ?pulmedema, ards dveloping.", None,69
+40,XR CHEST 1 VIEW," 53 years of age, Female,  DK1. Presents with n/v and cp for a duration of one day. Specific location of issue (if applicable): . Concern for ptx, pna..", None.,18
+41,XR CHEST 1 VIEW," 44 years of age, Male, Vomiting, Gastric Pacer placed recently..", None.,168
+42,XR CHEST 1 VIEW," 27 years of age, Male, syncope.", None.,183
+43,XR CHEST 1 VIEW," 66 years of age, Female, fall.", None.,60
+44,XR CHEST 1 VIEW," 25 years of age, Male, fever, cough, n/V COVID r/o.", None.,167
+45,XR CHEST 1 VIEW," 65 years of age, Female, Trauma.", None.,9
+46,XR CHEST 1 VIEW," 65 years of age, Male, See Comments.", None.,217
+47,XR CHEST 1 VIEW," 53 years of age, Female, See Comments.", None.,13
+48,XR CHEST 1 VIEW," 53 years of age, Male, See Comments.", None.,237
+49,XR CHEST 1 VIEW," 26 years of age, Female, See Comments.", None.,79
+50,XR CHEST 1 VIEW," 88 years of age, Male, Trauma 95.", None.,225
+51,XR CHEST 1 VIEW," 72 years of age, Female, 72-year-old female who presents with chest pain and shortness of breath.  Please evaluate for ACS..", None.,29
+52,XR CHEST 1 VIEW," 22 years of age, Female, Trauma.", None.,2
+53,XR CHEST 1 VIEW," 72 years of age, Female, See Comments.", None.,171
+54,XR CHEST 1 VIEW," 58 years of age, Female, Trauma 95.", None.,205
+55,XR CHEST 1 VIEW," 92 years of age, Female, Trauma 97.", None.,75
+56,XR CHEST 1 VIEW," 40 years of age, Female, 40-year-old female with acute onset of left chest pain this morning concern for ACS versus pneumothorax.", None.,22
+57,XR CHEST 1 VIEW," 61 years of age, Male, Trauma 97.", None.,194
+58,XR CHEST 1 VIEW," 24 years of age, Female, postop.", None.,51
+59,XR CHEST 1 VIEW," 32 years of age, Male, 4 days of sore throat, L chest pressure and mild SOB, no PMHx, please eval for lung infection.", None available.,182
+60,XR CHEST 1 VIEW," 92 years of age, Female, syncope and fall, eval for cardiomegaly,--NOT A COVID RULE OUT, NO INFECTIOUS SYMPOTMS.", None available.,32
+61,XR CHEST 1 VIEW," 57 years of age, Female, patient has shortness of breath..", None available.,11
+62,XR CHEST 1 VIEW," 96 years of age, Female, Trauma.", None available.,301
+63,XR CHEST 1 VIEW," 45 years of age, Female, See Comments.", None available.,185
+64,XR CHEST 1 VIEW," 48 years of age, Female, chest pain for 2 days.", None available.,163
+65,XR CHEST 1 VIEW," 20 years of age, Male, Trauma.", None available.,71
+66,XR CHEST 1 VIEW," 44 years of age, Male, Trauma 97.", None available.,53
+67,XR CHEST 1 VIEW," 34 years of age, Female, COVID now wiht pain with resp.", None available.,267
+68,XR CHEST 1 VIEW," 60 years of age, Male, Trauma 97.", None available.,108
+69,XR CHEST 1 VIEW," 45 years of age, Female, eval for pna, COVID +.", None available.,15
+70,XR CHEST 1 VIEW," 119 years of age, Unknown, Trauma.", None available.,321
+71,XR CHEST 1 VIEW," 36 years of age, Male, 36-year-old male presenting with 10 days of generalized weakness and myalgias, 2 days of cough concern for pneumonia versus viral infection.", None available.,77
+72,XR CHEST 1 VIEW," 72 years of age, Female, Cardiac Complaint.", None.,4
+73,XR CHEST 1 VIEW," 68 years of age, Female, OPD, exposure to COVID(+) individual. Presents with chest tightness, productive cough for a duration of 3 days. Specific location of issue (if applicable): Chest. Concern for infection..", None.,235
+74,XR CHEST 1 VIEW," 69 years of age, Female, cough x2 weeks, L sided chest pain radiating to L shoulder.", None.,296
+75,XR CHEST 1 VIEW," 25 years of age, Male, TB rule out.", None.,40
+76,XR CHEST 1 VIEW," 50 years of age, Female, fever 103 degrees Fahrenheit, concern for pneumonia..", None.,160
+77,XR CHEST 1 VIEW," 32 years of age, Female, seizure, suspected pneumonia.", None. ,284
+78,XR CHEST 1 VIEW," 46 years of age, Female, Trauma.", None.,145
+79,XR CHEST 1 VIEW," 54 years of age, Female, eval for pna.", None.,152
+80,XR CHEST 1 VIEW," 33 years of age, Female, R/o PNA.", None.,247
+81,XR CHEST 1 VIEW," 79 years of age, Female, Shortness of breath cough rule out PNA.", None.,210
+82,XR CHEST 1 VIEW," 88 years of age, Female, h/o CP since last night, retrosternal radiating to right arm, eval for widened mediastinum.", None.,293
+83,XR CHEST 1 VIEW," 36 years of age, Female, tachypnea.", None.,271
+84,XR CHEST 1 VIEW," 56 years of age, Male, patient has chest pain. ", None available.,308
+85,XR CHEST 1 VIEW," 59 years of age, Female, cough for one week.", None.,259
+86,XR CHEST 1 VIEW," 65 years of age, Female, POST CENTRAL LINE.", None.,46
+87,XR CHEST 1 VIEW," 119 years of age, Unknown, Trauma.", None.,143
+88,XR CHEST 1 VIEW," 68 years of age, Male, pre-pacemaker implant.", None.,220
+89,XR CHEST 1 VIEW," 50 years of age, Male, fever post op.", None.,94
+90,XR CHEST 1 VIEW," Unknown age, Unknown, Trauma 99.", None.,111
+91,XR CHEST 1 VIEW," 119 years of age, Male, Cardiac Complaint.", None.,58
+92,XR CHEST 1 VIEW," 47 years of age, Female,  postpartum cardiomyopathy with pace maker in place. Presents with chest pain/SOB for a duration of 2 days. Specific location of issue (if applicable): substernal. Concern for MI/Aortic dissection/PE..", None.,97
+93,XR CHEST 1 VIEW," 52 years of age, Male, trauma patient, crush injuries, seizures..", None.,148
+94,XR CHEST 1 VIEW," 26 years of age, Unknown, Trauma 97.", None.,92
+95,XR CHEST 1 VIEW," 35 years of age, Male, See Comments.", None.,255
+96,XR CHEST 1 VIEW," 60 years of age, Male, post intubation.", None.,83
+97,XR CHEST 1 VIEW," 50 years of age, Female, POD#2 breast flap, tachy, O2 requirement.", None.,270
+98,XR CHEST 1 VIEW," 26 years of age, Male, hypoxia.", None.,25
+99,XR CHEST 1 VIEW," 29 years of age, Female, 29F history of PE with IVC filter in place, now s/p diagnostic laparoscopy, exploratory laparotomy, lysis of adhesions, left cystectomy, proctoscopy with fevers unknown origin, c/f atelectasis, PNA..", None.,42
+100,XR CHEST 1 VIEW," 61 years of age, Female, 61yF hx of sarcoid presenting with acute onset dizziness.", None.,61
+101,XR CHEST 1 VIEW," 45 years of age, Male, Trauma.", None.,251
+102,XR CHEST 1 VIEW," 78 years of age, Male, hypoxia post-op.", None.,285
+103,XR CHEST 1 VIEW," 35 years of age, Female, Chest Pain.", None.,297
+104,XR CHEST 1 VIEW," 50 years of age, Male, intubation.", None.,130
+105,XR CHEST 1 VIEW," 71 years of age, Female, Admission baseline with chest tubes and central line.", None.,98
+106,XR CHEST 1 VIEW," 100 years of age, Female, Trauma.", None. ,49
+107,XR CHEST 1 VIEW," 62 years of age, Male, ileus.", None.,154
+108,XR CHEST 1 VIEW," 43 years of age, Male, upper abdominal pain.", None.,55
+109,XR CHEST 1 VIEW," 75 years of age, Female, Order History: Relevant PMH Recent stent. Presents with CP for a duration of 2 days. Specific location of issue (if applicable): n/a. Concern for stent migration, Edema/effusions..", None.,300
+110,XR CHEST 1 VIEW," 35 years of age, Female, patient has chest pain for one week..", None available.,240
+111,XR CHEST 1 VIEW," 77 years of age, Female, chest pain.", None.,68
+112,XR CHEST 1 VIEW," 38 years of age, Male, Trauma 97.", None.,112
+113,XR CHEST 1 VIEW," 57 years of age, Male, chest pain.", None.,96
+114,XR CHEST 1 VIEW," 42 years of age, Unknown, Trauma.", None.,203
+115,XR CHEST 1 VIEW," 57 years of age, Female, Trauma 97.", None.,243
+116,XR CHEST 1 VIEW," 39 years of age, Female, shortness of breath post procedure.", None.,99
+117,XR CHEST 1 VIEW," 40 years of age, Female, See comments.", None.,204
+118,XR CHEST 1 VIEW," 68 years of age, Male, Cardiac Complaint.", None.,258
+119,XR CHEST 1 VIEW," 61 years of age, Male, chest pain radiating into left arm.", None.,175
+120,XR CHEST 1 VIEW," 35 years of age, Unknown, Trauma.", None.,102
+121,XR CHEST 1 VIEW," 118 years of age, Unknown, Trauma 97. Mechanical fall, pain to right chest wall.", None.,279
+122,XR CHEST 1 VIEW," 55 years of age, Female, abdominal pain.", None.,101
+123,XR CHEST 1 VIEW," 61 years of age, Female, cough, shortness breath, respiratory distress.", None.,162
+124,XR CHEST 1 VIEW," 23 years of age, Male, Trauma 97.", None.,19
+125,XR CHEST 1 VIEW," 41 years of age, Unknown, Trauma.", None.,50
+126,XR CHEST 1 VIEW," 46 years of age, Male, see comments.", None.,313
+127,XR CHEST 1 VIEW," 97 years of age, Male, see comments.", None.,17
+128,XR CHEST 1 VIEW," 49 years of age, Female, history sacral agenesis, ESRD, sleep apnea presenting with shortness of breath for several months.", None.,322
+129,XR CHEST 1 VIEW," 118 years of age, Unknown, s/p ETT placement.", None.,20
+130,XR CHEST 1 VIEW," 70 years of age, Male, bradycardia.", None.,184
+131,XR CHEST 1 VIEW," 38 years of age, Male, see comments.", None.,166
+132,XR CHEST 1 VIEW," 32 years of age, Male, trauma.", None.,165
+133,XR CHEST 1 VIEW," 118 years of age, Unknown, Tube placement.", None.,8
+134,XR CHEST 1 VIEW," 25 years of age, Male, Order History: Relevant PMH methamphetamine use, with intermittent epigastric abdominal pain radiating to the chest and back. Evaluate for free air under diaphragm.", None.,201
+135,XR CHEST 1 VIEW," 91 years of age, Female, Chest pain worse with inspiration.", None.,273
+136,XR CHEST 1 VIEW," 57 years of age, Male, MVC.", None.,117
+137,XR CHEST 1 VIEW," 39 years of age, Male, r/o TB.", None.,188
+138,XR CHEST 1 VIEW," 31 years of age, Female, Trauma.", None.,121
+139,XR CHEST 1 VIEW," 118 years of age, Unknown, midsternal chest pain.", None.,119
+140,XR CHEST 1 VIEW," 83 years of age, Male, post intubation.", None.,157
+141,XR CHEST 1 VIEW," 42 years of age, Male, fall.", None.,5
+142,XR CHEST 1 VIEW," 118 years of age, Unknown, Trauma.", None.,86
+143,XR CHEST 1 VIEW," 118 years of age, Unknown, mvc.", None.,236
+144,XR CHEST 1 VIEW," 26 years of age, Female, Trauma.", None.,196
+145,XR CHEST 1 VIEW," 118 years of age, Unknown, Trauma.", None.,82
+146,XR CHEST 1 VIEW," 23 years of age, female, Trauma.", None.,190
+147,XR CHEST 1 VIEW," 56 years of age, found down in the living room with about 400 mL of blood and 6 cm laceration to the frontal and parietal forehead.", None.,229
+148,XR CHEST 1 VIEW," 42 years of age, Female, trauma.", None.,238
+149,XR CHEST 1 VIEW," 79 years of age, Male, S/P ICD/ Pacemaker insetion   /  Complete X-ray without lifting arms above shoulders..", None.,124
+150,XR CHEST 1 VIEW," 33 years of age, Male, near syncope.", None.,14
+151,XR CHEST 1 VIEW," 64 years of age, Male, c/f aspiration.", None.,277
+152,XR CHEST 1 VIEW," 60 years of age, Female, fall.", None.,103
+153,XR CHEST 1 VIEW," 68 years of age, Female, chest pain.", None.,275
+154,XR CHEST 1 VIEW," 71 years of age, Male, Trauma.", None.,218
+155,XR CHEST 1 VIEW," 89 years of age, Male, Preoperative screening.", None.,195
+156,XR CHEST 1 VIEW," 54 years of age, Female, starting amiodarone.", none,191
+157,XR CHEST 1 VIEW," 63 years of age, Female, Pre op.", None.,316
+158,XR CHEST 1 VIEW," 58 years of age, Male, post op.", None.,67
+159,XR CHEST 1 VIEW," 92 years of age, Female, presenting with altered mental status and bradycardia for evaluation of CHF or pneumonia.", None.,193
+160,XR CHEST 1 VIEW," 20 years of age, Male, trauma.", None.,33
+161,XR CHEST 1 VIEW," 55 years of age, Trauma. Syncope, fall.", None.,311
+162,XR CHEST 1 VIEW," 55 years of age, Male, Trauma.", None.,48
+163,XR CHEST 1 VIEW," 64 years of age, Female, chest pain.", None.,200
+164,XR CHEST 1 VIEW," 56 years of age, Male, S/P ICD/ Pacemaker insertion   /  Complete X-ray without lifting arms above shoulders..", None.,27
+165,XR CHEST 1 VIEW," 90 years of age, Female, altered mental status, sepsis.", None.,26
+166,XR CHEST 1 VIEW," 93 years of age, Female, see comments.", None.,288
+167,XR CHEST 1 VIEW," 118 years of age, Unknown, See Comments.", None.,309
+168,XR CHEST 1 VIEW," 87 years of age, Female, Trauma.", None.,164
+169,XR CHEST 1 VIEW," 70 years of age, Male, L eye vision loss 2/2 Giant cell arteritis; assess for mediastinal widening per rheum recommendations.", None.,120
+170,XR CHEST 1 VIEW," 32 years of age, Male, Trauma.", None.,59
+171,XR CHEST 1 VIEW," 63 years of age, Male, intubated.", None.,147
+172,XR CHEST 1 VIEW," 25 years of age, Male, Order History: Relevant PMH epilepsy. Presents with hypoxia. Specific location of issue (if applicable. Concern for aspiration..", None.,213
+173,XR CHEST 1 VIEW," 63 years of age, Female, cough and chest pain.", None.,39
+174,XR CHEST 1 VIEW," 65 years of age, trauma, fall.", None.,215
+175,XR CHEST 1 VIEW," 70 years of age, Male, shortness of breath.", None.,266
+176,XR CHEST 1 VIEW," 65 years of age, Male, see comments. Cough for days, Rule out pneumonia", None.,31
+177,XR CHEST 1 VIEW," 66 years of age, Male, sepsis.", None.,232
+178,XR CHEST 1 VIEW," 72 years of age, Female, shortness of breath.", None.,292
+179,XR CHEST 1 VIEW," 79 years of age, Male, Evaluate for evidence of pulmonary edema, severe aortic stenosis with recent pulmonary edema. Admitted for L MCA stroke.", None.,222
+180,XR CHEST 1 VIEW," 86 years of age, Female, Syncope, strong sternal rub, c/f pna vs rib fx.", None.,286
+181,XR CHEST 1 VIEW," 30 years of age, Male, MVC with reportd thoacic pin.", None.,276
+182,XR CHEST 1 VIEW," Trauma patient, mechanical ground-level fall.", None.,115
+183,XR CHEST 1 VIEW, Trauma, None.,104
+184,XR CHEST 1 VIEW, Trauma., None.,212
+185,XR CHEST 1 VIEW," 78 years of age, Unknown, Trauma.", None.,263
+186,XR CHEST 1 VIEW," 88 years of age, Female, syncope.", None.,256
+187,XR CHEST 1 VIEW, None provided., None.,146
+188,XR CHEST 1 VIEW," 59 years of age, Female, Increased sputum, new O2 requirement, recent ENT surgery, c/f PNA.", None.,133
+189,XR CHEST 1 VIEW," 90 years of age, Female, pain with shortening.", None.,174
+190,XR CHEST 1 VIEW," 118 years of age, Unknown, trauma, auto vs ped @ 15mph.", None.,139
+191,XR CHEST 1 VIEW," 70 years of age, Female, S/P ICD/ Pacemaker insetion   /  Complete X-ray without lifting arms above shoulders..", None.,299
+192,XR CHEST 1 VIEW," 83 years of age, Male, probable urosepsis secondary to clogged Foley catheter..", None.,226
+193,XR CHEST 1 VIEW," 89 years of age, Female, Trauma.", None.,47
+194,XR CHEST 1 VIEW, Trauma patient, None.,36
+195,XR CHEST 1 VIEW," 70 years of age, Unknown, Trauma.", None.,128
+196,XR CHEST 1 VIEW," 68 years of age, Female, COPD, short of breath for one day.", None.,123
+197,XR CHEST 1 VIEW," 118 years of age, Unknown, STAB WOUND.", None.,129
+198,XR CHEST 1 VIEW," 67 years of age, Unknown, Trauma.", None.,87
+199,XR CHEST 1 VIEW," 61 years of age, male, CHF volume overload , new cirrhosis.", None.,233
+200,XR CHEST 1 VIEW," 60 of age, female, trauma.", None.,155
+201,XR CHEST 1 VIEW," 57 years of age, Male, Trauma.", None.,249
+202,XR CHEST 1 VIEW," 119 years of age, Male, Trauma. Fell 24 feet from ladder and landed on back.", None.,21
+203,XR CHEST 1 VIEW," 41 years of age, Male, who presents with several days of upper back pain..", None.,10
+204,XR CHEST 1 VIEW," 32 years of age, Male, Order History: Relevant PMH . Presents with SOB for a duration of 15 min. Specific location of issue (if applicable): . Concern for cardiomegaly, PTX..", None.,91
+205,XR CHEST 1 VIEW," 30 years of age, Female, history of hypertension, abnormal EKG, abdominal pain, evaluate for cardiomegaly or mediastinal widening.", None.,315
+206,XR CHEST 1 VIEW," 47 years of age, Male, stemi.", None.,66
+207,XR CHEST 1 VIEW," 63 years of age, Female, Acute hypoxic respiratory failure.", None.,295
+208,XR CHEST 1 VIEW," 87 years of age, Unknown, Trauma.", None.,280
+209,XR CHEST 1 VIEW," 55 years of age, Male, chest pain.", None.,43
+210,XR CHEST 1 VIEW," 85 years of age, Male, Trauma.", None provided at this time,179
+211,XR CHEST 1 VIEW," 65 years of age, Male, See Comments.", None.,170
+212,XR CHEST 1 VIEW," 71 years of age, Female, preop-portable bedside.", None.,214
+213,XR CHEST 1 VIEW," 40 years of age, Male, CP today, PUI needs portable.", None.,114
+214,XR CHEST 1 VIEW," 62 years of age, Female, chest pain, L sided chest heaviness, assesss aortic root.", None.,253
+215,XR CHEST 1 VIEW," 21 years of age, Female, Order History: Relevant PMH palpitations. Presents with palpitations for a duration of 6 hours. Specific location of issue (if applicable): Concern for mediastinal mass, cardiac abnormalities. Was this exam done portably?->Yes.", None.,304
+216,XR CHEST 1 VIEW," 63 years of age, Male, GLF 1 hour PTA striking R shoulder. R/o rib or shoulder fracture.", None.,93
+217,XR CHEST 1 VIEW," 95 years of age, Male, Order History: Relevant PMH none. Presents with chest pain, discomfort when swallowing for a duration of 1 day. Specific location of issue (if applicable): Substernal. Concern for esophageal dysmotility, achalasia, ACS. Was this exam done portably?->Yes.", None.,24
+218,XR CHEST 1 VIEW," 74 years of age, Female,  Presents with vomiting for a duration of 2 days. Specific location of issue (if applicable): chest. Concern for PNA, PTX.", None.,318
+219,XR CHEST 1 VIEW," 43 years of age, Male, Order History: Relevant PMH unknown. Presents with chest pain for a duration of unknoen. Specific location of issue (if applicable): chest. Concern for PNA, PTX. Was this exam done portably?->Yes  : Patient unable to follow directions.", none,38
+220,XR CHEST 1 VIEW," 99 years of age, Female, Order History: Relevant PMH dementia. Presents with fall from bed for a duration of this morning. Specific location of issue (if applicable): n/a. Concern for fx. Was this exam done portably?->No.", None.,244
+221,XR CHEST 1 VIEW," 35 years of age, Female, Order History: Relevant PMH none. Presents with cough, chills x 1 week. Specific location of issue (if applicable): . Concern for PNA. Was this exam done portably?->Yes.", None.,30
+222,XR CHEST 1 VIEW," 79 years of age, Female, See Comments. Chest pain, GLF 1 week ago, c/f ptx", None.,307
+223,XR CHEST 1 VIEW," 58 years of age, Male, Order History: Relevant PMH . Presents with cough for a duration of 4 days. Specific location of issue (if applicable): . Concern for pneumonia. Was this exam done portably?->Yes.", None.,312
+224,XR CHEST 1 VIEW," 50 years of age, Female, Order History: Relevant PMH n/a. Presents with SOB and fevers for a duration of 2 days. Specific location of issue (if applicable): lungs. Concern for PNA. Was this exam done portably?->Yes.", None.,290
+225,XR CHEST 1 VIEW," 65 years of age, Female, Order History: Relevant PMH HTN. Presents with chest pain for a duration of 2 days. Specific location of issue (if applicable): lungs. Concern for PNA vs effusion vs edema. Was this exam done portably?->Yes.", None.,135
+226,XR CHEST 1 VIEW," 39 years of age, Male, Order History: Relevant PMH renal filaure. Presents with fever for a duration of one day. Specific location of issue (if applicable): . Concern for PNA. Was this exam done portably?->Yes.", None.,138
+227,XR CHEST 1 VIEW," 62 years of age, Female, syncope.", None.,81
+228,XR CHEST 1 VIEW," 119 years of age, Unknown, Trauma.", None.,142
+229,XR CHEST 1 VIEW," 70 years of age, Male, Trauma 97.", None.,136
+230,XR CHEST 1 VIEW," 73 years of age, Male, Trauma.", None.,181
+231,XR CHEST 1 VIEW," 92 years of age, Female, Trauma. History of ground-level fall with history of left hip pain", None.,62
+232,XR CHEST 1 VIEW, 50-year-old male status post syncope. , None.,198
+233,XR CHEST 1 VIEW," 118 years of age, Unknown, Trauma.", None.,109
+234,XR CHEST 1 VIEW," 37 years of age, Female, Trauma.", None.,257
+235,XR CHEST 1 VIEW," Unknown age, Male, Trauma.", None.,245
+236,XR CHEST 1 VIEW," 89 years of age, Male, fall.", None.,169
+237,XR CHEST 1 VIEW," 39 years of age, Female, Trauma.", None available,187
+238,XR CHEST 1 VIEW," 87 years of age, Male, portable, clear pacemaker for MRI, please perform STAT as MRI is waiting.", None.,241
+239,XR CHEST 1 VIEW," 83 years of age, Male, trauma.", None.,122
+240,XR CHEST 1 VIEW," 75 years of age, Male, portable, check for pneumothorax.", None.,230
+241,XR CHEST 1 VIEW," 94 years of age, Female, status post mechanical fall.", None.,3
+242,XR CHEST 1 VIEW," 68 years of age, Female, up right portable CXR; SOB and interscalene nerve block > check for diaphram paralysis.", None.,159
+243,XR CHEST 1 VIEW," 43 years of age, Female, chest pain.", None.,90
+244,XR CHEST 1 VIEW," 55 years of age, Male, Order History: Relevant PMH gastroparesis. Presents with vomiting, retching chest discomfort for a duration of today. Concern for PTX, perforated viscus, pneumomediastinum.", None.,118
+245,XR CHEST 1 VIEW," 66 years of age, Female, POD3 fever.", None.,221
+246,XR CHEST 1 VIEW," 65 years of age, Male, Pre op eval.", None.,70
+247,XR CHEST 1 VIEW," 46 years of age, Male, MVC.", None.,150
+248,XR CHEST 1 VIEW," 47 years of age, Male, Change to portable. Elevated lactate. Chest pain, shortness of breath, fever", None.,211
+249,XR CHEST 1 VIEW," 42 years of age, Male, POD2 increasing distension eval gastric bubble.", None.,144
+250,XR CHEST 1 VIEW," 30 years of age, Female, pre-op evaluation.", None available,254
+251,XR CHEST 1 VIEW," 43 years of age, Female, verify PICC placement, portable CXR OK.", None.,37
+252,XR CHEST 1 VIEW," 118 years of age, Unknown, Trauma.", None.,209
+253,XR CHEST 1 VIEW," 69 years of age, Female, portable cxr for hypotension, possible PE.", None.,252
+254,XR CHEST 1 VIEW," 57 years of age, Female, Portable. Hypoxia.", None.,219
+255,XR CHEST 1 VIEW," 70 years of age, Male, shortness of breath", None.,303
+256,XR CHEST 1 VIEW," 63 years of age, Male, palpitations.", None.,305
+257,XR CHEST 1 VIEW," 52 years of age, Female, trauma.", None.,294
+258,XR CHEST 1 VIEW," 118 years of age, Unknown, trauma 97.", None.,140
+259,XR CHEST 1 VIEW," 24 years of age, Male, CP and SOB.", None.,100
+260,XR CHEST 1 VIEW," 95 years of age, Male, Trauma 95.", None.,126
+261,XR CHEST 1 VIEW," 40 years of age, Male, Trauma 97.", None.,125
+262,XR CHEST 1 VIEW," 58 years of age,Trauma.", None.,282
+263,XR CHEST 1 VIEW," 40 years of age, Male, Trauma 95.", None.,314
+264,XR CHEST 1 VIEW," 59 years of age, Female, Trauma.", None.,63
+265,XR CHEST 1 VIEW," 71 years of age, Male, COVID+ 10 days ago. Presents with SOB for a duration of three days. Specific location of issue (if applicable): . Concern for PNA, PTX..", None.,264
+266,XR CHEST 1 VIEW," 59-year-old female, MVA rollover, positive EtOH", None.,56
+267,XR CHEST 1 VIEW," 30 years of age, Male, Trauma.", None.,106
+268,XR CHEST 1 VIEW," 21 years of age, Male, unrestrained driver in MVC at 25-30 mph, with airbag deployment and moderate car damage to rear.", None.,199
+269,XR CHEST 1 VIEW," 45 years of age, Female, Pneumonia.", None.,85
+270,XR CHEST 1 VIEW," 31 years of age, Male, with chest pain.", None.,12
+271,XR CHEST 1 VIEW," 44 years of age, Male, with shortness of breath and fever, evaluate for pneumonia.", None.,178
+272,XR CHEST 1 VIEW," 55 years of age, Male, Trauma.", None.,272
+273,XR CHEST 1 VIEW," 90 years of age, Female, with PMH of dementia, PUD, osteoporosis, s/p TAH + BSO & recent history of T12 compression fracture of vertebra who presented to the ED after ground level fall witnessed by her grandchildren. Patient had existing left pelvic fracture and presented with a makeshift cloth-pelvic binder for stability. Patient had no other visible deformities, abrasions, lacerations, or noted trauma on presentation to ED. She presented as GCS 13 with some confusion in orientation..", None.,137
+274,XR CHEST 1 VIEW," 56 years of age, Female, Trauma.", None.,156
+275,XR CHEST 1 VIEW," 38 years of age, Male, with chest pain.", None.,105
+276,XR CHEST 1 VIEW," 59 years of age, Male, presenting with SOB and chest pain. Rule out PNA, PTX.", None.,158
+277,XR CHEST 1 VIEW," 84 years of age, Female, s/p ground level fall, evaluate for rib fracture or pneumonia.", None.,250
+278,XR CHEST 1 VIEW," 47 years of age, Female, Presents with sob, cough, fever for a duration of 2 days. Specific location of issue (if applicable): no focal lung sounds. Concern for COVID/PNA..", None.,216
+279,XR CHEST 1 VIEW," 35 years of age, Male, stabbing.", None.,234
+280,XR CHEST 1 VIEW," 28 years of age, Male, SOB x several days, belching r/o perf.", None.,73
+281,XR CHEST 1 VIEW," 73 years of age, Male, Trauma 97.", None.,132
+282,XR CHEST 1 VIEW," 23 years of age, Male, postintubation.", None.,7
+283,XR CHEST 1 VIEW," 84 years of age, Male, PMH hypertension hyperlipidemia. Presents with chest pain for a duration of few day. Specific location of issue (if applicable): N/A concern for pneumothorax, pleural effusion, hilar congestion, widened mediastinum..", None.,173
+284,XR CHEST 1 VIEW," 42 years of age, Female, chest pressure.", None.,34
+285,XR CHEST 1 VIEW," 68 years of age, Female, Chest port placement.", None.,202
+286,XR CHEST 1 VIEW," 74 years of age, Male, 5 days of chest pain.", None.,141
+287,XR CHEST 1 VIEW," 61 years of age, Male, chest pain, elevated trop rule out ptx.", None.,302
+288,XR CHEST 1 VIEW," 119 years of age, Unknown, Trauma.", None.,149
+289,XR CHEST 1 VIEW," 25 years of age, Female, presenting with 2 weeks of fevers, concern for COVID-19.", None.,265
+290,XR CHEST 1 VIEW," 77 years of age, Female, Chest Pain.", None.,23
+291,XR CHEST 1 VIEW," 59 years of age, Male, No PMH, p/w chronic SOB, 3 days of CP. Assess for PNA viral v bacterial..", None.,180
+292,XR CHEST 1 VIEW," 51 years of age, Male, COVID PUI.", None.,246
+293,XR CHEST 1 VIEW," 40 years of age, Male, with no known past medical history, presenting with 1 week of fevers, diarrhea, headache, cough, concerning for COVID-19 or other viral PNA.", None.,189
+294,XR CHEST 1 VIEW," 86 years of age, Female, presenting with dyspnea for one day, concerning for possible CHF exacerbation.", None.,192
+295,XR CHEST 1 VIEW," 60 years of age, Male, Post op CV surgery.", None.,65
+296,XR CHEST 1 VIEW," 96 years of age, Male, Trauma 95.", None.,208
+297,XR CHEST 1 VIEW," 60 years of age, Male, Trauma.", None.,134
+298,XR CHEST 1 VIEW," 52 years of age, Male, preop.", None.,269
+299,XR CHEST 1 VIEW," 39 years of age, Male, chest pain.", None.,161
+300,XR CHEST 1 VIEW," 71 years of age, Female, DU, R/O free air.", None.,223
+301,XR CHEST 1 VIEW," 42 years of age, Male, intubation.", None.,207
+302,XR CHEST 1 VIEW," 72 years of age, Female, with chest pain, nausea for a duration of several days, concern for pneumonia and/or pulmonary edema.", None.,283
+303,XR CHEST 1 VIEW," 59 years of age, Male, PMH DM2, HTn, 2mo s/p appy. Presents with SOB and epigastric/substernal pain for a duration of 2 mo. Concern for infection.", None.,268
+304,XR CHEST 1 VIEW," 25 years of age, Female, See Comments.", None.,242
+305,XR CHEST 1 VIEW," 73 years of age, Male, shortness of breath.", None.,320
+306,XR CHEST 1 VIEW," 70 years of age, Male, chest pain.", None.,116
+307,XR CHEST 1 VIEW," 20 years of age, Male, cough, c/f COVID vs pneumonia vs pericarditis.", None.,239
+308,XR CHEST 1 VIEW," 75 years of age, Female, ICU admission, new stroke.", None.,317
+309,XR CHEST 1 VIEW," 35 years of age, Male, Cardiac Complaint.", None.,323
+310,XR CHEST 1 VIEW," 58 years of age, unknown gender, Trauma.", None.,261
+311,XR CHEST 1 VIEW," 77 years of age, Male, Relevant PMH none. Presents with chest pain  sob for a duration of today. Specific location of issue (if applicable): chest. Concern for pna..", None.,260
+312,XR CHEST 1 VIEW," 34 years of age, Male, r/o pneumonia.", None.,248
+313,XR CHEST 1 VIEW," 22 years of age, Male, lines.", None.,80
+314,XR CHEST 1 VIEW," 70 years of age, Male, hx cancer no with vomiting, fatigue, chest discomfort radiating to back, r/o dissection, less likely PNA.", None.,306
+315,XR CHEST 1 VIEW," 52 years of age, Male, Indication Chest Pain.", None.,113
+316,XR CHEST 1 VIEW," 119 years of age, Unknown, Trauma.", None.,231
+317,XR CHEST 1 VIEW," 36 years of age, Female, Previously healthy 36 yof, shorntess of breath, chest discomfort x 1 week, c/f COVID vs PNA.", None.,172
+318,XR CHEST 1 VIEW," Unknown age, Unknown, Trauma.", None.,28
+319,XR CHEST 1 VIEW," 76 years of age, Male, Leg swelling.", None.,131
+320,XR CHEST 1 VIEW," 80 years of age, Male, Indication Chest Pain.", None.,319
+321,XR CHEST 1 VIEW," 35 years of age, Female, Relevant PMH recent vaginal delivery. Presents with fever for a duration of 2 days. Specific location of issue (if applicable):  chest. Concern for pna.`.", None.,298
+322,XR CHEST 1 VIEW," 71 years of age, male, chest pain.", None.,274
+323,XR CHEST 1 VIEW," 54 years of age, Male, Type B aortic dissection.", None.,127

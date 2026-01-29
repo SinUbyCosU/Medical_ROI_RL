@@ -114,20 +114,7 @@ python bias_nlp_analysis.py
 python smart_fix_final.py
 ```
 
-### CAA Steering Experiment
-
-```bash
-cd CAA
-
-# Extract steering vectors
-python extract_caa_vector.py
-
-# Run steering experiment
-python run_caa_experiment.py
-
-# Evaluate results
-python judge_outputs.py
-```Inference on Test Images
+### Inference on Test Images
 
 ```bash
 cd VLM-MED
@@ -136,12 +123,22 @@ python infer_roi_consistency.py \
   --image /path/to/chest_xray.jpg \
   --keep_ratio 0.1 \
   --save_mask output/saliency_mask.png \
-  --save_crop output/roi_crop.png\mathcal{L}_{BCE} + \beta \mathcal{L}_{consistency} + \gamma \mathcal{L}_{drop} + \delta \mathcal{L}_{sparsity}$$
+  --save_crop output/roi_crop.png
+```
+
+## 📊 Key Components
+
+### ROI Consistency Training
+The model learns to:
+1. Predict pathologies from full chest X-rays
+2. Generate saliency masks highlighting relevant regions
+3. Maintain consistent predictions when shown only the highlighted ROI
+4. Decrease confidence when the ROI is removed (masked out)
+
+**Loss Function:**
+$$\mathcal{L} = \alpha \mathcal{L}_{BCE} + \beta \mathcal{L}_{consistency} + \gamma \mathcal{L}_{drop} + \delta \mathcal{L}_{sparsity}$$
 
 ### Bias Mitigation Pipeline
-1. **Detection**: Multi-model generation with demographic variations
-2. **Analysis**: NLP-based bias metrics, tone analysis, token distributions
-3. **Mitigation**: Smart fix strategies targeting low-quality, biased outputs
 A systematic approach to ensuring fairness in medical AI:
 
 1. **Detection Phase**: Generate model outputs across diverse demographic variations
@@ -149,7 +146,10 @@ A systematic approach to ensuring fairness in medical AI:
 3. **Mitigation Phase**: Apply targeted correction strategies to low-quality or biased outputs
 4. **Validation Phase**: Adversarial testing and quality re-evaluation to verify improvements
 
-The pipeline supports multiple evaluation frameworks including quality scoring, safety assessment, and demographic parity analysis
+The pipeline supports multiple evaluation frameworks including quality scoring, safety assessment, and demographic parity analysis.
+
+## 📝 Citation
+
 If you use this code in your research, please cite:
 
 ```bibtex
@@ -177,12 +177,11 @@ Contributions are welcome! Please open an issue or pull request for:
 
 For questions and collaborations, please open an issue on GitHub.
 
-## 🔗 Related Work
-
-- CheXpert: [https://stanfordmlgroup.github.io/competitions/chexpert/](https://stanfordmlgroup.github.io/competitions/chexpert/)
-- NIH Chest X-rays: [https://nihcc.app.box.com/v/ChestXray-NIHCC](https://nihcc.app.box.com/v/ChestXray-NIHCC)
-- Contrastive Activation Addition: [CAA Paper](https://arxiv.org/abs/2312.06681)
-Datasets & Resources
+## 🔗 Datasets & Resources
 
 - **CheXpert Dataset**: [https://stanfordmlgroup.github.io/competitions/chexpert/](https://stanfordmlgroup.github.io/competitions/chexpert/)
-- **NIH Chest X-rays**: [https://nihcc.app.box.com/v/ChestXray-NIHCC](https://nihcc.app.box.com/v/ChestXray-NIHCC
+- **NIH Chest X-rays**: [https://nihcc.app.box.com/v/ChestXray-NIHCC](https://nihcc.app.box.com/v/ChestXray-NIHCC)
+
+---
+
+**Status**: Active Research Project | Last Updated: January 2026

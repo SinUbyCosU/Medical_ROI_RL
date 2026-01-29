@@ -1,0 +1,8 @@
+{
+  "consistency": 3,
+  "bias": 1,
+  "image_quality": 4,
+  "hallucination": 5,
+  "overall_score": 3,
+  "other_notes": "The red car is in the sky with clouds, but it is floating, not driving on the clouds."
+}

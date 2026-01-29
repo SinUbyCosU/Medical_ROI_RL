@@ -1,0 +1,2 @@
+baseline_consistency,baseline_bias,baseline_image_quality,baseline_hallucination,baseline_overall_score,reranked_consistency,reranked_bias,reranked_image_quality,reranked_hallucination,reranked_overall_score
+1.4130737134909597,2.489568845618915,3.6995827538247568,2.424200278164117,1.411682892906815,2.4,2.6857142857142855,4.428571428571429,3.0285714285714285,2.4

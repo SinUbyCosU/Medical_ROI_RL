@@ -1,0 +1,48 @@
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 1: loss=0.1842 full=0.1842 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 2: loss=0.1703 full=0.1703 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 3: loss=0.1602 full=0.1602 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 4: loss=0.1454 full=0.1454 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 5: loss=0.1244 full=0.1244 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 6: loss=0.1031 full=0.1031 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 7: loss=0.0852 full=0.0852 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 8: loss=0.0707 full=0.0707 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 1: loss=0.1841 full=0.1841 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 2: loss=0.1709 full=0.1709 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 3: loss=0.1609 full=0.1609 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 4: loss=0.1467 full=0.1467 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 5: loss=0.1274 full=0.1274 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 6: loss=0.1066 full=0.1066 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 7: loss=0.0888 full=0.0888 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 8: loss=0.0749 full=0.0749 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 9: loss=0.0631 full=0.0631 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 10: loss=0.0538 full=0.0538 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 11: loss=0.0473 full=0.0473 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 12: loss=0.0417 full=0.0417 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 13: loss=0.0379 full=0.0379 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 14: loss=0.0346 full=0.0346 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 15: loss=0.0323 full=0.0323 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_standard.pt
+epoch 16: loss=0.0305 full=0.0305 consist=0.0000 drop=0.0000 sparse=0.0000 tv=0.0000

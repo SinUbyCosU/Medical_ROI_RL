@@ -1,0 +1,8 @@
+{
+  "consistency": 2,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 4,
+  "overall_score": 2,
+  "other_notes": "Cat is mutant-like but lying down, not standing, and does not clearly have 5 legs."
+}

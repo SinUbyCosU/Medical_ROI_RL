@@ -1,0 +1,40 @@
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 1: loss=1.5563 full=0.1877 consist=0.0060 drop=0.0002 sparse=0.6213 tv=0.6059 volume=0.2718 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6213 mask_tv=0.6059 temp=0.700
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 2: loss=1.5474 full=0.1741 consist=0.0065 drop=0.0000 sparse=0.6222 tv=0.6116 volume=0.2727 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6222 mask_tv=0.6116 temp=0.686
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 3: loss=1.5446 full=0.1661 consist=0.0075 drop=0.0000 sparse=0.6230 tv=0.6173 volume=0.2735 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6230 mask_tv=0.6173 temp=0.672
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 4: loss=1.5401 full=0.1554 consist=0.0094 drop=0.0000 sparse=0.6238 tv=0.6230 volume=0.2744 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6238 mask_tv=0.6230 temp=0.659
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 5: loss=1.5322 full=0.1403 consist=0.0126 drop=0.0000 sparse=0.6246 tv=0.6286 volume=0.2752 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6246 mask_tv=0.6286 temp=0.646
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 6: loss=1.5207 full=0.1208 consist=0.0165 drop=0.0000 sparse=0.6254 tv=0.6342 volume=0.2760 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6254 mask_tv=0.6342 temp=0.633
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 7: loss=1.5076 full=0.1006 consist=0.0196 drop=0.0000 sparse=0.6261 tv=0.6398 volume=0.2768 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6261 mask_tv=0.6398 temp=0.620
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 8: loss=1.4954 full=0.0829 consist=0.0212 drop=0.0000 sparse=0.6268 tv=0.6453 volume=0.2776 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6268 mask_tv=0.6453 temp=0.608
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 9: loss=1.4855 full=0.0683 consist=0.0221 drop=0.0000 sparse=0.6276 tv=0.6508 volume=0.2783 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6276 mask_tv=0.6508 temp=0.596
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 10: loss=1.4775 full=0.0565 consist=0.0222 drop=0.0000 sparse=0.6283 tv=0.6562 volume=0.2791 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6283 mask_tv=0.6562 temp=0.584
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 11: loss=1.4710 full=0.0469 consist=0.0217 drop=0.0000 sparse=0.6290 tv=0.6616 volume=0.2798 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6290 mask_tv=0.6616 temp=0.572
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 12: loss=1.4665 full=0.0395 consist=0.0209 drop=0.0000 sparse=0.6296 tv=0.6669 volume=0.2805 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6296 mask_tv=0.6669 temp=0.561
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 13: loss=1.4638 full=0.0341 consist=0.0202 drop=0.0000 sparse=0.6303 tv=0.6722 volume=0.2812 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6303 mask_tv=0.6722 temp=0.549
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 14: loss=1.4617 full=0.0296 consist=0.0192 drop=0.0000 sparse=0.6309 tv=0.6775 volume=0.2819 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6309 mask_tv=0.6775 temp=0.538
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 15: loss=1.4610 full=0.0266 consist=0.0182 drop=0.0000 sparse=0.6315 tv=0.6826 volume=0.2825 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6315 mask_tv=0.6826 temp=0.528
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 16: loss=1.4609 full=0.0242 consist=0.0172 drop=0.0000 sparse=0.6322 tv=0.6878 volume=0.2832 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6322 mask_tv=0.6878 temp=0.517
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 17: loss=1.4616 full=0.0225 consist=0.0166 drop=0.0000 sparse=0.6327 tv=0.6928 volume=0.2838 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6327 mask_tv=0.6928 temp=0.507
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 18: loss=1.4624 full=0.0208 consist=0.0159 drop=0.0000 sparse=0.6333 tv=0.6978 volume=0.2844 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6333 mask_tv=0.6978 temp=0.497
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 19: loss=1.4627 full=0.0191 consist=0.0149 drop=0.0000 sparse=0.6339 tv=0.7028 volume=0.2850 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6339 mask_tv=0.7028 temp=0.487
+Saved checkpoint to checkpoints/nih_roi_consistency_opt.pt
+epoch 20: loss=1.4646 full=0.0186 consist=0.0145 drop=0.0000 sparse=0.6344 tv=0.7077 volume=0.2856 w=[1.000,0.500,0.001,0.000,0.000] mask_mean=0.6344 mask_tv=0.7077 temp=0.477

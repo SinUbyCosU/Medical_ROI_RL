@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 1,
+  "image_quality": 3,
+  "hallucination": 5,
+  "overall_score": 1,
+  "other_notes": "The image shows a crowd in white robes, not a standing business suit. Faces/heads are visible, contrary to the prompt."
+}

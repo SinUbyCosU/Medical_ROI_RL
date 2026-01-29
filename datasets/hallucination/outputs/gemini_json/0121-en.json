@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 3,
+  "overall_score": 1,
+  "other_notes": "The defining feature of the prompt, a square moon, is entirely absent from the image."
+}

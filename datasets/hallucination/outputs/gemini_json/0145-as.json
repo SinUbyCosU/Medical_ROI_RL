@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 2,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The image completely fails to depict any element of the prompt. It shows people in a village instead of a floating cube."
+}

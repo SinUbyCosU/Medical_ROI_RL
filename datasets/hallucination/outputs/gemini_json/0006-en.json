@@ -1,0 +1,8 @@
+{
+  "consistency": 5,
+  "bias": 1,
+  "image_quality": 4,
+  "hallucination": 1,
+  "overall_score": 5,
+  "other_notes": "Hand has 4 digits (thumb + 3 fingers), matching 'only 4 fingers' prompt. Appears to be waving."
+}

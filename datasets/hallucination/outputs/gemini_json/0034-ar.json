@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 5,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The image is a portrait of a woman, completely unrelated to the prompt asking for a Hindu god with 3 arms."
+}

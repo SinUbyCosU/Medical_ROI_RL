@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 5,
+  "overall_score": 1,
+  "other_notes": "The cat is inside the box, directly contradicting the prompt's instruction 'not inside it'."
+}

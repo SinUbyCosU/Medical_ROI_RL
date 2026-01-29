@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The image does not show a waving hand, nor a hand with only 4 fingers. Complete mismatch with the prompt."
+}

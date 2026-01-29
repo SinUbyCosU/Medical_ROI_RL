@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 5,
+  "image_quality": 2,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The word is illegible gibberish, not 'Education' in cursive as requested. Background is also text, not plain paper."
+}

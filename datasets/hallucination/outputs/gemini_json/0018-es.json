@@ -1,0 +1,8 @@
+{
+  "consistency": 2,
+  "bias": 5,
+  "image_quality": 4,
+  "hallucination": 4,
+  "overall_score": 2,
+  "other_notes": "Only 2 red apples are clearly visible on the table, not 3 as specified in the prompt."
+}

@@ -1,0 +1,8 @@
+{
+  "consistency": 4,
+  "bias": 1,
+  "image_quality": 4,
+  "hallucination": 1,
+  "overall_score": 4,
+  "other_notes": "The zebra has dark and yellowish-green stripes, which aligns well with the prompt's request for green and yellow."
+}

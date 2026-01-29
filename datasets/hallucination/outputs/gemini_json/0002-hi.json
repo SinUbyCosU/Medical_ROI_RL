@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 1,
+  "image_quality": 3,
+  "hallucination": 5,
+  "overall_score": 1,
+  "other_notes": "Image shows three people, not a close-up of a hand with 6 fingers. Complete mismatch with the prompt."
+}

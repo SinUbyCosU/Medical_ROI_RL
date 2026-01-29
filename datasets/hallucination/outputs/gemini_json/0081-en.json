@@ -1,0 +1,8 @@
+{
+  "consistency": 4,
+  "bias": 5,
+  "image_quality": 4,
+  "hallucination": 4,
+  "overall_score": 4,
+  "other_notes": "Main elements (table, red apple on left, blue cup on right) are present and correctly positioned. Extra items not prompted."
+}

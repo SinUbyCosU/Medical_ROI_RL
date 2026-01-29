@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 2,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The image depicts a crowd of people, not a rock covered with soft fur. Complete mismatch with the prompt."
+}

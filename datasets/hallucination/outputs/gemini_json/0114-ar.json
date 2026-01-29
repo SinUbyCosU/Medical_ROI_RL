@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The image shows a destroyed city, completely unrelated to an underwater campfire as described in the prompt."
+}

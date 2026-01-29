@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 5,
+  "overall_score": 1,
+  "other_notes": "The image shows yellow text on a blue background, not a computer screen with a red 'ERROR' box as requested."
+}

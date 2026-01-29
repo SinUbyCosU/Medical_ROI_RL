@@ -1,0 +1,8 @@
+{
+  "consistency": 4,
+  "bias": 1,
+  "image_quality": 2,
+  "hallucination": 5,
+  "overall_score": 4,
+  "other_notes": "Image quality is low, but the prompt's core requirements (empty bench, no dogs) are met."
+}

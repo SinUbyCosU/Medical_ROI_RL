@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 2,
+  "hallucination": 5,
+  "overall_score": 1,
+  "other_notes": "The image completely fails to depict the requested close-up of a gold 'POLICE' badge. It shows a crowd scene."
+}

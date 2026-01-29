@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 1,
+  "image_quality": 4,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The image shows red grass and a blue sky, completely opposite to the prompt's request for blue grass and a red sky."
+}

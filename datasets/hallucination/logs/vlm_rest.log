@@ -1,0 +1,63 @@
+Running: python scripts/run_vlm_diffusers.py --model-id stabilityai/stable-diffusion-2-1 --model-id stabilityai/stable-diffusion-xl-base-1.0 --model-id stabilityai/sdxl-turbo --model-id dreamlike-art/dreamlike-photoreal-2.0 --model-id SG161222/Realistic_Vision_V6.0_B1_noVAE --model-id Lykon/dreamshaper-8 --model-id XpucT/Deliberate --model-id segmind/SSD-1B --model-id nitrosocke/Arcane-Diffusion --device cuda --fp16 --attention-slicing --num-inference-steps 30 --guidance-scale 7.5 --tag-overlay --csv vlm_hallucination_dataset.csv
+Couldn't connect to the Hub: 401 Client Error. (Request ID: Root=1-6933c1d8-2259d802537d4e1221d1bbc6;7416a3b0-6744-4877-8ff4-9f4c1ad74a2f)
+
+Repository Not Found for url: https://huggingface.co/api/models/stabilityai/stable-diffusion-2-1.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+Invalid username or password..
+Will try to load from local cache.
+Traceback (most recent call last):
+  File "/root/.venv/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 402, in hf_raise_for_status
+    response.raise_for_status()
+  File "/root/.venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://huggingface.co/api/models/stabilityai/stable-diffusion-2-1
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/.venv/lib/python3.12/site-packages/diffusers/pipelines/pipeline_utils.py", line 1483, in download
+    info = model_info(pretrained_model_name, token=token, revision=revision)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.12/site-packages/huggingface_hub/hf_api.py", line 2661, in model_info
+    hf_raise_for_status(r)
+  File "/root/.venv/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 452, in hf_raise_for_status
+    raise _format(RepositoryNotFoundError, message, response) from e
+huggingface_hub.errors.RepositoryNotFoundError: 401 Client Error. (Request ID: Root=1-6933c1d8-2259d802537d4e1221d1bbc6;7416a3b0-6744-4877-8ff4-9f4c1ad74a2f)
+
+Repository Not Found for url: https://huggingface.co/api/models/stabilityai/stable-diffusion-2-1.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+Invalid username or password.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/scripts/run_vlm_diffusers.py", line 162, in <module>
+    main()
+  File "/root/scripts/run_vlm_diffusers.py", line 114, in main
+    pipe = load_pipe(model_id, device, fp16, attention_slicing)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/scripts/run_vlm_diffusers.py", line 48, in load_pipe
+    pipe = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch_dtype)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.12/site-packages/diffusers/pipelines/pipeline_utils.py", line 833, in from_pretrained
+    cached_folder = cls.download(
+                    ^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/.venv/lib/python3.12/site-packages/diffusers/pipelines/pipeline_utils.py", line 1677, in download
+    raise EnvironmentError(
+OSError: Cannot load model stabilityai/stable-diffusion-2-1: model is not cached locally and an error occurred while trying to fetch metadata from the Hub. Please check out the root cause in the stacktrace above.
+Traceback (most recent call last):
+  File "<stdin>", line 16, in <module>
+  File "/usr/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python', 'scripts/run_vlm_diffusers.py', '--model-id', 'stabilityai/stable-diffusion-2-1', '--model-id', 'stabilityai/stable-diffusion-xl-base-1.0', '--model-id', 'stabilityai/sdxl-turbo', '--model-id', 'dreamlike-art/dreamlike-photoreal-2.0', '--model-id', 'SG161222/Realistic_Vision_V6.0_B1_noVAE', '--model-id', 'Lykon/dreamshaper-8', '--model-id', 'XpucT/Deliberate', '--model-id', 'segmind/SSD-1B', '--model-id', 'nitrosocke/Arcane-Diffusion', '--device', 'cuda', '--fp16', '--attention-slicing', '--num-inference-steps', '30', '--guidance-scale', '7.5', '--tag-overlay', '--csv', 'vlm_hallucination_dataset.csv']' returned non-zero exit status 1.

@@ -1,0 +1,4 @@
+Saved checkpoint to checkpoints/nih_roi_randommask.pt
+epoch 1: loss=0.1975 full=0.1905 consist=0.0068 drop=0.0001 sparse=0.1000 tv=0.3600
+Saved checkpoint to checkpoints/nih_roi_randommask.pt
+epoch 2: loss=0.1865 full=0.1786 consist=0.0078 drop=0.0000 sparse=0.1000 tv=0.3600

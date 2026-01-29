@@ -1,0 +1,201 @@
+id,domain,language,prompt,verification_question,expected_answer_short
+1,Counting,en,A realistic close-up photo of a human hand showing exactly 6 fingers.,How many fingers are visible?,6
+2,Counting,hi,एक इंसानी हाथ की यथार्थवादी क्लोज़-अप फोटो जिसमें ठीक 6 उंगलियां दिखाई दे रही हों।,How many fingers are visible?,6
+3,Counting,es,Una foto realista de primer plano de una mano humana que muestra exactamente 6 dedos.,How many fingers are visible?,6
+4,Counting,ar,صورة مقربة واقعية ليد بشرية تظهر 6 أصابع بالضبط.,How many fingers are visible?,6
+5,Counting,as,এখন মানুহৰ হাতৰ বাস্তৱধৰ্মী ফটো য'ত ঠিক ৬টা আঙুলি দেখা গৈছে।,How many fingers are visible?,6
+6,Counting,en,"A human hand waving, but it has only 4 fingers.",How many fingers are visible?,4
+7,Counting,hi,"एक इंसानी हाथ लहरा रहा है, लेकिन उसमें केवल 4 उंगलियां हैं।",How many fingers are visible?,4
+8,Counting,es,"Una mano humana saludando, pero tiene solo 4 dedos.",How many fingers are visible?,4
+9,Counting,ar,يد بشرية تلوح، لكن لها 4 أصابع فقط.,How many fingers are visible?,4
+10,Counting,as,"এখন মানুহৰ হাতে লৰাই আছে, কিন্তু তাত মাত্ৰ ৪টা আঙুলিহে আছে।",How many fingers are visible?,4
+11,Counting,en,A photo of a mutant cat standing on 5 legs.,How many legs does the cat have?,5
+12,Counting,hi,5 पैरों पर खड़ी एक उत्परिवर्ती (म्यूटेंट) बिल्ली की तस्वीर।,How many legs does the cat have?,5
+13,Counting,es,Una foto de un gato mutante de pie sobre 5 patas.,How many legs does the cat have?,5
+14,Counting,ar,صورة لقطة متحولة تقف على 5 أرجل.,How many legs does the cat have?,5
+15,Counting,as,এখন মিউটেণ্ট মেকুৰীৰ ফটো যিটো ৫খন ভৰিত থিয় হৈ আছে।,How many legs does the cat have?,5
+16,Counting,en,A simple wooden table with exactly 3 red apples on it.,Count the apples.,3
+17,Counting,hi,एक साधारण लकड़ी की मेज जिस पर ठीक 3 लाल सेब रखे हैं।,Count the apples.,3
+18,Counting,es,Una mesa de madera sencilla con exactamente 3 manzanas rojas encima.,Count the apples.,3
+19,Counting,ar,طاولة خشبية بسيطة عليها 3 تفاحات حمراء بالضبط.,Count the apples.,3
+20,Counting,as,এখন সাধাৰণ কাঠৰ টেবুল যাৰ ওপৰত ঠিক ৩টা ৰঙা আপেল আছে।,Count the apples.,3
+21,Counting,en,A macro shot of exactly 2 gold coins lying on black velvet.,Count the coins.,2
+22,Counting,hi,काले मखमल पर पड़े ठीक 2 सोने के सिक्कों का मैक्रो शॉट।,Count the coins.,2
+23,Counting,es,Una toma macro de exactamente 2 monedas de oro sobre terciopelo negro.,Count the coins.,2
+24,Counting,ar,لقطة ماكرو لعملتين ذهبيتين بالضبط ملقاة على مخمل أسود.,Count the coins.,2
+25,Counting,as,কলা ভেলভেটৰ ওপৰত থকা ঠিক ২টা সোণৰ মুদ্ৰাৰ মেক্ৰ’ শ্বট।,Count the coins.,2
+26,Anatomy,en,"A realistic spider that is missing a leg, so it has only 7 legs.",How many legs does the spider have?,7
+27,Anatomy,hi,"एक यथार्थवादी मकड़ी जिसका एक पैर गायब है, इसलिए उसके केवल 7 पैर हैं।",How many legs does the spider have?,7
+28,Anatomy,es,"Una araña realista a la que le falta una pata, por lo que solo tiene 7 patas.",How many legs does the spider have?,7
+29,Anatomy,ar,عنكبوت واقعي يفتقد ساقاً، لذا لديه 7 أرجل فقط.,How many legs does the spider have?,7
+30,Anatomy,as,"এজনী বাস্তৱধৰ্মী মকৰা যাৰ এখন ভৰি নাই, গতিকে তাৰ মাত্ৰ ৭খন ভৰিহে আছে।",How many legs does the spider have?,7
+31,Anatomy,en,A sketch of a Hindu deity with 3 arms.,How many arms does the person have?,3
+32,Anatomy,hi,3 भुजाओं वाले एक हिंदू देवता का स्केच।,How many arms does the person have?,3
+33,Anatomy,es,Un boceto de una deidad hindú con 3 brazos.,How many arms does the person have?,3
+34,Anatomy,ar,رسم لإله هندوسي بـ 3 أذرع.,How many arms does the person have?,3
+35,Anatomy,as,৩খন হাত থকা এজন হিন্দু দেৱতাৰ স্কেচ।,How many arms does the person have?,3
+36,Anatomy,en,"A surreal painting of a business suit standing up, but with no head or face visible.",Does the person have a face?,No
+37,Anatomy,hi,"एक बिज़नेस सूट की असली पेंटिंग जो खड़ी है, लेकिन कोई सिर या चेहरा दिखाई नहीं दे रहा है।",Does the person have a face?,No
+38,Anatomy,es,"Una pintura surrealista de un traje de negocios de pie, pero sin cabeza ni rostro visible.",Does the person have a face?,No
+39,Anatomy,ar,لوحة سريالية لبدلة عمل تقف، ولكن دون رأس أو وجه مرئي.,Does the person have a face?,No
+40,Anatomy,as,"থিয় হৈ থকা এটা ব্যৱসায়িক চুটৰ অতিবাস্তৱ ছবি, কিন্তু কোনো মূৰ বা মুখ দেখা যোৱা নাই।",Does the person have a face?,No
+41,Anatomy,en,A white horse with large eagle wings on its back.,Does the horse have wings?,Yes
+42,Anatomy,hi,एक सफेद घोड़ा जिसकी पीठ पर बड़े ईगल के पंख हैं।,Does the horse have wings?,Yes
+43,Anatomy,es,Un caballo blanco con grandes alas de águila en la espalda.,Does the horse have wings?,Yes
+44,Anatomy,ar,حصان أبيض له أجنحة نسر كبيرة على ظهره.,Does the horse have wings?,Yes
+45,Anatomy,as,এটা বগা ঘোঁৰা যাৰ পিঠিত ঈগলৰ ডাঙৰ পাহি আছে।,Does the horse have wings?,Yes
+46,Anatomy,en,Portrait of a beautiful woman with bright green skin.,What is the skin color?,Green
+47,Anatomy,hi,चमकदार हरी त्वचा वाली एक खूबसूरत महिला का चित्र।,What is the skin color?,Green
+48,Anatomy,es,Retrato de una hermosa mujer con la piel de color verde brillante.,What is the skin color?,Green
+49,Anatomy,ar,صورة لامرأة جميلة ذات بشرة خضراء زاهية.,What is the skin color?,Green
+50,Anatomy,as,উজ্জ্বল সেউজীয়া ছালৰ এগৰাকী সুন্দৰী মহিলাৰ প্ৰতিকৃতি।,What is the skin color?,Green
+51,Text,en,A neon sign on a brick wall that says 'HELLO'.,What is the text on the sign?,HELLO
+52,Text,hi,ईंट की दीवार पर एक नियॉन साइन जिस पर 'HELLO' लिखा है।,What is the text on the sign?,HELLO
+53,Text,es,Un letrero de neón en una pared de ladrillo que dice 'HELLO'.,What is the text on the sign?,HELLO
+54,Text,ar,لافتة نيون على جدار من الطوب تقول 'HELLO'.,What is the text on the sign?,HELLO
+55,Text,as,ইটাৰ দেৱালত এটা নিয়ন চাইন য'ত 'HELLO' বুলি লিখা আছে।,What is the text on the sign?,HELLO
+56,Text,en,A soccer player wearing a jersey with the number 7 on it.,What number is on the shirt?,7
+57,Text,hi,एक सॉकर खिलाड़ी जिसने जर्सी पहनी है जिस पर नंबर 7 लिखा है।,What number is on the shirt?,7
+58,Text,es,Un jugador de fútbol con una camiseta que tiene el número 7.,What number is on the shirt?,7
+59,Text,ar,لاعب كرة قدم يرتدي قميصاً عليه الرقم 7.,What number is on the shirt?,7
+60,Text,as,এজন ফুটবলাৰ যিয়ে ৭ নম্বৰ লিখা জাৰ্চি পিন্ধি আছে।,What number is on the shirt?,7
+61,Text,en,A piece of paper with the word 'Education' written in cursive.,Is the word spelled correctly?,Yes
+62,Text,hi,कागज का एक टुकड़ा जिस पर कर्सिव में 'Education' शब्द लिखा है।,Is the word spelled correctly?,Yes
+63,Text,es,Un trozo de papel con la palabra 'Education' escrita en cursiva.,Is the word spelled correctly?,Yes
+64,Text,ar,قطعة من الورق كتب عليها كلمة 'Education' بخط متصل.,Is the word spelled correctly?,Yes
+65,Text,as,এখন কাগজৰ টুকুৰা য'ত 'Education' শব্দটো পেঁচাই লিখা আছে।,Is the word spelled correctly?,Yes
+66,Text,en,A close up of a gold badge that says 'POLICE'.,What does the badge say?,POLICE
+67,Text,hi,एक सोने के बैज का क्लोज़-अप जिस पर 'POLICE' लिखा है।,What does the badge say?,POLICE
+68,Text,es,Un primer plano de una insignia dorada que dice 'POLICE'.,What does the badge say?,POLICE
+69,Text,ar,لقطة مقربة لشارة ذهبية مكتوب عليها 'POLICE'.,What does the badge say?,POLICE
+70,Text,as,এটা সোণৰ বেজৰ ক্ল'জ আপ য'ত 'POLICE' বুলি লিখা আছে।,What does the badge say?,POLICE
+71,Text,en,A computer screen displaying a red box with the text 'ERROR'.,What is the text on the screen?,ERROR
+72,Text,hi,एक कंप्यूटर स्क्रीन जिस पर एक लाल बॉक्स दिखाई दे रहा है जिसमें 'ERROR' लिखा है।,What is the text on the screen?,ERROR
+73,Text,es,Una pantalla de computadora que muestra un cuadro rojo con el texto 'ERROR'.,What is the text on the screen?,ERROR
+74,Text,ar,شاشة كمبيوتر تعرض مربعاً أحمر مع نص 'ERROR'.,What is the text on the screen?,ERROR
+75,Text,as,এখন কম্পিউটাৰ স্ক্ৰীণ য'ত 'ERROR' লিখা এটা ৰঙা বাকচ দেখা গৈছে।,What is the text on the screen?,ERROR
+76,Spatial,en,A photo of an empty park bench with absolutely no dogs nearby.,Is there a dog in the image?,No
+77,Spatial,hi,एक खाली पार्क बेंच की तस्वीर जिसके आसपास बिल्कुल कोई कुत्ता नहीं है।,Is there a dog in the image?,No
+78,Spatial,es,Una foto de un banco de parque vacío sin absolutamente ningún perro cerca.,Is there a dog in the image?,No
+79,Spatial,ar,صورة لمقعد حديقة فارغ ولا يوجد أي كلاب قريبة إطلاقاً.,Is there a dog in the image?,No
+80,Spatial,as,এখন খালী উদ্যানৰ বেঞ্চৰ ফটো যাৰ আশে-পাশে কোনো কুকুৰ নাই।,Is there a dog in the image?,No
+81,Spatial,en,A table with a red apple on the left and a blue cup on the right.,Is the apple on the left?,Yes
+82,Spatial,hi,एक मेज जिसके बाईं ओर एक लाल सेब है और दाईं ओर एक नीला कप है।,Is the apple on the left?,Yes
+83,Spatial,es,Una mesa con una manzana roja a la izquierda y una taza azul a la derecha.,Is the apple on the left?,Yes
+84,Spatial,ar,طاولة عليها تفاحة حمراء على اليسار وكوب أزرق على اليمين.,Is the apple on the left?,Yes
+85,Spatial,as,এখন টেবুল যাৰ বাওঁফালে এটা ৰঙা আপেল আৰু সোঁফালে এটা নীলা কাপ আছে।,Is the apple on the left?,Yes
+86,Spatial,en,"A cat sitting next to a cardboard box, not inside it.",Is the cat inside the box?,No
+87,Spatial,hi,"एक गत्ते के डिब्बे के बगल में बैठी बिल्ली, उसके अंदर नहीं।",Is the cat inside the box?,No
+88,Spatial,es,"Un gato sentado al lado de una caja de cartón, no dentro de ella.",Is the cat inside the box?,No
+89,Spatial,ar,قطة تجلس بجوار صندوق من الورق المقوى، وليست بداخله.,Is the cat inside the box?,No
+90,Spatial,as,"এটা মেকুৰী কাৰ্ডবৰ্ডৰ বাকচৰ কাষত বহি আছে, তাৰ ভিতৰত নহয়।",Is the cat inside the box?,No
+91,Spatial,en,A clean white dinner plate that has no food on it.,Is the plate empty?,Yes
+92,Spatial,hi,एक साफ सफेद खाने की प्लेट जिस पर कोई खाना नहीं है।,Is the plate empty?,Yes
+93,Spatial,es,Un plato de cena blanco y limpio que no tiene comida.,Is the plate empty?,Yes
+94,Spatial,ar,طبق عشاء أبيض نظيف لا يوجد عليه طعام.,Is the plate empty?,Yes
+95,Spatial,as,এখন পৰিষ্কাৰ বগা খোৱা প্লেট যাৰ ওপৰত কোনো খাদ্য নাই।,Is the plate empty?,Yes
+96,Spatial,en,A portrait of an old man wearing a hat but no glasses.,Is the man wearing glasses?,No
+97,Spatial,hi,"टोपी पहने हुए एक बूढ़े आदमी का चित्र, लेकिन चश्मा नहीं।",Is the man wearing glasses?,No
+98,Spatial,es,Un retrato de un anciano con sombrero pero sin gafas.,Is the man wearing glasses?,No
+99,Spatial,ar,صورة لرجل عجوز يرتدي قبعة ولكن بدون نظارة.,Is the man wearing glasses?,No
+100,Spatial,as,টুপি পিন্ধা এজন বৃদ্ধ মানুহৰ প্ৰতিকৃতি কিন্তু চচমা নাই।,Is the man wearing glasses?,No
+101,Impossible,en,"A goldfish swimming inside a lightbulb filled with air, not water.",Is the fish in water?,No
+102,Impossible,hi,एक सुनहरी मछली जो हवा से भरे (पानी से नहीं) लाइटबल्ब के अंदर तैर रही है।,Is the fish in water?,No
+103,Impossible,es,"Un pez dorado nadando dentro de una bombilla llena de aire, no de agua.",Is the fish in water?,No
+104,Impossible,ar,سمكة ذهبية تسبح داخل مصباح كهربائي مملوء بالهواء وليس الماء.,Is the fish in water?,No
+105,Impossible,as,"এটা গোল্ডফিছ যিটো পানীৰে নহয়, বতাহেৰে ভৰা লাইটবাল্বৰ ভিতৰত সাঁতুৰি আছে।",Is the fish in water?,No
+106,Impossible,en,A red car driving on fluffy white clouds in the sky.,Is the car touching the ground?,No
+107,Impossible,hi,आसमान में सफेद बादलों पर चलती हुई एक लाल कार।,Is the car touching the ground?,No
+108,Impossible,es,Un coche rojo conduciendo sobre nubes blancas y esponjosas en el cielo.,Is the car touching the ground?,No
+109,Impossible,ar,سيارة حمراء تسير على سحب بيضاء رقيقة في السماء.,Is the car touching the ground?,No
+110,Impossible,as,আকাশত বগা ডাৱৰৰ ওপৰেৰে চলি থকা এখন ৰঙা গাড়ী।,Is the car touching the ground?,No
+111,Impossible,en,A campfire burning brightly underwater on the ocean floor.,Is the fire underwater?,Yes
+112,Impossible,hi,समुद्र के तल पर पानी के भीतर एक कैम्प फायर (अलाव) जल रहा है।,Is the fire underwater?,Yes
+113,Impossible,es,Una fogata ardiendo brillantemente bajo el agua en el fondo del océano.,Is the fire underwater?,Yes
+114,Impossible,ar,نار مخيم تشتعل بشكل مشرق تحت الماء في قاع المحيط.,Is the fire underwater?,Yes
+115,Impossible,as,সাগৰৰ তলত পানীৰ তলত উজ্জ্বলকৈ জ্বলি থকা এক কেম্পফায়াৰ।,Is the fire underwater?,Yes
+116,Impossible,en,A city street where the rain is falling upwards towards the sky.,Is the rain falling down?,No
+117,Impossible,hi,एक शहर की सड़क जहां बारिश आसमान की ओर ऊपर जा रही है।,Is the rain falling down?,No
+118,Impossible,es,"Una calle de la ciudad donde la lluvia cae hacia arriba, hacia el cielo.",Is the rain falling down?,No
+119,Impossible,ar,شارع في المدينة حيث يتساقط المطر صعوداً نحو السماء.,Is the rain falling down?,No
+120,Impossible,as,এখন চহৰৰ ৰাস্তা য'ত বৰষুণজাক আকাশৰ ফালে ওপৰলৈ গৈ আছে।,Is the rain falling down?,No
+121,Impossible,en,A night sky with a moon that is shaped like a square.,Is the moon round?,No
+122,Impossible,hi,एक रात का आकाश जिसमें एक चंद्रमा है जो चौकोर आकार का है।,Is the moon round?,No
+123,Impossible,es,Un cielo nocturno con una luna que tiene forma cuadrada.,Is the moon round?,No
+124,Impossible,ar,سماء ليلية بها قمر مربع الشكل.,Is the moon round?,No
+125,Impossible,as,এখন নিশাৰ আকাশ য'ত জোনটো বৰ্গাকৃতিৰ।,Is the moon round?,No
+126,Geometry,en,A photograph of a perfectly triangular window on a building.,Is the window triangular?,Yes
+127,Geometry,hi,इमारत पर एक पूरी तरह से त्रिकोणीय खिड़की की तस्वीर।,Is the window triangular?,Yes
+128,Geometry,es,Una fotografía de una ventana perfectamente triangular en un edificio.,Is the window triangular?,Yes
+129,Geometry,ar,صورة لنافذة مثلثة تماماً على مبنى.,Is the window triangular?,Yes
+130,Geometry,as,অট্টালিকা এটাত এখন সম্পূৰ্ণ ত্ৰিভুজাকাৰ খিৰিকীৰ ফটো।,Is the window triangular?,Yes
+131,Geometry,en,Escher-style stairs that go up in an infinite loop.,Are the stairs possible?,No
+132,Geometry,hi,एस्चर-शैली की सीढ़ियाँ जो एक अनंत लूप में ऊपर जाती हैं।,Are the stairs possible?,No
+133,Geometry,es,Escaleras estilo Escher que suben en un bucle infinito.,Are the stairs possible?,No
+134,Geometry,ar,سلالم على طراز إيشر تصعد في حلقة لا نهائية.,Are the stairs possible?,No
+135,Geometry,as,এস্কাৰ-শৈলীৰ চিৰি যিবোৰ এটা অনন্ত লুপত ওপৰলৈ গৈ থাকে।,Are the stairs possible?,No
+136,Geometry,en,"A man looking in a mirror, but the reflection shows the back of his head.",Is the reflection correct?,No
+137,Geometry,hi,"एक आदमी आईने में देख रहा है, लेकिन प्रतिबिंब उसके सिर के पिछले हिस्से को दिखाता है।",Is the reflection correct?,No
+138,Geometry,es,"Un hombre mirándose en un espejo, pero el reflejo muestra la parte posterior de su cabeza.",Is the reflection correct?,No
+139,Geometry,ar,رجل ينظر في المرآة، لكن الانعكاس يظهر مؤخرة رأسه.,Is the reflection correct?,No
+140,Geometry,as,"এজন মানুহে আইনা চাই আছে, কিন্তু প্ৰতিবিম্বত তেওঁৰ মূৰৰ পিছফালটো দেখা গৈছে।",Is the reflection correct?,No
+141,Geometry,en,A cube floating in the air casting a shadow that is a circle.,Is the shadow consistent?,No
+142,Geometry,hi,हवा में तैरता हुआ एक घन जिसकी परछाई एक वृत्त (गोला) है।,Is the shadow consistent?,No
+143,Geometry,es,Un cubo flotando en el aire proyectando una sombra que es un círculo.,Is the shadow consistent?,No
+144,Geometry,ar,مكعب يطفو في الهواء يلقي ظلاً عبارة عن دائرة.,Is the shadow consistent?,No
+145,Geometry,as,বতাহত ভাঁহি থকা এটা ঘনক যাৰ ছাঁটো এটা বৃত্ত।,Is the shadow consistent?,No
+146,Geometry,en,A landscape photo where the horizon line is vertical instead of horizontal.,Is the horizon straight?,No
+147,Geometry,hi,एक परिदृश्य तस्वीर जहां क्षितिज रेखा क्षैतिज के बजाय ऊर्ध्वाधर (खड़ी) है।,Is the horizon straight?,No
+148,Geometry,es,Una foto de paisaje donde la línea del horizonte es vertical en lugar de horizontal.,Is the horizon straight?,No
+149,Geometry,ar,صورة منظر طبيعي حيث خط الأفق عمودي بدلاً من أفقي.,Is the horizon straight?,No
+150,Geometry,as,এখন প্ৰাকৃতিক দৃশ্যৰ ফটো য'ত দিগন্ত ৰেখা অনুভূমিক হোৱাৰ পৰিৱৰ্তে উলম্ব।,Is the horizon straight?,No
+151,Color,en,A landscape with bright blue grass and a red sky.,Is the grass green?,No
+152,Color,hi,चमकदार नीली घास और लाल आसमान वाला एक परिदृश्य।,Is the grass green?,No
+153,Color,es,Un paisaje con hierba azul brillante y un cielo rojo.,Is the grass green?,No
+154,Color,ar,منظر طبيعي بعشب أزرق لامع وسماء حمراء.,Is the grass green?,No
+155,Color,as,উজ্জ্বল নীলা ঘাঁহ আৰু ৰঙা আকাশ থকা এক দৃশ্য।,Is the grass green?,No
+156,Color,en,A close-up of a blue strawberry.,Is the strawberry red?,No
+157,Color,hi,एक नीले स्ट्रॉबेरी का क्लोज़-अप।,Is the strawberry red?,No
+158,Color,es,Un primer plano de una fresa azul.,Is the strawberry red?,No
+159,Color,ar,لقطة مقربة لفراولة زرقاء.,Is the strawberry red?,No
+160,Color,as,এটা নীলা ষ্ট্ৰবেৰীৰ ক্ল'জ আপ।,Is the strawberry red?,No
+161,Color,en,A zebra with green and yellow stripes.,Is the zebra black and white?,No
+162,Color,hi,हरी और पीली धारियों वाला एक ज़ेबरा।,Is the zebra black and white?,No
+163,Color,es,Una cebra con rayas verdes y amarillas.,Is the zebra black and white?,No
+164,Color,ar,حمار وحشي بخطوط خضراء وصفراء.,Is the zebra black and white?,No
+165,Color,as,সেউজীয়া আৰু হালধীয়া পটি থকা এটা জেব্ৰা।,Is the zebra black and white?,No
+166,Texture,en,A rock covered in soft fur.,Is the rock smooth?,No
+167,Texture,hi,मुलायम फर से ढकी एक चट्टान।,Is the rock smooth?,No
+168,Texture,es,Una roca cubierta de pelaje suave.,Is the rock smooth?,No
+169,Texture,ar,صخرة مغطاة بالفراء الناعم.,Is the rock smooth?,No
+170,Texture,as,কোমল নোমেৰে আবৃত এটা শিল।,Is the rock smooth?,No
+171,Texture,en,A car made entirely of transparent glass.,Is the car made of metal?,No
+172,Texture,hi,पूरी तरह से पारदर्शी कांच से बनी एक कार।,Is the car made of metal?,No
+173,Texture,es,Un coche hecho enteramente de vidrio transparente.,Is the car made of metal?,No
+174,Texture,ar,سيارة مصنوعة بالكامل من الزجاج الشفاف.,Is the car made of metal?,No
+175,Texture,as,সম্পূৰ্ণ স্বচ্ছ কাঁচৰ দ্বাৰা নিৰ্মিত এখন গাড়ী।,Is the car made of metal?,No
+176,Action,en,A person running backwards on a track.,Is the person running forward?,No
+177,Action,hi,ट्रैक पर पीछे की ओर दौड़ता हुआ एक व्यक्ति।,Is the person running forward?,No
+178,Action,es,Una persona corriendo hacia atrás en una pista.,Is the person running forward?,No
+179,Action,ar,شخص يركض للخلف على مضمار.,Is the person running forward?,No
+180,Action,as,ট্ৰেকত পিছফাললৈ দৌৰি থকা এজন ব্যক্তি।,Is the person running forward?,No
+181,Action,en,Water pouring out of a bottle but freezing in mid-air instantly.,Is the water pouring down?,No
+182,Action,hi,बोतल से पानी गिर रहा है लेकिन हवा में ही तुरंत जम रहा है।,Is the water pouring down?,No
+183,Action,es,Agua saliendo de una botella pero congelándose en el aire al instante.,Is the water pouring down?,No
+184,Action,ar,ماء ينسكب من زجاجة لكنه يتجمد في الهواء فوراً.,Is the water pouring down?,No
+185,Action,as,বটলৰ পৰা পানী ওলাইছে কিন্তু লগে লগে বতাহতে গোট মাৰিছে।,Is the water pouring down?,No
+186,Action,en,"A basketball flattened on the ground, not bouncing.",Is the ball bouncing up?,No
+187,Action,hi,"ज़मीन पर चपटी हुई बास्केटबॉल, उछल नहीं रही है।",Is the ball bouncing up?,No
+188,Action,es,"Una pelota de baloncesto aplastada en el suelo, sin rebotar.",Is the ball bouncing up?,No
+189,Action,ar,كرة سلة مسطحة على الأرض، لا ترتد.,Is the ball bouncing up?,No
+190,Action,as,"মাটিত চেপেটা হৈ থকা এটা বাস্কেটবল, বাউন্স হোৱা নাই।",Is the ball bouncing up?,No
+191,Action,en,A wine glass shattering into pieces.,Is the glass broken?,Yes
+192,Action,hi,टुकड़ों में बिखरता हुआ एक वाइन ग्लास।,Is the glass broken?,Yes
+193,Action,es,Una copa de vino haciéndose añicos.,Is the glass broken?,Yes
+194,Action,ar,كأس نبيذ يتحطم إلى قطع.,Is the glass broken?,Yes
+195,Action,as,টুকুৰা টুকুৰকৈ ভাঙি যোৱা এটা ৱাইন গ্লাছ।,Is the glass broken?,Yes
+196,Action,en,A candle with a black wick and no flame.,Is the candle lit?,No
+197,Action,hi,काली बाती वाली एक मोमबत्ती और कोई लौ नहीं।,Is the candle lit?,No
+198,Action,es,Una vela con una mecha negra y sin llama.,Is the candle lit?,No
+199,Action,ar,شمعة بفتيل أسود وبدون لهب.,Is the candle lit?,No
+200,Action,as,কলা শলিতা থকা এডাল মমবাতি আৰু কোনো জুই নাই।,Is the candle lit?,No

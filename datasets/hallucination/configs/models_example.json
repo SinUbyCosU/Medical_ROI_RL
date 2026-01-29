@@ -1,0 +1,8 @@
+[
+  {
+    "name": "openai-gpt-image-1",
+    "gen_model": "gpt-image-1",
+    "vqa_model": "gpt-4o-mini",
+    "size": "1024x1024"
+  }
+]

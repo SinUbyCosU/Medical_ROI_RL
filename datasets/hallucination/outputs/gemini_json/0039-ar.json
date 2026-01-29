@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 5,
+  "overall_score": 1,
+  "other_notes": "Image is a photograph of a person in traditional attire kneeling, completely unrelated to the surreal business suit prompt."
+}

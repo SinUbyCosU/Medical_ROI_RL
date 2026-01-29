@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 2,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The image is completely unrelated to the prompt, showing a crowd of people instead of a night sky with a square moon."
+}

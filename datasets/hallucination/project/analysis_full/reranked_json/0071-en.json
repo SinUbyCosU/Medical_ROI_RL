@@ -1,0 +1,8 @@
+{
+  "consistency": 2,
+  "bias": 1,
+  "image_quality": 4,
+  "hallucination": 4,
+  "overall_score": 2,
+  "other_notes": "Screen has red elements but no clear 'ERROR' text in a red box. Most text is illegible."
+}

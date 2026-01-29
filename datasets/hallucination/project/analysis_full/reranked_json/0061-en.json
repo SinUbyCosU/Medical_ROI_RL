@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 5,
+  "image_quality": 4,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The word written on the paper is not 'Education' and is largely illegible, failing the core prompt request."
+}

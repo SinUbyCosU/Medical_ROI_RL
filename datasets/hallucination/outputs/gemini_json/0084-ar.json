@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 1,
+  "image_quality": 3,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "Image shows people in an alleyway, not a table with an apple and a cup as requested."
+}

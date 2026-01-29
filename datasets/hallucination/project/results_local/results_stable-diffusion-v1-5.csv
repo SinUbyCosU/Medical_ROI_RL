@@ -1,0 +1,201 @@
+id,language,domain,prompt,model,image_path,status
+1,en,Counting,A realistic close-up photo of a human hand showing exactly 6 fingers.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0001-en.png,ok
+2,hi,Counting,एक इंसानी हाथ की यथार्थवादी क्लोज़-अप फोटो जिसमें ठीक 6 उंगलियां दिखाई दे रही हों।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0002-hi.png,ok
+3,es,Counting,Una foto realista de primer plano de una mano humana que muestra exactamente 6 dedos.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0003-es.png,ok
+4,ar,Counting,صورة مقربة واقعية ليد بشرية تظهر 6 أصابع بالضبط.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0004-ar.png,ok
+5,as,Counting,এখন মানুহৰ হাতৰ বাস্তৱধৰ্মী ফটো য'ত ঠিক ৬টা আঙুলি দেখা গৈছে।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0005-as.png,ok
+6,en,Counting,"A human hand waving, but it has only 4 fingers.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0006-en.png,ok
+7,hi,Counting,"एक इंसानी हाथ लहरा रहा है, लेकिन उसमें केवल 4 उंगलियां हैं।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0007-hi.png,ok
+8,es,Counting,"Una mano humana saludando, pero tiene solo 4 dedos.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0008-es.png,ok
+9,ar,Counting,يد بشرية تلوح، لكن لها 4 أصابع فقط.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0009-ar.png,ok
+10,as,Counting,"এখন মানুহৰ হাতে লৰাই আছে, কিন্তু তাত মাত্ৰ ৪টা আঙুলিহে আছে।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0010-as.png,ok
+11,en,Counting,A photo of a mutant cat standing on 5 legs.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0011-en.png,ok
+12,hi,Counting,5 पैरों पर खड़ी एक उत्परिवर्ती (म्यूटेंट) बिल्ली की तस्वीर।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0012-hi.png,ok
+13,es,Counting,Una foto de un gato mutante de pie sobre 5 patas.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0013-es.png,ok
+14,ar,Counting,صورة لقطة متحولة تقف على 5 أرجل.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0014-ar.png,ok
+15,as,Counting,এখন মিউটেণ্ট মেকুৰীৰ ফটো যিটো ৫খন ভৰিত থিয় হৈ আছে।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0015-as.png,ok
+16,en,Counting,A simple wooden table with exactly 3 red apples on it.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0016-en.png,ok
+17,hi,Counting,एक साधारण लकड़ी की मेज जिस पर ठीक 3 लाल सेब रखे हैं।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0017-hi.png,ok
+18,es,Counting,Una mesa de madera sencilla con exactamente 3 manzanas rojas encima.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0018-es.png,ok
+19,ar,Counting,طاولة خشبية بسيطة عليها 3 تفاحات حمراء بالضبط.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0019-ar.png,ok
+20,as,Counting,এখন সাধাৰণ কাঠৰ টেবুল যাৰ ওপৰত ঠিক ৩টা ৰঙা আপেল আছে।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0020-as.png,ok
+21,en,Counting,A macro shot of exactly 2 gold coins lying on black velvet.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0021-en.png,ok
+22,hi,Counting,काले मखमल पर पड़े ठीक 2 सोने के सिक्कों का मैक्रो शॉट।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0022-hi.png,ok
+23,es,Counting,Una toma macro de exactamente 2 monedas de oro sobre terciopelo negro.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0023-es.png,ok
+24,ar,Counting,لقطة ماكرو لعملتين ذهبيتين بالضبط ملقاة على مخمل أسود.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0024-ar.png,ok
+25,as,Counting,কলা ভেলভেটৰ ওপৰত থকা ঠিক ২টা সোণৰ মুদ্ৰাৰ মেক্ৰ’ শ্বট।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Counting/0025-as.png,ok
+26,en,Anatomy,"A realistic spider that is missing a leg, so it has only 7 legs.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0026-en.png,ok
+27,hi,Anatomy,"एक यथार्थवादी मकड़ी जिसका एक पैर गायब है, इसलिए उसके केवल 7 पैर हैं।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0027-hi.png,ok
+28,es,Anatomy,"Una araña realista a la que le falta una pata, por lo que solo tiene 7 patas.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0028-es.png,ok
+29,ar,Anatomy,عنكبوت واقعي يفتقد ساقاً، لذا لديه 7 أرجل فقط.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0029-ar.png,ok
+30,as,Anatomy,"এজনী বাস্তৱধৰ্মী মকৰা যাৰ এখন ভৰি নাই, গতিকে তাৰ মাত্ৰ ৭খন ভৰিহে আছে।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0030-as.png,ok
+31,en,Anatomy,A sketch of a Hindu deity with 3 arms.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0031-en.png,ok
+32,hi,Anatomy,3 भुजाओं वाले एक हिंदू देवता का स्केच।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0032-hi.png,ok
+33,es,Anatomy,Un boceto de una deidad hindú con 3 brazos.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0033-es.png,ok
+34,ar,Anatomy,رسم لإله هندوسي بـ 3 أذرع.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0034-ar.png,ok
+35,as,Anatomy,৩খন হাত থকা এজন হিন্দু দেৱতাৰ স্কেচ।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0035-as.png,ok
+36,en,Anatomy,"A surreal painting of a business suit standing up, but with no head or face visible.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0036-en.png,ok
+37,hi,Anatomy,"एक बिज़नेस सूट की असली पेंटिंग जो खड़ी है, लेकिन कोई सिर या चेहरा दिखाई नहीं दे रहा है।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0037-hi.png,ok
+38,es,Anatomy,"Una pintura surrealista de un traje de negocios de pie, pero sin cabeza ni rostro visible.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0038-es.png,ok
+39,ar,Anatomy,لوحة سريالية لبدلة عمل تقف، ولكن دون رأس أو وجه مرئي.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0039-ar.png,ok
+40,as,Anatomy,"থিয় হৈ থকা এটা ব্যৱসায়িক চুটৰ অতিবাস্তৱ ছবি, কিন্তু কোনো মূৰ বা মুখ দেখা যোৱা নাই।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0040-as.png,ok
+41,en,Anatomy,A white horse with large eagle wings on its back.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0041-en.png,ok
+42,hi,Anatomy,एक सफेद घोड़ा जिसकी पीठ पर बड़े ईगल के पंख हैं।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0042-hi.png,ok
+43,es,Anatomy,Un caballo blanco con grandes alas de águila en la espalda.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0043-es.png,ok
+44,ar,Anatomy,حصان أبيض له أجنحة نسر كبيرة على ظهره.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0044-ar.png,ok
+45,as,Anatomy,এটা বগা ঘোঁৰা যাৰ পিঠিত ঈগলৰ ডাঙৰ পাহি আছে।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0045-as.png,ok
+46,en,Anatomy,Portrait of a beautiful woman with bright green skin.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0046-en.png,ok
+47,hi,Anatomy,चमकदार हरी त्वचा वाली एक खूबसूरत महिला का चित्र।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0047-hi.png,ok
+48,es,Anatomy,Retrato de una hermosa mujer con la piel de color verde brillante.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0048-es.png,ok
+49,ar,Anatomy,صورة لامرأة جميلة ذات بشرة خضراء زاهية.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0049-ar.png,ok
+50,as,Anatomy,উজ্জ্বল সেউজীয়া ছালৰ এগৰাকী সুন্দৰী মহিলাৰ প্ৰতিকৃতি।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Anatomy/0050-as.png,ok
+51,en,Text,A neon sign on a brick wall that says 'HELLO'.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0051-en.png,ok
+52,hi,Text,ईंट की दीवार पर एक नियॉन साइन जिस पर 'HELLO' लिखा है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0052-hi.png,ok
+53,es,Text,Un letrero de neón en una pared de ladrillo que dice 'HELLO'.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0053-es.png,ok
+54,ar,Text,لافتة نيون على جدار من الطوب تقول 'HELLO'.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0054-ar.png,ok
+55,as,Text,ইটাৰ দেৱালত এটা নিয়ন চাইন য'ত 'HELLO' বুলি লিখা আছে।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0055-as.png,ok
+56,en,Text,A soccer player wearing a jersey with the number 7 on it.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0056-en.png,ok
+57,hi,Text,एक सॉकर खिलाड़ी जिसने जर्सी पहनी है जिस पर नंबर 7 लिखा है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0057-hi.png,ok
+58,es,Text,Un jugador de fútbol con una camiseta que tiene el número 7.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0058-es.png,ok
+59,ar,Text,لاعب كرة قدم يرتدي قميصاً عليه الرقم 7.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0059-ar.png,ok
+60,as,Text,এজন ফুটবলাৰ যিয়ে ৭ নম্বৰ লিখা জাৰ্চি পিন্ধি আছে।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0060-as.png,ok
+61,en,Text,A piece of paper with the word 'Education' written in cursive.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0061-en.png,ok
+62,hi,Text,कागज का एक टुकड़ा जिस पर कर्सिव में 'Education' शब्द लिखा है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0062-hi.png,ok
+63,es,Text,Un trozo de papel con la palabra 'Education' escrita en cursiva.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0063-es.png,ok
+64,ar,Text,قطعة من الورق كتب عليها كلمة 'Education' بخط متصل.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0064-ar.png,ok
+65,as,Text,এখন কাগজৰ টুকুৰা য'ত 'Education' শব্দটো পেঁচাই লিখা আছে।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0065-as.png,ok
+66,en,Text,A close up of a gold badge that says 'POLICE'.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0066-en.png,ok
+67,hi,Text,एक सोने के बैज का क्लोज़-अप जिस पर 'POLICE' लिखा है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0067-hi.png,ok
+68,es,Text,Un primer plano de una insignia dorada que dice 'POLICE'.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0068-es.png,ok
+69,ar,Text,لقطة مقربة لشارة ذهبية مكتوب عليها 'POLICE'.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0069-ar.png,ok
+70,as,Text,এটা সোণৰ বেজৰ ক্ল'জ আপ য'ত 'POLICE' বুলি লিখা আছে।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0070-as.png,ok
+71,en,Text,A computer screen displaying a red box with the text 'ERROR'.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0071-en.png,ok
+72,hi,Text,एक कंप्यूटर स्क्रीन जिस पर एक लाल बॉक्स दिखाई दे रहा है जिसमें 'ERROR' लिखा है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0072-hi.png,ok
+73,es,Text,Una pantalla de computadora que muestra un cuadro rojo con el texto 'ERROR'.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0073-es.png,ok
+74,ar,Text,شاشة كمبيوتر تعرض مربعاً أحمر مع نص 'ERROR'.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0074-ar.png,ok
+75,as,Text,এখন কম্পিউটাৰ স্ক্ৰীণ য'ত 'ERROR' লিখা এটা ৰঙা বাকচ দেখা গৈছে।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Text/0075-as.png,ok
+76,en,Spatial,A photo of an empty park bench with absolutely no dogs nearby.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0076-en.png,ok
+77,hi,Spatial,एक खाली पार्क बेंच की तस्वीर जिसके आसपास बिल्कुल कोई कुत्ता नहीं है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0077-hi.png,ok
+78,es,Spatial,Una foto de un banco de parque vacío sin absolutamente ningún perro cerca.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0078-es.png,ok
+79,ar,Spatial,صورة لمقعد حديقة فارغ ولا يوجد أي كلاب قريبة إطلاقاً.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0079-ar.png,ok
+80,as,Spatial,এখন খালী উদ্যানৰ বেঞ্চৰ ফটো যাৰ আশে-পাশে কোনো কুকুৰ নাই।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0080-as.png,ok
+81,en,Spatial,A table with a red apple on the left and a blue cup on the right.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0081-en.png,ok
+82,hi,Spatial,एक मेज जिसके बाईं ओर एक लाल सेब है और दाईं ओर एक नीला कप है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0082-hi.png,ok
+83,es,Spatial,Una mesa con una manzana roja a la izquierda y una taza azul a la derecha.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0083-es.png,ok
+84,ar,Spatial,طاولة عليها تفاحة حمراء على اليسار وكوب أزرق على اليمين.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0084-ar.png,ok
+85,as,Spatial,এখন টেবুল যাৰ বাওঁফালে এটা ৰঙা আপেল আৰু সোঁফালে এটা নীলা কাপ আছে।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0085-as.png,ok
+86,en,Spatial,"A cat sitting next to a cardboard box, not inside it.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0086-en.png,ok
+87,hi,Spatial,"एक गत्ते के डिब्बे के बगल में बैठी बिल्ली, उसके अंदर नहीं।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0087-hi.png,ok
+88,es,Spatial,"Un gato sentado al lado de una caja de cartón, no dentro de ella.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0088-es.png,ok
+89,ar,Spatial,قطة تجلس بجوار صندوق من الورق المقوى، وليست بداخله.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0089-ar.png,ok
+90,as,Spatial,"এটা মেকুৰী কাৰ্ডবৰ্ডৰ বাকচৰ কাষত বহি আছে, তাৰ ভিতৰত নহয়।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0090-as.png,ok
+91,en,Spatial,A clean white dinner plate that has no food on it.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0091-en.png,ok
+92,hi,Spatial,एक साफ सफेद खाने की प्लेट जिस पर कोई खाना नहीं है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0092-hi.png,ok
+93,es,Spatial,Un plato de cena blanco y limpio que no tiene comida.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0093-es.png,ok
+94,ar,Spatial,طبق عشاء أبيض نظيف لا يوجد عليه طعام.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0094-ar.png,ok
+95,as,Spatial,এখন পৰিষ্কাৰ বগা খোৱা প্লেট যাৰ ওপৰত কোনো খাদ্য নাই।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0095-as.png,ok
+96,en,Spatial,A portrait of an old man wearing a hat but no glasses.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0096-en.png,ok
+97,hi,Spatial,"टोपी पहने हुए एक बूढ़े आदमी का चित्र, लेकिन चश्मा नहीं।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0097-hi.png,ok
+98,es,Spatial,Un retrato de un anciano con sombrero pero sin gafas.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0098-es.png,ok
+99,ar,Spatial,صورة لرجل عجوز يرتدي قبعة ولكن بدون نظارة.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0099-ar.png,ok
+100,as,Spatial,টুপি পিন্ধা এজন বৃদ্ধ মানুহৰ প্ৰতিকৃতি কিন্তু চচমা নাই।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Spatial/0100-as.png,ok
+101,en,Impossible,"A goldfish swimming inside a lightbulb filled with air, not water.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0101-en.png,ok
+102,hi,Impossible,एक सुनहरी मछली जो हवा से भरे (पानी से नहीं) लाइटबल्ब के अंदर तैर रही है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0102-hi.png,ok
+103,es,Impossible,"Un pez dorado nadando dentro de una bombilla llena de aire, no de agua.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0103-es.png,ok
+104,ar,Impossible,سمكة ذهبية تسبح داخل مصباح كهربائي مملوء بالهواء وليس الماء.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0104-ar.png,ok
+105,as,Impossible,"এটা গোল্ডফিছ যিটো পানীৰে নহয়, বতাহেৰে ভৰা লাইটবাল্বৰ ভিতৰত সাঁতুৰি আছে।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0105-as.png,ok
+106,en,Impossible,A red car driving on fluffy white clouds in the sky.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0106-en.png,ok
+107,hi,Impossible,आसमान में सफेद बादलों पर चलती हुई एक लाल कार।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0107-hi.png,ok
+108,es,Impossible,Un coche rojo conduciendo sobre nubes blancas y esponjosas en el cielo.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0108-es.png,ok
+109,ar,Impossible,سيارة حمراء تسير على سحب بيضاء رقيقة في السماء.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0109-ar.png,ok
+110,as,Impossible,আকাশত বগা ডাৱৰৰ ওপৰেৰে চলি থকা এখন ৰঙা গাড়ী।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0110-as.png,ok
+111,en,Impossible,A campfire burning brightly underwater on the ocean floor.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0111-en.png,ok
+112,hi,Impossible,समुद्र के तल पर पानी के भीतर एक कैम्प फायर (अलाव) जल रहा है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0112-hi.png,ok
+113,es,Impossible,Una fogata ardiendo brillantemente bajo el agua en el fondo del océano.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0113-es.png,ok
+114,ar,Impossible,نار مخيم تشتعل بشكل مشرق تحت الماء في قاع المحيط.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0114-ar.png,ok
+115,as,Impossible,সাগৰৰ তলত পানীৰ তলত উজ্জ্বলকৈ জ্বলি থকা এক কেম্পফায়াৰ।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0115-as.png,ok
+116,en,Impossible,A city street where the rain is falling upwards towards the sky.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0116-en.png,ok
+117,hi,Impossible,एक शहर की सड़क जहां बारिश आसमान की ओर ऊपर जा रही है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0117-hi.png,ok
+118,es,Impossible,"Una calle de la ciudad donde la lluvia cae hacia arriba, hacia el cielo.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0118-es.png,ok
+119,ar,Impossible,شارع في المدينة حيث يتساقط المطر صعوداً نحو السماء.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0119-ar.png,ok
+120,as,Impossible,এখন চহৰৰ ৰাস্তা য'ত বৰষুণজাক আকাশৰ ফালে ওপৰলৈ গৈ আছে।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0120-as.png,ok
+121,en,Impossible,A night sky with a moon that is shaped like a square.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0121-en.png,ok
+122,hi,Impossible,एक रात का आकाश जिसमें एक चंद्रमा है जो चौकोर आकार का है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0122-hi.png,ok
+123,es,Impossible,Un cielo nocturno con una luna que tiene forma cuadrada.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0123-es.png,ok
+124,ar,Impossible,سماء ليلية بها قمر مربع الشكل.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0124-ar.png,ok
+125,as,Impossible,এখন নিশাৰ আকাশ য'ত জোনটো বৰ্গাকৃতিৰ।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Impossible/0125-as.png,ok
+126,en,Geometry,A photograph of a perfectly triangular window on a building.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0126-en.png,ok
+127,hi,Geometry,इमारत पर एक पूरी तरह से त्रिकोणीय खिड़की की तस्वीर।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0127-hi.png,ok
+128,es,Geometry,Una fotografía de una ventana perfectamente triangular en un edificio.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0128-es.png,ok
+129,ar,Geometry,صورة لنافذة مثلثة تماماً على مبنى.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0129-ar.png,ok
+130,as,Geometry,অট্টালিকা এটাত এখন সম্পূৰ্ণ ত্ৰিভুজাকাৰ খিৰিকীৰ ফটো।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0130-as.png,ok
+131,en,Geometry,Escher-style stairs that go up in an infinite loop.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0131-en.png,ok
+132,hi,Geometry,एस्चर-शैली की सीढ़ियाँ जो एक अनंत लूप में ऊपर जाती हैं।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0132-hi.png,ok
+133,es,Geometry,Escaleras estilo Escher que suben en un bucle infinito.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0133-es.png,ok
+134,ar,Geometry,سلالم على طراز إيشر تصعد في حلقة لا نهائية.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0134-ar.png,ok
+135,as,Geometry,এস্কাৰ-শৈলীৰ চিৰি যিবোৰ এটা অনন্ত লুপত ওপৰলৈ গৈ থাকে।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0135-as.png,ok
+136,en,Geometry,"A man looking in a mirror, but the reflection shows the back of his head.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0136-en.png,ok
+137,hi,Geometry,"एक आदमी आईने में देख रहा है, लेकिन प्रतिबिंब उसके सिर के पिछले हिस्से को दिखाता है।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0137-hi.png,ok
+138,es,Geometry,"Un hombre mirándose en un espejo, pero el reflejo muestra la parte posterior de su cabeza.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0138-es.png,ok
+139,ar,Geometry,رجل ينظر في المرآة، لكن الانعكاس يظهر مؤخرة رأسه.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0139-ar.png,ok
+140,as,Geometry,"এজন মানুহে আইনা চাই আছে, কিন্তু প্ৰতিবিম্বত তেওঁৰ মূৰৰ পিছফালটো দেখা গৈছে।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0140-as.png,ok
+141,en,Geometry,A cube floating in the air casting a shadow that is a circle.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0141-en.png,ok
+142,hi,Geometry,हवा में तैरता हुआ एक घन जिसकी परछाई एक वृत्त (गोला) है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0142-hi.png,ok
+143,es,Geometry,Un cubo flotando en el aire proyectando una sombra que es un círculo.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0143-es.png,ok
+144,ar,Geometry,مكعب يطفو في الهواء يلقي ظلاً عبارة عن دائرة.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0144-ar.png,ok
+145,as,Geometry,বতাহত ভাঁহি থকা এটা ঘনক যাৰ ছাঁটো এটা বৃত্ত।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0145-as.png,ok
+146,en,Geometry,A landscape photo where the horizon line is vertical instead of horizontal.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0146-en.png,ok
+147,hi,Geometry,एक परिदृश्य तस्वीर जहां क्षितिज रेखा क्षैतिज के बजाय ऊर्ध्वाधर (खड़ी) है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0147-hi.png,ok
+148,es,Geometry,Una foto de paisaje donde la línea del horizonte es vertical en lugar de horizontal.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0148-es.png,ok
+149,ar,Geometry,صورة منظر طبيعي حيث خط الأفق عمودي بدلاً من أفقي.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0149-ar.png,ok
+150,as,Geometry,এখন প্ৰাকৃতিক দৃশ্যৰ ফটো য'ত দিগন্ত ৰেখা অনুভূমিক হোৱাৰ পৰিৱৰ্তে উলম্ব।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Geometry/0150-as.png,ok
+151,en,Color,A landscape with bright blue grass and a red sky.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0151-en.png,ok
+152,hi,Color,चमकदार नीली घास और लाल आसमान वाला एक परिदृश्य।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0152-hi.png,ok
+153,es,Color,Un paisaje con hierba azul brillante y un cielo rojo.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0153-es.png,ok
+154,ar,Color,منظر طبيعي بعشب أزرق لامع وسماء حمراء.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0154-ar.png,ok
+155,as,Color,উজ্জ্বল নীলা ঘাঁহ আৰু ৰঙা আকাশ থকা এক দৃশ্য।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0155-as.png,ok
+156,en,Color,A close-up of a blue strawberry.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0156-en.png,ok
+157,hi,Color,एक नीले स्ट्रॉबेरी का क्लोज़-अप।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0157-hi.png,ok
+158,es,Color,Un primer plano de una fresa azul.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0158-es.png,ok
+159,ar,Color,لقطة مقربة لفراولة زرقاء.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0159-ar.png,ok
+160,as,Color,এটা নীলা ষ্ট্ৰবেৰীৰ ক্ল'জ আপ।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0160-as.png,ok
+161,en,Color,A zebra with green and yellow stripes.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0161-en.png,ok
+162,hi,Color,हरी और पीली धारियों वाला एक ज़ेबरा।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0162-hi.png,ok
+163,es,Color,Una cebra con rayas verdes y amarillas.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0163-es.png,ok
+164,ar,Color,حمار وحشي بخطوط خضراء وصفراء.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0164-ar.png,ok
+165,as,Color,সেউজীয়া আৰু হালধীয়া পটি থকা এটা জেব্ৰা।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Color/0165-as.png,ok
+166,en,Texture,A rock covered in soft fur.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Texture/0166-en.png,ok
+167,hi,Texture,मुलायम फर से ढकी एक चट्टान।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Texture/0167-hi.png,ok
+168,es,Texture,Una roca cubierta de pelaje suave.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Texture/0168-es.png,ok
+169,ar,Texture,صخرة مغطاة بالفراء الناعم.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Texture/0169-ar.png,ok
+170,as,Texture,কোমল নোমেৰে আবৃত এটা শিল।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Texture/0170-as.png,ok
+171,en,Texture,A car made entirely of transparent glass.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Texture/0171-en.png,ok
+172,hi,Texture,पूरी तरह से पारदर्शी कांच से बनी एक कार।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Texture/0172-hi.png,ok
+173,es,Texture,Un coche hecho enteramente de vidrio transparente.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Texture/0173-es.png,ok
+174,ar,Texture,سيارة مصنوعة بالكامل من الزجاج الشفاف.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Texture/0174-ar.png,ok
+175,as,Texture,সম্পূৰ্ণ স্বচ্ছ কাঁচৰ দ্বাৰা নিৰ্মিত এখন গাড়ী।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Texture/0175-as.png,ok
+176,en,Action,A person running backwards on a track.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0176-en.png,ok
+177,hi,Action,ट्रैक पर पीछे की ओर दौड़ता हुआ एक व्यक्ति।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0177-hi.png,ok
+178,es,Action,Una persona corriendo hacia atrás en una pista.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0178-es.png,ok
+179,ar,Action,شخص يركض للخلف على مضمار.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0179-ar.png,ok
+180,as,Action,ট্ৰেকত পিছফাললৈ দৌৰি থকা এজন ব্যক্তি।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0180-as.png,ok
+181,en,Action,Water pouring out of a bottle but freezing in mid-air instantly.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0181-en.png,ok
+182,hi,Action,बोतल से पानी गिर रहा है लेकिन हवा में ही तुरंत जम रहा है।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0182-hi.png,ok
+183,es,Action,Agua saliendo de una botella pero congelándose en el aire al instante.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0183-es.png,ok
+184,ar,Action,ماء ينسكب من زجاجة لكنه يتجمد في الهواء فوراً.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0184-ar.png,ok
+185,as,Action,বটলৰ পৰা পানী ওলাইছে কিন্তু লগে লগে বতাহতে গোট মাৰিছে।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0185-as.png,ok
+186,en,Action,"A basketball flattened on the ground, not bouncing.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0186-en.png,ok
+187,hi,Action,"ज़मीन पर चपटी हुई बास्केटबॉल, उछल नहीं रही है।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0187-hi.png,ok
+188,es,Action,"Una pelota de baloncesto aplastada en el suelo, sin rebotar.",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0188-es.png,ok
+189,ar,Action,كرة سلة مسطحة على الأرض، لا ترتد.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0189-ar.png,ok
+190,as,Action,"মাটিত চেপেটা হৈ থকা এটা বাস্কেটবল, বাউন্স হোৱা নাই।",stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0190-as.png,ok
+191,en,Action,A wine glass shattering into pieces.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0191-en.png,ok
+192,hi,Action,टुकड़ों में बिखरता हुआ एक वाइन ग्लास।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0192-hi.png,ok
+193,es,Action,Una copa de vino haciéndose añicos.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0193-es.png,ok
+194,ar,Action,كأس نبيذ يتحطم إلى قطع.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0194-ar.png,ok
+195,as,Action,টুকুৰা টুকুৰকৈ ভাঙি যোৱা এটা ৱাইন গ্লাছ।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0195-as.png,ok
+196,en,Action,A candle with a black wick and no flame.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0196-en.png,ok
+197,hi,Action,काली बाती वाली एक मोमबत्ती और कोई लौ नहीं।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0197-hi.png,ok
+198,es,Action,Una vela con una mecha negra y sin llama.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0198-es.png,ok
+199,ar,Action,شمعة بفتيل أسود وبدون لهب.,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0199-ar.png,ok
+200,as,Action,কলা শলিতা থকা এডাল মমবাতি আৰু কোনো জুই নাই।,stable-diffusion-v1-5,outputs_local/stable-diffusion-v1-5/Action/0200-as.png,ok

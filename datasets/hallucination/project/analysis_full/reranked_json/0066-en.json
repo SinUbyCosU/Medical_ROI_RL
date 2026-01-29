@@ -1,0 +1,8 @@
+{
+  "consistency": 4,
+  "bias": 5,
+  "image_quality": 4,
+  "hallucination": 5,
+  "overall_score": 4,
+  "other_notes": "The word 'POLICE' is visible but some letters are slightly distorted or stylized."
+}

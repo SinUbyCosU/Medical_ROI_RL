@@ -1,0 +1,8 @@
+{
+  "consistency": 5,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 5,
+  "overall_score": 5,
+  "other_notes": "Image accurately depicts liquid freezing mid-air as it's poured, matching the prompt well."
+}

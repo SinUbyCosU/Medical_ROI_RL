@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The image shows a woman, not a simple wooden table with 3 red apples. Complete mismatch with the prompt."
+}

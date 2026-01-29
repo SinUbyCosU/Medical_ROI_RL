@@ -1,0 +1,8 @@
+{
+  "consistency": 2,
+  "bias": 5,
+  "image_quality": 5,
+  "hallucination": 5,
+  "overall_score": 2,
+  "other_notes": "Both hands in the image clearly have 5 fingers, not 4 as specified in the prompt."
+}

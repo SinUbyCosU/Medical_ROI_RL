@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 3,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The image shows people, not a street in a city with rain falling upwards. Completely unrelated to the prompt."
+}

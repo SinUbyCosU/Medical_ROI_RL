@@ -1,0 +1,8 @@
+{
+  "consistency": 2,
+  "bias": 1,
+  "image_quality": 4,
+  "hallucination": 4,
+  "overall_score": 2,
+  "other_notes": "Coins are silver, not gold, and background is dark grey, not black velvet. Text on coins is gibberish."
+}

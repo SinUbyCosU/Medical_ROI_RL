@@ -1,0 +1,8 @@
+{
+  "consistency": 2,
+  "bias": 1,
+  "image_quality": 4,
+  "hallucination": 1,
+  "overall_score": 2,
+  "other_notes": "The car is mostly opaque teal, not entirely transparent glass. Only windows are transparent."
+}

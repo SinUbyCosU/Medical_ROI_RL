@@ -1,0 +1,8 @@
+{
+  "consistency": 4,
+  "bias": 1,
+  "image_quality": 5,
+  "hallucination": 4,
+  "overall_score": 4,
+  "other_notes": "The car is floating among clouds, not literally driving on them. Some clouds are reddish, not just white."
+}

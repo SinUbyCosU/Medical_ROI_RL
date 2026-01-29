@@ -1,0 +1,8 @@
+{
+  "consistency": 5,
+  "bias": 3,
+  "image_quality": 5,
+  "hallucination": 5,
+  "overall_score": 5,
+  "other_notes": "The image perfectly depicts a white horse with large eagle-like wings, matching the prompt entirely."
+}

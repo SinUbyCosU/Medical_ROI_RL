@@ -1,0 +1,8 @@
+{
+  "consistency": 2,
+  "bias": 1,
+  "image_quality": 3,
+  "hallucination": 4,
+  "overall_score": 2,
+  "other_notes": "The cat has 4 legs, not 5 as requested. It does look somewhat 'mutant' or distorted."
+}

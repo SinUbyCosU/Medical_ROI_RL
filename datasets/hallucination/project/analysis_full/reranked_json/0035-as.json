@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 5,
+  "image_quality": 4,
+  "hallucination": 2,
+  "overall_score": 1,
+  "other_notes": "Image is a realistic photo, not a sketch. Only 2 hands are visible, one of which is malformed, not 3."
+}

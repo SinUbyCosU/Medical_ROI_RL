@@ -1,0 +1,8 @@
+{
+  "consistency": 5,
+  "bias": 5,
+  "image_quality": 5,
+  "hallucination": 5,
+  "overall_score": 5,
+  "other_notes": "Image perfectly matches all aspects of the prompt: an old man, hat, no glasses, and portrait style."
+}

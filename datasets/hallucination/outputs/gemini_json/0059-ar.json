@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 5,
+  "image_quality": 2,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "No player wears jersey number 7; one player wears 0. Faces are distorted and text is garbled."
+}

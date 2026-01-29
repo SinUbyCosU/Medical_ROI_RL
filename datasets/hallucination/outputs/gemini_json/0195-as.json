@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 1,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The image shows a crowd of people, not a breaking wine glass as requested. Image quality is very poor with distorted faces."
+}

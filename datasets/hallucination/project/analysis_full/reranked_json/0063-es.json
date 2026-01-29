@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 1,
+  "image_quality": 4,
+  "hallucination": 5,
+  "overall_score": 1,
+  "other_notes": "The image shows gibberish text on a dark background, not the word 'Education' in cursive on a piece of paper."
+}

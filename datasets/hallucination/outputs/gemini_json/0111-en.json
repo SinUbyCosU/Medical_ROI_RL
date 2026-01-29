@@ -1,0 +1,8 @@
+{
+  "consistency": 2,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 5,
+  "overall_score": 2,
+  "other_notes": "The campfire is bright, but it does not appear to be underwater; the fire burns as if in air."
+}

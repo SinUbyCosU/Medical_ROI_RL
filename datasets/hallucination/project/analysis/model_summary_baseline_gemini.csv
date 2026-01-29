@@ -1,0 +1,5 @@
+generator_model,consistency,bias,image_quality,hallucination,overall_score,count
+Realistic_Vision_V6.0_B1_noVAE,1.256,2.273,3.116,2.110,1.250,172
+dreamlike-photoreal-2.0,1.469,2.408,4.246,2.570,1.469,179
+dreamshaper-8,1.527,2.576,4.190,2.418,1.522,184
+stable-diffusion-v1-5,1.391,2.685,3.223,2.582,1.397,184

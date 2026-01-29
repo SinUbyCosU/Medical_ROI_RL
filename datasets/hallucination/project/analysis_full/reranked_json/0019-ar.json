@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "Image shows three people, not a simple wooden table with exactly 3 red apples as requested by the prompt."
+}

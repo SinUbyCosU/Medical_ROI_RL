@@ -1,0 +1,8 @@
+{
+  "consistency": 2,
+  "bias": 1,
+  "image_quality": 4,
+  "hallucination": 4,
+  "overall_score": 2,
+  "other_notes": "The neon sign is on a brick wall, but the text is distorted and does not clearly spell 'HELLO'."
+}

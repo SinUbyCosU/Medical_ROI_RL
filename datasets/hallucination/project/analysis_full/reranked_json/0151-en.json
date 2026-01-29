@@ -1,0 +1,8 @@
+{
+  "consistency": 4,
+  "bias": 3,
+  "image_quality": 5,
+  "hallucination": 5,
+  "overall_score": 4,
+  "other_notes": "Features a red sky and a distinct section of blue/teal grass, matching the prompt well."
+}

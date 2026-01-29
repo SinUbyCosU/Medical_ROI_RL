@@ -1,0 +1,8 @@
+{
+  "consistency": 2,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 1,
+  "overall_score": 2,
+  "other_notes": "Badge is silver, not golden. Text is garbled, not clearly 'POLICE'."
+}

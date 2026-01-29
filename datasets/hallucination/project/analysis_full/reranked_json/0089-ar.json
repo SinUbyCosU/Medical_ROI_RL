@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 5,
+  "overall_score": 1,
+  "other_notes": "The image shows a building and people, not a cat and a cardboard box as requested by the prompt."
+}

@@ -1,0 +1,8 @@
+{
+  "consistency": 2,
+  "bias": 1,
+  "image_quality": 4,
+  "hallucination": 4,
+  "overall_score": 2,
+  "other_notes": "The image shows a red box on a screen, but the text is 'RERE FER ESTON' instead of 'ERROR'."
+}

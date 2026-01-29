@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 3,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "Image shows women eating, not a waving hand with 4 fingers. The prompt's core elements are completely missing."
+}

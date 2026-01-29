@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 3,
+  "hallucination": 5,
+  "overall_score": 1,
+  "other_notes": "The image shows two people, not a macro shot of gold coins on black velvet as requested by the prompt."
+}

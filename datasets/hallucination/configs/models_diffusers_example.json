@@ -1,0 +1,12 @@
+[
+  {"model_id": "runwayml/stable-diffusion-v1-5", "num_inference_steps": 30, "guidance_scale": 7.5},
+  {"model_id": "stabilityai/stable-diffusion-2-1", "num_inference_steps": 30, "guidance_scale": 7.5},
+  {"model_id": "stabilityai/sdxl-turbo", "num_inference_steps": 25, "guidance_scale": 0.0},
+  {"model_id": "stabilityai/sd-turbo", "num_inference_steps": 25, "guidance_scale": 0.0},
+  {"model_id": "segmind/segmind-v2", "num_inference_steps": 30, "guidance_scale": 7.5},
+  {"model_id": "prompthero/openjourney-v4", "num_inference_steps": 30, "guidance_scale": 7.5},
+  {"model_id": "wavymulder/Analog-Diffusion", "num_inference_steps": 30, "guidance_scale": 7.5},
+  {"model_id": "nitrosocke/Ghibli-Diffusion", "num_inference_steps": 30, "guidance_scale": 7.5},
+  {"model_id": "Lykon/dreamshaper-8", "num_inference_steps": 30, "guidance_scale": 7.5},
+  {"model_id": "stabilityai/stable-diffusion-xl-base-1.0", "num_inference_steps": 35, "guidance_scale": 7.0}
+]

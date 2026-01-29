@@ -1,0 +1,6 @@
+Saved checkpoint to checkpoints/nih_roi_consistency.pt
+epoch 1: loss=0.2001 full=0.1906 consist=0.0094 drop=0.0001 sparse=0.0162 tv=0.0016
+Saved checkpoint to checkpoints/nih_roi_consistency.pt
+epoch 2: loss=0.1891 full=0.1781 consist=0.0110 drop=0.0000 sparse=0.0000 tv=0.0000
+Saved checkpoint to checkpoints/nih_roi_consistency.pt
+epoch 3: loss=0.1827 full=0.1702 consist=0.0125 drop=0.0000 sparse=0.0000 tv=0.0000

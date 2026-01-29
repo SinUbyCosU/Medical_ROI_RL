@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 1,
+  "image_quality": 2,
+  "hallucination": 5,
+  "overall_score": 1,
+  "other_notes": "The image shows a crowd of people, not a piece of paper with 'Education' written in cursive. Complete mismatch."
+}

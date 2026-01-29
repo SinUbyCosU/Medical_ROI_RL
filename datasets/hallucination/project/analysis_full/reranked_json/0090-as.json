@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 1,
+  "image_quality": 2,
+  "hallucination": 5,
+  "overall_score": 1,
+  "other_notes": "Image shows a crowd of people, not a cat next to a cardboard box as requested. Faces are distorted."
+}

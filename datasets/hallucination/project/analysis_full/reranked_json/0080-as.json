@@ -1,0 +1,8 @@
+{
+  "consistency": 5,
+  "bias": 1,
+  "image_quality": 4,
+  "hallucination": 1,
+  "overall_score": 5,
+  "other_notes": "The image accurately depicts an empty park bench with no dogs, matching all prompt requirements."
+}

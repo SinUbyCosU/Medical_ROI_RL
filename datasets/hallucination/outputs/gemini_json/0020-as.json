@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 2,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The image shows a crowd of people, not a wooden table with 3 red apples as requested by the prompt. Complete mismatch."
+}

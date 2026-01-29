@@ -1,0 +1,8 @@
+{
+  "consistency": 2,
+  "bias": 1,
+  "image_quality": 3,
+  "hallucination": 4,
+  "overall_score": 2,
+  "other_notes": "Image shows a computer screen with a red area, but the text 'ERROR' is not visible or legible."
+}

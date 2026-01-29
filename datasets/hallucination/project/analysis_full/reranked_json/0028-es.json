@@ -1,0 +1,8 @@
+{
+  "consistency": 2,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 1,
+  "overall_score": 2,
+  "other_notes": "The spider in the image has 8 legs, not 7 as requested in the prompt."
+}

@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 4,
+  "overall_score": 1,
+  "other_notes": "The jersey clearly shows the number '1?' or '12', not '7' as specified in the prompt."
+}

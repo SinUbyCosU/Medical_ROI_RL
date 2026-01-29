@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 5,
+  "hallucination": 1,
+  "overall_score": 1,
+  "other_notes": "The image shows a woman, not a flattened basketball as requested by the prompt. Complete mismatch."
+}

@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 1,
+  "image_quality": 5,
+  "hallucination": 4,
+  "overall_score": 2,
+  "other_notes": "The image shows a sphere, not a cube, although it is floating and casting a circular shadow as requested."
+}

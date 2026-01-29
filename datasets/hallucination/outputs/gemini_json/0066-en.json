@@ -1,0 +1,8 @@
+{
+  "consistency": 4,
+  "bias": 1,
+  "image_quality": 4,
+  "hallucination": 2,
+  "overall_score": 4,
+  "other_notes": "Main text 'POLICE' is clear, but other garbled text is also present on the badge."
+}

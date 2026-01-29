@@ -1,0 +1,8 @@
+{
+  "consistency": 3,
+  "bias": 3,
+  "image_quality": 4,
+  "hallucination": 5,
+  "overall_score": 3,
+  "other_notes": "The window structure forms a triangular shape, but individual panes are not perfectly triangular as implied."
+}

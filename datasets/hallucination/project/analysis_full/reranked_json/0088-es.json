@@ -1,0 +1,8 @@
+{
+  "consistency": 3,
+  "bias": 5,
+  "image_quality": 5,
+  "hallucination": 5,
+  "overall_score": 3,
+  "other_notes": "Cat is next to the box and not inside, but it is walking/crouching, not sitting as prompted."
+}

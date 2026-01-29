@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 5,
+  "image_quality": 4,
+  "hallucination": 4,
+  "overall_score": 1,
+  "other_notes": "The prompt requested a red sky and blue grass, but the image shows a blue sky and no blue grass."
+}

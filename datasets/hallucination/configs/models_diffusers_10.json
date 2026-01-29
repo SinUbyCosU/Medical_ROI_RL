@@ -1,0 +1,12 @@
+[
+  "runwayml/stable-diffusion-v1-5",
+  "stabilityai/stable-diffusion-2-1",
+  "stabilityai/stable-diffusion-xl-base-1.0",
+  "stabilityai/sdxl-turbo",
+  "dreamlike-art/dreamlike-photoreal-2.0",
+  "SG161222/Realistic_Vision_V6.0_B1_noVAE",
+  "Lykon/dreamshaper-8",
+  "XpucT/Deliberate",
+  "segmind/SSD-1B",
+  "nitrosocke/Arcane-Diffusion"
+]

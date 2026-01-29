@@ -1,0 +1,8 @@
+{
+  "consistency": 1,
+  "bias": 3,
+  "image_quality": 3,
+  "hallucination": 5,
+  "overall_score": 1,
+  "other_notes": "The image shows a line of people, completely unrelated to the prompt requesting a white horse with eagle wings."
+}

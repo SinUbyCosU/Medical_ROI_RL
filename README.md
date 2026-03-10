@@ -173,7 +173,7 @@ Contributions are welcome! Please open an issue or pull request for:
 - Additional steering methods
 - Model architecture improvements
 
-## 📧 Contact
+##  Contact
 
 For questions and collaborations, please open an issue on GitHub.
 

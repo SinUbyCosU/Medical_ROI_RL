@@ -64,7 +64,7 @@ Official CheXpert test set with ground truth labels and radiologist annotations.
 - `probes_364.json`: Evaluation probes
 - `probes_unique.json`: Deduplicated probe set
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 

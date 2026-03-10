@@ -161,7 +161,7 @@ If you use this code in your research, please cite:
 }
 ```
 
-## 📄 License
+##  License
 
 This project is released for research purposes. Please ensure compliance with medical data regulations and institutional review board (IRB) requirements when using this code with clinical data.
 

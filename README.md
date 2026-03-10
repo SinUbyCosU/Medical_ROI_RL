@@ -165,7 +165,7 @@ If you use this code in your research, please cite:
 
 This project is released for research purposes. Please ensure compliance with medical data regulations and institutional review board (IRB) requirements when using this code with clinical data.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please open an issue or pull request for:
 - Bug fixes

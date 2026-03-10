@@ -177,7 +177,7 @@ Contributions are welcome! Please open an issue or pull request for:
 
 For questions and collaborations, please open an issue on GitHub.
 
-## 🔗 Datasets & Resources
+##  Datasets & Resources
 
 - **CheXpert Dataset**: [https://stanfordmlgroup.github.io/competitions/chexpert/](https://stanfordmlgroup.github.io/competitions/chexpert/)
 - **NIH Chest X-rays**: [https://nihcc.app.box.com/v/ChestXray-NIHCC](https://nihcc.app.box.com/v/ChestXray-NIHCC)

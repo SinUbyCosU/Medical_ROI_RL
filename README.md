@@ -10,7 +10,7 @@ This repository contains research implementations for training and evaluating me
 2. **Bias Detection & Mitigation**: Systematic identification and correction of demographic biases in model outputs
 3. **Benchmarking & Validation**: Rigorous evaluation on CheXpert and NIH Chest X-ray datasets
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ### VLM-MED/
 Vision-Language Model for Medical imaging with ROI consistency training.

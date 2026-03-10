@@ -2,7 +2,7 @@
 
 A research project focused on developing trustworthy and interpretable deep learning models for medical imaging. This work addresses critical challenges in AI safety for healthcare applications through ROI-based faithfulness constraints and comprehensive bias detection and mitigation.
 
-## 🔬 Project Overview
+##  Project Overview
 
 This repository contains research implementations for training and evaluating medical imaging models with built-in interpretability and fairness guarantees. The work addresses three key areas:
 

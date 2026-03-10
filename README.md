@@ -126,7 +126,7 @@ python infer_roi_consistency.py \
   --save_crop output/roi_crop.png
 ```
 
-## 📊 Key Components
+##  Key Components
 
 ### ROI Consistency Training
 The model learns to:

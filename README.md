@@ -148,7 +148,7 @@ A systematic approach to ensuring fairness in medical AI:
 
 The pipeline supports multiple evaluation frameworks including quality scoring, safety assessment, and demographic parity analysis.
 
-## 📝 Citation
+##  Citation
 
 If you use this code in your research, please cite:
 
